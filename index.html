@@ -6,17 +6,20 @@
   <title>Easy Footings | Concrete-Free Footing Systems Australia</title>
   <meta name="description" content="Easy Footings provides concrete-free foundations — RapidStump, StumpRite, SurePile from BMSA Footing Solutions. Build immediately, no concrete, no delays." />
   <link rel="canonical" href="https://easyfootings.com.au" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
       theme: {
         extend: {
           colors: {
-            dark: '#111827',
-            accent: '#f97316',
-            eco: '#10b981',
-            light: '#f8fafc',
-            border: '#e5e7eb',
+            'ef-orange': '#E8983E',
+            'ef-green': '#1B3A2D',
+            'ef-cream': '#F5EDDA',
+            'ef-light': '#F9F6EF',
+            'ef-dark': '#111827',
           },
           fontFamily: {
             sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
@@ -26,383 +29,420 @@
     }
   </script>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
-    .fade-up { opacity: 0; transform: translateY(40px); transition: opacity 0.8s ease, transform 0.8s ease; }
-    .fade-up.visible { opacity: 1; transform: translateY(0); }
-    .hover-scale { transition: transform 0.3s ease, box-shadow 0.3s ease; }
-    .hover-scale:hover { transform: scale(1.03); box-shadow: 0 20px 40px rgba(0,0,0,0.12); }
     html { scroll-behavior: smooth; }
+    .fade-up { opacity: 0; transform: translateY(30px); transition: opacity 0.7s ease, transform 0.7s ease; }
+    .fade-up.visible { opacity: 1; transform: translateY(0); }
+
+    /* Scrolling ticker */
+    .ticker-track {
+      display: flex;
+      animation: ticker 20s linear infinite;
+      width: max-content;
+    }
+    @keyframes ticker {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+
+    /* Circular text badge */
+    .circular-badge {
+      width: 160px;
+      height: 160px;
+      position: relative;
+    }
+    .circular-badge svg {
+      animation: spin-slow 12s linear infinite;
+    }
+    @keyframes spin-slow {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
   </style>
 </head>
-<body class="bg-white text-dark font-sans antialiased">
+<body class="bg-white text-ef-dark font-sans antialiased">
 
-  <!-- ========== FIXED NAVBAR ========== -->
-  <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 bg-dark/95 backdrop-blur-sm border-b border-white/10 transition-all duration-300">
+  <!-- ========== NAVBAR ========== -->
+  <nav id="navbar" class="sticky top-0 z-50 bg-white border-b border-gray-200">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between h-16 lg:h-20">
-        <a href="#hero" class="text-white font-black text-xl lg:text-2xl tracking-tight">
-          EASY <span class="text-accent">FOOTINGS</span>
-        </a>
-        <div class="hidden lg:flex items-center gap-8">
-          <a href="#hero" class="text-white/80 hover:text-accent text-sm font-semibold uppercase tracking-wider transition-colors">Home</a>
-          <a href="#solutions" class="text-white/80 hover:text-accent text-sm font-semibold uppercase tracking-wider transition-colors">Products</a>
-          <a href="#how-it-works" class="text-white/80 hover:text-accent text-sm font-semibold uppercase tracking-wider transition-colors">How It Works</a>
-          <a href="#benefits" class="text-white/80 hover:text-accent text-sm font-semibold uppercase tracking-wider transition-colors">Benefits</a>
-          <a href="#contact" class="text-white/80 hover:text-accent text-sm font-semibold uppercase tracking-wider transition-colors">Contact</a>
-          <a href="mailto:office@easyfootings.com.au" class="bg-accent hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-lg text-sm uppercase tracking-wider transition-all hover:scale-105">
-            Email Us
-          </a>
-        </div>
-        <button id="mobile-toggle" class="lg:hidden text-white p-2" aria-label="Toggle menu">
+      <div class="flex items-center justify-between h-16">
+        <!-- Mobile menu button -->
+        <button id="mobile-toggle" class="lg:hidden p-2 text-ef-dark" aria-label="Toggle menu">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
         </button>
+
+        <!-- Logo centered -->
+        <a href="#" class="absolute left-1/2 -translate-x-1/2 text-ef-dark font-semibold text-xl tracking-wide">
+          Easy Footings
+        </a>
+
+        <!-- Right icons -->
+        <div class="flex items-center gap-4 ml-auto">
+          <a href="#contact" class="text-ef-dark hover:text-ef-orange transition-colors" aria-label="Search">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          </a>
+          <a href="#contact" class="text-ef-dark hover:text-ef-orange transition-colors" aria-label="Cart">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"/></svg>
+          </a>
+        </div>
       </div>
     </div>
     <!-- Mobile Menu -->
-    <div id="mobile-menu" class="lg:hidden hidden bg-dark border-t border-white/10">
+    <div id="mobile-menu" class="lg:hidden hidden bg-white border-t border-gray-100">
       <div class="px-4 py-6 space-y-4">
-        <a href="#hero" class="block text-white/80 hover:text-accent font-semibold uppercase tracking-wider text-sm">Home</a>
-        <a href="#solutions" class="block text-white/80 hover:text-accent font-semibold uppercase tracking-wider text-sm">Products</a>
-        <a href="#how-it-works" class="block text-white/80 hover:text-accent font-semibold uppercase tracking-wider text-sm">How It Works</a>
-        <a href="#benefits" class="block text-white/80 hover:text-accent font-semibold uppercase tracking-wider text-sm">Benefits</a>
-        <a href="#contact" class="block text-white/80 hover:text-accent font-semibold uppercase tracking-wider text-sm">Contact</a>
-        <a href="mailto:office@easyfootings.com.au" class="inline-block bg-accent hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-lg text-sm uppercase tracking-wider transition-all mt-2">
-          Email Us
-        </a>
+        <a href="#" class="block text-ef-dark hover:text-ef-orange font-medium">Home</a>
+        <a href="#services" class="block text-ef-dark hover:text-ef-orange font-medium">Services</a>
+        <a href="#products" class="block text-ef-dark hover:text-ef-orange font-medium">Products</a>
+        <a href="#contact" class="block text-ef-dark hover:text-ef-orange font-medium">Contact</a>
+      </div>
+    </div>
+    <!-- Desktop nav links -->
+    <div class="hidden lg:block border-t border-gray-100">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-center gap-10 h-12">
+          <a href="#" class="text-ef-dark hover:text-ef-orange text-sm font-medium transition-colors">Home</a>
+          <a href="#services" class="text-ef-dark hover:text-ef-orange text-sm font-medium transition-colors">Services</a>
+          <a href="#products" class="text-ef-dark hover:text-ef-orange text-sm font-medium transition-colors">Products</a>
+          <a href="#contact" class="text-ef-dark hover:text-ef-orange text-sm font-medium transition-colors">Contact</a>
+        </div>
       </div>
     </div>
   </nav>
 
-  <!-- ========== HERO ========== -->
-  <section id="hero" class="relative min-h-screen flex items-center justify-center overflow-hidden">
-    <div class="absolute inset-0">
-      <!-- Real image from BMSA Footing Solutions -->
-      <img src="https://bmsaanchoring.com.au/wp-content/uploads/2023/12/process-7-768x1024.jpg" alt="Steel footing system being installed on a construction site" class="w-full h-full object-cover" />
-      <div class="absolute inset-0 bg-dark/75"></div>
-    </div>
-    <div class="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 text-center pt-20">
-      <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black text-white uppercase leading-[0.95] tracking-tight mb-6">
-        Build Immediately.<br />
-        <span class="text-accent">No Concrete.</span><br />
-        No Delays.
-      </h1>
-      <p class="text-lg sm:text-xl md:text-2xl text-white/80 max-w-2xl mx-auto mb-10 font-medium leading-relaxed">
-        3x faster installation. Zero concrete. 100% weather resistant. Engineer certified footing systems that let you build the moment they're in the ground.
+  <!-- ========== HERO SECTION ========== -->
+  <section id="hero" class="relative bg-ef-orange overflow-hidden">
+    <div class="max-w-4xl mx-auto px-6 py-24 sm:py-32 lg:py-40 text-center">
+      <p class="text-sm sm:text-base font-semibold tracking-[0.25em] uppercase text-white/80 mb-6">
+        RapidStump, StumpRite, SurePile
       </p>
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
-        <a href="mailto:office@easyfootings.com.au" class="w-full sm:w-auto bg-accent hover:bg-orange-600 text-white font-black px-10 py-5 rounded-lg text-lg uppercase tracking-wider transition-all hover:scale-105 shadow-2xl shadow-accent/30">
-          Email Us Today
-        </a>
-        <a href="#solutions" class="w-full sm:w-auto bg-eco hover:bg-emerald-600 text-white font-bold px-10 py-5 rounded-lg text-lg uppercase tracking-wider transition-all hover:scale-105">
-          Explore the Systems
-        </a>
-      </div>
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-medium text-white leading-tight mb-8">
+        Build immediately, no waiting.
+      </h1>
+      <p class="text-lg sm:text-xl text-white/85 max-w-2xl mx-auto leading-relaxed">
+        Easy Footings provides concrete-free foundations that allow you to start building the moment installation is complete. Say goodbye to weather delays and curing times.
+      </p>
     </div>
-    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-      <svg class="w-8 h-8 text-white/60" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>
-    </div>
-  </section>
 
-  <!-- ========== THE TRADITIONAL PROBLEM ========== -->
-  <section class="py-20 lg:py-32 bg-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="fade-up text-center mb-16">
-        <p class="text-accent font-bold uppercase tracking-widest text-sm mb-4">The Problem</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-dark leading-tight">
-          Concrete Footings Are<br /><span class="text-accent">Holding You Back</span>
-        </h2>
-      </div>
-      <div class="grid md:grid-cols-2 gap-12 lg:gap-16 items-center">
-        <div class="fade-up">
-          <!-- Real image from BMSA Footing Solutions -->
-          <img src="https://bmsaanchoring.com.au/wp-content/uploads/2024/05/BMSA-RapidStump-CB2.2-e1715641599953.jpg" alt="RapidStump concrete-free footing system by BMSA Footing Solutions" class="rounded-2xl shadow-xl w-full hover-scale" />
+    <!-- Scrolling ticker bar -->
+    <div class="bg-ef-orange/90 border-t border-white/20 py-4 overflow-hidden">
+      <div class="ticker-track">
+        <div class="flex items-center gap-12 px-6">
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cloudy.webp" alt="" class="w-6 h-6" /> 100% weather resistant
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-rush.webp" alt="" class="w-6 h-6" /> 3x faster installation
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cement.webp" alt="" class="w-6 h-6" /> Zero concrete
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cloudy.webp" alt="" class="w-6 h-6" /> 100% weather resistant
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-rush.webp" alt="" class="w-6 h-6" /> 3x faster installation
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cement.webp" alt="" class="w-6 h-6" /> Zero concrete
+          </span>
+          <span class="text-white/40">&bull;</span>
         </div>
-        <div class="fade-up space-y-6">
-          <p class="text-lg lg:text-xl text-dark/80 leading-relaxed font-medium">
-            Traditional concrete footings mean waiting. Waiting for the pour. Waiting for the weather. Waiting for the cure.
-          </p>
-          <p class="text-lg lg:text-xl text-dark/80 leading-relaxed font-medium">
-            Every day of delay costs money. Wet weather shuts down your site. Concrete needs days to cure before you can build on it. Your timeline blows out and your budget follows.
-          </p>
-          <p class="text-lg lg:text-xl text-dark/80 leading-relaxed font-medium">
-            There's also the environmental impact — concrete production generates significant carbon emissions, and pouring disrupts the site around it.
-          </p>
-          <p class="text-xl lg:text-2xl font-black text-dark uppercase tracking-tight">
-            It doesn't have to be this way.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== OUR CONCRETE-FREE SOLUTION ========== -->
-  <section id="solutions" class="py-20 lg:py-32 bg-dark text-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="fade-up text-center mb-16">
-        <p class="text-eco font-bold uppercase tracking-widest text-sm mb-4">The Solution</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight leading-tight">
-          Concrete-Free Footing<br /><span class="text-accent">Systems That Perform</span>
-        </h2>
-      </div>
-      <div class="grid md:grid-cols-2 gap-12 lg:gap-16 items-center">
-        <div class="fade-up space-y-6 order-2 md:order-1">
-          <p class="text-lg lg:text-xl text-white/80 leading-relaxed font-medium">
-            Easy Footings provides concrete-free foundations that allow you to start building the moment installation is complete. We supply and install products from BMSA Footing Solutions.
-          </p>
-          <p class="text-lg lg:text-xl text-white/80 leading-relaxed font-medium">
-            Three proven systems. <span class="text-accent font-bold">RapidStump. StumpRite. SurePile.</span> Each one engineered to get you building faster — with zero concrete.
-          </p>
-          <p class="text-lg lg:text-xl text-white/80 leading-relaxed font-medium">
-            Install in any weather. Build immediately after installation. No curing. No delays. Just results.
-          </p>
-          <a href="mailto:office@easyfootings.com.au" class="inline-block bg-accent hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg text-base uppercase tracking-wider transition-all hover:scale-105 mt-4">
-            Get a Quote
-          </a>
-        </div>
-        <div class="fade-up order-1 md:order-2">
-          <!-- Real image from BMSA Footing Solutions -->
-          <img src="https://bmsaanchoring.com.au/wp-content/uploads/2023/12/process-7-768x1024.jpg" alt="Concrete-free footing system installation on site" class="rounded-2xl shadow-xl w-full hover-scale" />
+        <!-- Duplicate for seamless loop -->
+        <div class="flex items-center gap-12 px-6">
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cloudy.webp" alt="" class="w-6 h-6" /> 100% weather resistant
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-rush.webp" alt="" class="w-6 h-6" /> 3x faster installation
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cement.webp" alt="" class="w-6 h-6" /> Zero concrete
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cloudy.webp" alt="" class="w-6 h-6" /> 100% weather resistant
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-rush.webp" alt="" class="w-6 h-6" /> 3x faster installation
+          </span>
+          <span class="text-white/40">&bull;</span>
+          <span class="flex items-center gap-3 text-white text-sm font-medium whitespace-nowrap">
+            <img src="images/icon-cement.webp" alt="" class="w-6 h-6" /> Zero concrete
+          </span>
+          <span class="text-white/40">&bull;</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ========== KEY BENEFITS ========== -->
-  <section id="benefits" class="py-20 lg:py-32 bg-light">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="fade-up text-center mb-16">
-        <p class="text-eco font-bold uppercase tracking-widest text-sm mb-4">Why Choose Us</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-dark leading-tight">
-          Why Builders Choose<br /><span class="text-accent">Easy Footings</span>
-        </h2>
-      </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        <!-- Benefit 1 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">Build Immediately</h3>
-          <p class="text-dark/70 leading-relaxed">No curing time. The moment your footings are installed, you're ready to build. 3x faster than traditional concrete methods.</p>
-        </div>
-        <!-- Benefit 2 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">All-Weather Installation</h3>
-          <p class="text-dark/70 leading-relaxed">Install in any weather. Rain, heat, cold — it doesn't matter. Your site never shuts down because of the forecast.</p>
-        </div>
-        <!-- Benefit 3 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">Engineer Certified</h3>
-          <p class="text-dark/70 leading-relaxed">Every system is engineer certified. Built to code, built to last, built to give you total confidence.</p>
-        </div>
-        <!-- Benefit 4 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">Environmentally Friendly</h3>
-          <p class="text-dark/70 leading-relaxed">Zero concrete means reduced carbon emissions and minimal site disruption. A greener way to build from the ground up.</p>
-        </div>
-        <!-- Benefit 5 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">Cost Effective</h3>
-          <p class="text-dark/70 leading-relaxed">Reduced labour, no weather delays, no concrete costs. Save time and money on every project.</p>
-        </div>
-        <!-- Benefit 6 -->
-        <div class="fade-up bg-white rounded-2xl p-8 shadow-md hover-scale border border-border">
-          <div class="w-14 h-14 bg-eco/10 rounded-xl flex items-center justify-center mb-6">
-            <svg class="w-7 h-7 text-eco" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"/></svg>
-          </div>
-          <h3 class="text-xl font-black uppercase tracking-tight text-dark mb-3">Adjustable System</h3>
-          <p class="text-dark/70 leading-relaxed">Height and level adjustable post-installation. Precision alignment for a perfect result every time.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== HOW IT WORKS ========== -->
-  <section id="how-it-works" class="py-20 lg:py-32 bg-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="fade-up text-center mb-16">
-        <p class="text-accent font-bold uppercase tracking-widest text-sm mb-4">Simple Process</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight text-dark leading-tight">
-          How It <span class="text-accent">Works</span>
-        </h2>
-        <p class="text-lg text-dark/70 mt-4 max-w-2xl mx-auto">Four steps. That's all it takes to go from bare ground to building.</p>
-      </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
-        <div class="fade-up text-center">
-          <div class="w-20 h-20 bg-accent text-white rounded-2xl flex items-center justify-center mx-auto mb-6 text-3xl font-black">01</div>
-          <h3 class="text-lg font-black uppercase tracking-tight text-dark mb-3">Site Assessment</h3>
-          <p class="text-dark/70 leading-relaxed">We assess your site conditions and recommend the right footing system for your project.</p>
-        </div>
-        <div class="fade-up text-center">
-          <div class="w-20 h-20 bg-accent text-white rounded-2xl flex items-center justify-center mx-auto mb-6 text-3xl font-black">02</div>
-          <h3 class="text-lg font-black uppercase tracking-tight text-dark mb-3">Install Footings</h3>
-          <p class="text-dark/70 leading-relaxed">Our team installs your concrete-free footings — 3x faster than traditional methods, in any weather.</p>
-        </div>
-        <div class="fade-up text-center">
-          <div class="w-20 h-20 bg-accent text-white rounded-2xl flex items-center justify-center mx-auto mb-6 text-3xl font-black">03</div>
-          <h3 class="text-lg font-black uppercase tracking-tight text-dark mb-3">Adjust & Secure</h3>
-          <p class="text-dark/70 leading-relaxed">Fine-tune height and level with our adjustable systems. Precision results, every time.</p>
-        </div>
-        <div class="fade-up text-center">
-          <div class="w-20 h-20 bg-eco text-white rounded-2xl flex items-center justify-center mx-auto mb-6 text-3xl font-black">04</div>
-          <h3 class="text-lg font-black uppercase tracking-tight text-dark mb-3">Build Immediately</h3>
-          <p class="text-dark/70 leading-relaxed">No curing. No waiting. Start building the moment your footings are in the ground.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== OUR SYSTEMS ========== -->
-  <section class="py-20 lg:py-32 bg-dark text-white">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="fade-up text-center mb-16">
-        <p class="text-eco font-bold uppercase tracking-widest text-sm mb-4">Our Systems</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black uppercase tracking-tight leading-tight">
-          Three Proven Systems.<br /><span class="text-accent">One Clear Advantage.</span>
-        </h2>
-      </div>
-      <div class="grid md:grid-cols-3 gap-8">
-        <!-- RapidStump -->
-        <div class="fade-up bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover-scale">
-          <div class="aspect-[4/3] overflow-hidden">
-            <!-- Real image from BMSA Footing Solutions -->
-            <img src="https://bmsaanchoring.com.au/wp-content/uploads/2024/05/BMSA-RapidStump-CB2.2-e1715641599953.jpg" alt="BMSA RapidStump concrete-free footing system" class="w-full h-full object-cover" />
-          </div>
-          <div class="p-8">
-            <h3 class="text-2xl font-black uppercase tracking-tight mb-3 text-accent">RapidStump</h3>
-            <p class="text-white/70 leading-relaxed mb-6">A fast-install concrete-free footing system from BMSA Footing Solutions. Engineered for speed and reliability on residential and commercial builds.</p>
-            <ul class="space-y-2">
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Concrete-free installation</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Engineer certified</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Hot dip galvanised steel</li>
-            </ul>
-          </div>
-        </div>
-        <!-- StumpRite -->
-        <div class="fade-up bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover-scale">
-          <div class="aspect-[4/3] overflow-hidden">
-            <!-- Real image from BMSA Footing Solutions -->
-            <img src="https://bmsaanchoring.com.au/wp-content/uploads/2019/12/Weld-On-Adjustable-House-Stump-Top.png" alt="StumpRite adjustable house stump top system" class="w-full h-full object-cover bg-white" />
-          </div>
-          <div class="p-8">
-            <h3 class="text-2xl font-black uppercase tracking-tight mb-3 text-accent">StumpRite</h3>
-            <p class="text-white/70 leading-relaxed mb-6">A versatile concrete-free footing system from BMSA Footing Solutions. Designed for a wide range of applications with height-adjustable capability.</p>
-            <ul class="space-y-2">
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Height adjustable post-install</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>All-weather installation</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Build immediately after install</li>
-            </ul>
-          </div>
-        </div>
-        <!-- SurePile -->
-        <div class="fade-up bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover-scale">
-          <div class="aspect-[4/3] overflow-hidden">
-            <!-- Real image from BMSA Footing Solutions -->
-            <img src="https://bmsaanchoring.com.au/wp-content/uploads/2018/03/Screw-On-Adjustable-Steel-Stumps-top.png" alt="Adjustable steel stump top plate for SurePile system" class="w-full h-full object-cover" />
-          </div>
-          <div class="p-8">
-            <h3 class="text-2xl font-black uppercase tracking-tight mb-3 text-accent">SurePile</h3>
-            <p class="text-white/70 leading-relaxed mb-6">A heavy-duty concrete-free piling system from BMSA Footing Solutions. Engineered for demanding ground conditions and larger structures.</p>
-            <ul class="space-y-2">
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Reduced carbon emissions</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Minimal site disruption</li>
-              <li class="flex items-center gap-2 text-white/80"><svg class="w-5 h-5 text-eco flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Cost-effective solution</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="fade-up text-center mt-12">
-        <a href="mailto:office@easyfootings.com.au" class="inline-block bg-accent hover:bg-orange-600 text-white font-black px-10 py-5 rounded-lg text-lg uppercase tracking-wider transition-all hover:scale-105 shadow-2xl shadow-accent/30">
-          Email Us for a Quote
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== CONTACT / CTA ========== -->
-  <section id="contact" class="py-20 lg:py-32 bg-dark text-white relative overflow-hidden">
-    <div class="absolute inset-0 opacity-10">
-      <!-- Real image from BMSA Footing Solutions -->
-      <img src="https://bmsaanchoring.com.au/wp-content/uploads/2023/12/process-7-768x1024.jpg" alt="Installation background" class="w-full h-full object-cover" />
-    </div>
-    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6">
+  <!-- ========== PROBLEM SECTION ========== -->
+  <section class="py-16 lg:py-24 bg-white">
+    <div class="max-w-5xl mx-auto px-6">
       <div class="fade-up text-center mb-12">
-        <p class="text-eco font-bold uppercase tracking-widest text-sm mb-4">Contact Us</p>
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-black uppercase tracking-tight leading-tight mb-6">
-          Ready to Build<br /><span class="text-accent">Faster?</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-medium text-ef-dark leading-tight">
+          Why traditional footings slow down your projects.
         </h2>
-        <p class="text-lg sm:text-xl text-white/80 max-w-2xl mx-auto leading-relaxed font-medium">
-          Stop waiting on concrete. Stop losing days to weather. Get in touch today and find out how our concrete-free footing systems can transform your next project.
+        <p class="text-gray-600 text-lg mt-4 max-w-3xl mx-auto leading-relaxed">
+          Traditional concrete footings create frustrating delays and unpredictable timelines that impact your bottom line and client satisfaction.
         </p>
       </div>
-      <div class="fade-up max-w-xl mx-auto">
-        <form action="https://formsubmit.co/office@easyfootings.com.au" method="POST" class="space-y-5">
-          <input type="hidden" name="_subject" value="New enquiry from Easy Footings website" />
-          <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_next" value="https://easyfootings.com.au" />
-          <div>
-            <label for="name" class="block text-white/70 text-sm font-semibold uppercase tracking-wider mb-2">Name</label>
-            <input type="text" id="name" name="name" required class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/40 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors" placeholder="Your name" />
+
+      <!-- Problem cards slider -->
+      <div class="fade-up grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
+        <div class="bg-gray-50 rounded-2xl p-6 text-center">
+          <h3 class="text-lg font-semibold text-ef-dark mb-2">Weather delays stop your build dead in its tracks, costing you time and money.</h3>
+          <div class="flex items-center justify-center gap-2 mt-4">
+            <span class="text-red-500 text-xl">&#10060;</span>
+            <span class="text-sm font-medium text-gray-600">Weather Delays</span>
           </div>
-          <div>
-            <label for="email" class="block text-white/70 text-sm font-semibold uppercase tracking-wider mb-2">Email</label>
-            <input type="email" id="email" name="email" required class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/40 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors" placeholder="Your email" />
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-6 text-center">
+          <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete requires 7-28 days to cure before you can build on it.</h3>
+          <div class="flex items-center justify-center gap-2 mt-4">
+            <span class="text-red-500 text-xl">&#10060;</span>
+            <span class="text-sm font-medium text-gray-600">Long Curing Times</span>
           </div>
-          <div>
-            <label for="phone" class="block text-white/70 text-sm font-semibold uppercase tracking-wider mb-2">Phone Number</label>
-            <input type="tel" id="phone" name="phone" class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/40 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors" placeholder="Your phone number" />
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-6 text-center">
+          <h3 class="text-lg font-semibold text-ef-dark mb-2">Coordinating concrete pours with other trades creates scheduling nightmares.</h3>
+          <div class="flex items-center justify-center gap-2 mt-4">
+            <span class="text-red-500 text-xl">&#10060;</span>
+            <span class="text-sm font-medium text-gray-600">Scheduling Challenges</span>
           </div>
-          <div>
-            <label for="comments" class="block text-white/70 text-sm font-semibold uppercase tracking-wider mb-2">Comments</label>
-            <textarea id="comments" name="comments" rows="4" class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/40 focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent transition-colors resize-none" placeholder="Tell us about your project"></textarea>
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-6 text-center">
+          <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete production is a major source of carbon emissions, contributing to environmental damage.</h3>
+          <div class="flex items-center justify-center gap-2 mt-4">
+            <span class="text-red-500 text-xl">&#10060;</span>
+            <span class="text-sm font-medium text-gray-600">Environmental Impact</span>
           </div>
-          <button type="submit" class="w-full bg-accent hover:bg-orange-600 text-white font-black px-10 py-4 rounded-lg text-lg uppercase tracking-wider transition-all hover:scale-105 shadow-2xl shadow-accent/30">
-            Send Enquiry
-          </button>
-        </form>
-        <p class="text-white/50 mt-6 text-sm text-center">We typically respond within 24 hours. Or email us directly at <a href="mailto:office@easyfootings.com.au" class="text-accent hover:text-orange-400 transition-colors">office@easyfootings.com.au</a></p>
+        </div>
       </div>
+
+      <!-- Product image -->
+      <div class="fade-up max-w-md mx-auto">
+        <img src="images/stump-rapidstump.webp" alt="RapidStump concrete-free footing system" class="w-full rounded-2xl" />
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SOLUTION SECTION ========== -->
+  <section id="services" class="py-16 lg:py-24 bg-ef-light">
+    <div class="max-w-5xl mx-auto px-6">
+      <div class="fade-up bg-ef-cream rounded-3xl p-10 sm:p-14 lg:p-16 max-w-2xl mx-auto">
+        <!-- Circular badge -->
+        <div class="circular-badge mb-8">
+          <svg viewBox="0 0 160 160" class="w-full h-full">
+            <defs>
+              <path id="circle-text" d="M 80,80 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0" />
+            </defs>
+            <text font-size="11" font-weight="600" letter-spacing="3" fill="#1B3A2D" text-anchor="middle">
+              <textPath href="#circle-text" startOffset="50%">CONCRETE FREE &bull; FOOTING SOLUTION &bull;</textPath>
+            </text>
+          </svg>
+          <div class="absolute inset-0 flex items-center justify-center">
+            <svg class="w-10 h-10 text-ef-green" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25"/></svg>
+          </div>
+        </div>
+
+        <h2 class="text-3xl sm:text-4xl font-medium text-ef-dark leading-tight mb-6">
+          Concrete free solution
+        </h2>
+        <p class="text-gray-700 text-lg leading-relaxed mb-4">
+          Easy Footings provides a revolutionary alternative that lets you build immediately after installation, in any weather, with no waiting.
+        </p>
+        <p class="text-gray-700 text-lg leading-relaxed mb-8">
+          We supply and install products from BMSA Footing Solutions.
+        </p>
+        <a href="#contact" class="inline-block bg-ef-dark text-white font-semibold px-8 py-4 rounded-lg text-base hover:bg-gray-800 transition-colors">
+          Call Now
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== KEY FEATURES / BENEFITS ========== -->
+  <section id="products" class="py-16 lg:py-24 bg-ef-green text-white">
+    <div class="max-w-5xl mx-auto px-6">
+      <div class="fade-up text-center mb-14">
+        <p class="text-sm font-semibold tracking-[0.25em] uppercase text-white/60 mb-4">Key Features</p>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-medium leading-tight">
+          Why builders choose Easy Footings
+        </h2>
+        <p class="text-white/70 text-lg mt-4 max-w-2xl mx-auto leading-relaxed">
+          Rapid Footings provides a revolutionary alternative that lets you build immediately after installation, in any weather, with no waiting.
+        </p>
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Benefit 1 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-hat.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">Immediate building</h3>
+          <p class="text-white/70 leading-relaxed">Start construction immediately after installation - no concrete curing time required.</p>
+        </div>
+        <!-- Benefit 2 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-sun.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">All weather installation</h3>
+          <p class="text-white/70 leading-relaxed">Install in any weather conditions, eliminating delays due to rain, cold, or extreme heat.</p>
+        </div>
+        <!-- Benefit 3 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-stamp.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">Engineer certified</h3>
+          <p class="text-white/70 leading-relaxed">Fully engineered and certified system, meeting or exceeding all building standards.</p>
+        </div>
+        <!-- Benefit 4 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-eco.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">Environmentally friendly</h3>
+          <p class="text-white/70 leading-relaxed">Zero concrete means zero concrete carbon emissions and minimal site disruption.</p>
+        </div>
+        <!-- Benefit 5 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-profit.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">Cost effective</h3>
+          <p class="text-white/70 leading-relaxed">Reduced labour costs and eliminated weather-related delays mean significant savings on every project.</p>
+        </div>
+        <!-- Benefit 6 -->
+        <div class="fade-up">
+          <div class="w-14 h-14 mb-5">
+            <img src="images/icon-height.webp" alt="" class="w-full h-full object-contain" />
+          </div>
+          <h3 class="text-xl font-semibold mb-3">Adjustable system</h3>
+          <p class="text-white/70 leading-relaxed">Height and level adjustable post-installation for precision alignment on every project.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== HOW IT WORKS / PROCESS ========== -->
+  <section id="how-it-works" class="py-16 lg:py-24 bg-ef-light">
+    <div class="max-w-5xl mx-auto px-6">
+      <!-- Process image -->
+      <div class="fade-up mb-14 rounded-2xl overflow-hidden">
+        <img src="images/process.webp" alt="Easy Footings installation process on a residential site" class="w-full object-cover" />
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div class="fade-up">
+          <h3 class="text-xl font-semibold text-ef-dark mb-3">1. Site assessment</h3>
+          <p class="text-gray-600 leading-relaxed">Once we receive the site soil assessment our engineers can specify which footing solution is best suited.</p>
+        </div>
+        <div class="fade-up">
+          <h3 class="text-xl font-semibold text-ef-dark mb-3">2. Easy installation</h3>
+          <p class="text-gray-600 leading-relaxed">Using BMSA's innovative RapidStump or SurePile system, footings are quickly installed with precision and minimal site disruption.</p>
+        </div>
+        <div class="fade-up">
+          <h3 class="text-xl font-semibold text-ef-dark mb-3">3. Level and secure</h3>
+          <p class="text-gray-600 leading-relaxed">Each footing is carefully leveled and secured, ensuring perfect alignment for your construction project.</p>
+        </div>
+        <div class="fade-up">
+          <h3 class="text-xl font-semibold text-ef-dark mb-3">4. Ready to build</h3>
+          <p class="text-gray-600 leading-relaxed">Once installation is complete, you can begin construction immediately - no waiting for concrete to cure.</p>
+        </div>
+      </div>
+
+      <div class="fade-up text-center mt-12">
+        <a href="#contact" class="inline-block bg-ef-dark text-white font-semibold px-8 py-4 rounded-lg text-base hover:bg-gray-800 transition-colors">
+          Call Now
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== CONTACT FORM ========== -->
+  <section id="contact" class="py-16 lg:py-24 bg-white">
+    <div class="max-w-2xl mx-auto px-6">
+      <div class="fade-up text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-medium text-ef-dark leading-tight mb-4">
+          Ready to transform your building process?
+        </h2>
+        <p class="text-gray-600 text-lg leading-relaxed">
+          Join the builders who are saying goodbye to concrete delays. Get in touch today for a free consultation.
+        </p>
+      </div>
+      <form action="https://formsubmit.co/office@easyfootings.com.au" method="POST" class="fade-up space-y-5">
+        <input type="hidden" name="_subject" value="New enquiry from Easy Footings website" />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_next" value="https://easyfootings.com.au" />
+        <div>
+          <label for="name" class="block text-sm font-medium text-gray-700 mb-1">Name</label>
+          <input type="text" id="name" name="name" required class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:border-ef-green focus:ring-1 focus:ring-ef-green transition-colors" placeholder="" />
+        </div>
+        <div>
+          <label for="email" class="block text-sm font-medium text-gray-700 mb-1">Email</label>
+          <input type="email" id="email" name="email" required class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:border-ef-green focus:ring-1 focus:ring-ef-green transition-colors" placeholder="" />
+        </div>
+        <div>
+          <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">Phone number</label>
+          <input type="tel" id="phone" name="phone" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:border-ef-green focus:ring-1 focus:ring-ef-green transition-colors" placeholder="" />
+        </div>
+        <div>
+          <label for="comment" class="block text-sm font-medium text-gray-700 mb-1">Comment</label>
+          <textarea id="comment" name="comment" rows="4" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:border-ef-green focus:ring-1 focus:ring-ef-green transition-colors resize-none" placeholder=""></textarea>
+        </div>
+        <button type="submit" class="w-full bg-ef-dark text-white font-semibold px-8 py-4 rounded-lg text-base hover:bg-gray-800 transition-colors">
+          Send message
+        </button>
+      </form>
     </div>
   </section>
 
   <!-- ========== FOOTER ========== -->
-  <footer class="bg-dark border-t border-white/10 py-12">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="flex flex-col md:flex-row items-center justify-between gap-8">
-        <div class="text-center md:text-left">
-          <a href="#hero" class="text-white font-black text-xl tracking-tight">
-            EASY <span class="text-accent">FOOTINGS</span>
-          </a>
-          <p class="text-white/50 text-sm mt-2">Concrete-free foundations from BMSA Footing Solutions.</p>
+  <footer class="bg-ef-light border-t border-gray-200 py-12">
+    <div class="max-w-5xl mx-auto px-6">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+        <div>
+          <h4 class="font-semibold text-ef-dark text-lg mb-4">Easy Footings</h4>
+          <p class="text-gray-600 text-sm leading-relaxed">
+            Concrete-free foundations from BMSA Footing Solutions. Build immediately, in any weather, with no waiting.
+          </p>
         </div>
-        <div class="text-center">
-          <a href="mailto:office@easyfootings.com.au" class="text-accent hover:text-orange-400 font-bold text-lg transition-colors">
+        <div>
+          <h4 class="font-semibold text-ef-dark text-sm uppercase tracking-wider mb-4">Products</h4>
+          <ul class="space-y-2">
+            <li><a href="#products" class="text-gray-600 hover:text-ef-green text-sm transition-colors">RapidStump</a></li>
+            <li><a href="#products" class="text-gray-600 hover:text-ef-green text-sm transition-colors">StumpRite</a></li>
+            <li><a href="#products" class="text-gray-600 hover:text-ef-green text-sm transition-colors">SurePile</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold text-ef-dark text-sm uppercase tracking-wider mb-4">Contact</h4>
+          <a href="mailto:office@easyfootings.com.au" class="text-gray-600 hover:text-ef-green text-sm transition-colors">
             office@easyfootings.com.au
           </a>
         </div>
-        <div class="text-center md:text-right">
-          <a href="mailto:office@easyfootings.com.au" class="inline-block bg-accent hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-lg text-sm uppercase tracking-wider transition-all hover:scale-105">
-            Email Us Now
-          </a>
-        </div>
       </div>
-      <div class="border-t border-white/10 mt-8 pt-8 text-center">
-        <p class="text-white/40 text-sm">&copy; 2026 Easy Footings. All rights reserved. Products supplied by BMSA Footing Solutions.</p>
+      <div class="border-t border-gray-200 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <p class="text-gray-500 text-sm">&copy; 2026 Easy Footings. All rights reserved.</p>
+        <a href="#" class="text-gray-500 hover:text-gray-700 text-sm transition-colors">Privacy policy</a>
       </div>
     </div>
   </footer>
+
+  <!-- ========== SCROLL TO TOP ========== -->
+  <button id="scroll-top" class="fixed bottom-6 right-6 bg-ef-dark text-white w-10 h-10 rounded-full flex items-center justify-center shadow-lg opacity-0 pointer-events-none transition-opacity z-40" aria-label="Scroll to top">
+    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/></svg>
+  </button>
 
   <!-- ========== SCRIPTS ========== -->
   <script>
@@ -410,7 +450,6 @@
     const toggle = document.getElementById('mobile-toggle');
     const menu = document.getElementById('mobile-menu');
     toggle.addEventListener('click', () => menu.classList.toggle('hidden'));
-    // Close mobile menu on link click
     menu.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => menu.classList.add('hidden'));
     });
@@ -423,8 +462,22 @@
         }
       });
     }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-
     document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+
+    // Scroll to top button
+    const scrollBtn = document.getElementById('scroll-top');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 600) {
+        scrollBtn.classList.remove('opacity-0', 'pointer-events-none');
+        scrollBtn.classList.add('opacity-100');
+      } else {
+        scrollBtn.classList.add('opacity-0', 'pointer-events-none');
+        scrollBtn.classList.remove('opacity-100');
+      }
+    });
+    scrollBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
   </script>
 
 </body>
