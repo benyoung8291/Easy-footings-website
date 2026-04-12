@@ -199,6 +199,26 @@
       from { transform: rotate(0deg); }
       to { transform: rotate(360deg); }
     }
+
+    /* Card stack swipe animation — mobile only */
+    @media (max-width: 639px) {
+      .card-stack {
+        display: block !important;
+      }
+      .card-stack-wrapper {
+        height: 55vh;
+        min-height: 250px;
+      }
+      .card-stack-wrapper:last-child {
+        height: auto;
+      }
+      .card-stack-item {
+        position: sticky;
+        top: 76px;
+        z-index: var(--card-index, 1);
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      }
+    }
   </style>
 </head>
 <body class="bg-white text-ef-dark font-sans antialiased">
@@ -347,34 +367,42 @@
         </p>
       </div>
 
-      <!-- Problem cards slider -->
-      <div class="fade-up grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
-        <div class="bg-gray-50 rounded-2xl p-6 text-center">
-          <h3 class="text-lg font-semibold text-ef-dark mb-2">Weather delays stop your build dead in its tracks, costing you time and money.</h3>
-          <div class="flex items-center justify-center gap-2 mt-4">
-            <span class="text-red-500 text-xl">&#10060;</span>
-            <span class="text-sm font-medium text-gray-600">Weather Delays</span>
+      <!-- Problem cards — stacked swipe on mobile, grid on desktop -->
+      <div class="fade-up card-stack grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
+        <div class="card-stack-wrapper">
+          <div class="card-stack-item bg-gray-50 rounded-2xl p-6 text-center" style="--card-index: 4">
+            <h3 class="text-lg font-semibold text-ef-dark mb-2">Weather delays stop your build dead in its tracks, costing you time and money.</h3>
+            <div class="flex items-center justify-center gap-2 mt-4">
+              <span class="text-red-500 text-xl">&#10060;</span>
+              <span class="text-sm font-medium text-gray-600">Weather Delays</span>
+            </div>
           </div>
         </div>
-        <div class="bg-gray-50 rounded-2xl p-6 text-center">
-          <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete requires 7-28 days to cure before you can build on it.</h3>
-          <div class="flex items-center justify-center gap-2 mt-4">
-            <span class="text-red-500 text-xl">&#10060;</span>
-            <span class="text-sm font-medium text-gray-600">Long Curing Times</span>
+        <div class="card-stack-wrapper">
+          <div class="card-stack-item bg-gray-50 rounded-2xl p-6 text-center" style="--card-index: 3">
+            <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete requires 7-28 days to cure before you can build on it.</h3>
+            <div class="flex items-center justify-center gap-2 mt-4">
+              <span class="text-red-500 text-xl">&#10060;</span>
+              <span class="text-sm font-medium text-gray-600">Long Curing Times</span>
+            </div>
           </div>
         </div>
-        <div class="bg-gray-50 rounded-2xl p-6 text-center">
-          <h3 class="text-lg font-semibold text-ef-dark mb-2">Coordinating concrete pours with other trades creates scheduling nightmares.</h3>
-          <div class="flex items-center justify-center gap-2 mt-4">
-            <span class="text-red-500 text-xl">&#10060;</span>
-            <span class="text-sm font-medium text-gray-600">Scheduling Challenges</span>
+        <div class="card-stack-wrapper">
+          <div class="card-stack-item bg-gray-50 rounded-2xl p-6 text-center" style="--card-index: 2">
+            <h3 class="text-lg font-semibold text-ef-dark mb-2">Coordinating concrete pours with other trades creates scheduling nightmares.</h3>
+            <div class="flex items-center justify-center gap-2 mt-4">
+              <span class="text-red-500 text-xl">&#10060;</span>
+              <span class="text-sm font-medium text-gray-600">Scheduling Challenges</span>
+            </div>
           </div>
         </div>
-        <div class="bg-gray-50 rounded-2xl p-6 text-center">
-          <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete production is a major source of carbon emissions, contributing to environmental damage.</h3>
-          <div class="flex items-center justify-center gap-2 mt-4">
-            <span class="text-red-500 text-xl">&#10060;</span>
-            <span class="text-sm font-medium text-gray-600">Environmental Impact</span>
+        <div class="card-stack-wrapper">
+          <div class="card-stack-item bg-gray-50 rounded-2xl p-6 text-center" style="--card-index: 1">
+            <h3 class="text-lg font-semibold text-ef-dark mb-2">Concrete production is a major source of carbon emissions, contributing to environmental damage.</h3>
+            <div class="flex items-center justify-center gap-2 mt-4">
+              <span class="text-red-500 text-xl">&#10060;</span>
+              <span class="text-sm font-medium text-gray-600">Environmental Impact</span>
+            </div>
           </div>
         </div>
       </div>
@@ -824,6 +852,30 @@
       });
     }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
     document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+
+    // Card stack swipe animation (mobile only)
+    if (window.innerWidth < 640) {
+      const stackItems = document.querySelectorAll('.card-stack-item');
+      const stickyTop = 76;
+
+      window.addEventListener('scroll', function () {
+        stackItems.forEach(function (item) {
+          const wrapper = item.closest('.card-stack-wrapper');
+          if (!wrapper) return;
+          const wrapperRect = wrapper.getBoundingClientRect();
+          const cardHeight = item.offsetHeight;
+          const exitPoint = stickyTop + cardHeight;
+
+          if (wrapperRect.bottom < exitPoint) {
+            const distance = exitPoint - wrapperRect.bottom;
+            const progress = Math.min(distance / cardHeight, 1);
+            item.style.opacity = Math.max(1 - progress * 1.5, 0);
+          } else {
+            item.style.opacity = '';
+          }
+        });
+      }, { passive: true });
+    }
 
     // Scroll to top button
     const scrollBtn = document.getElementById('scroll-top');
