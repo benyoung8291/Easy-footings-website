@@ -1,9 +1,15 @@
 User-agent: *
 Allow: /
-Sitemap: https://easyfootings.com.au/sitemap.xml
+Disallow: /*.json$
+Disallow: /*?*
 
 User-agent: Googlebot
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /images/
+
 User-agent: bingbot
 Allow: /
+
+Sitemap: https://easyfootings.com.au/sitemap.xml
