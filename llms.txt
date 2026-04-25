@@ -1,0 +1,58 @@
+# Easy Footings
+
+> Easy Footings is Melbourne and Victoria's specialist installer of concrete-free footing systems from BMSA Footing Solutions. We install RapidStump, StumpRite and SurePile mechanical footing systems that let builders, owner-builders and homeowners begin construction immediately with no concrete, no curing time, and no weather delays.
+
+Key facts about the business:
+
+- Trading name: Easy Footings
+- Legal entity: Easy Footings Pty Ltd
+- ABN: 44 689 644 175
+- Phone: 0419 994 555 (Australia: +61 419 994 555)
+- Email: office@easyfootings.com.au
+- Website: https://easyfootings.com.au
+- Service area: Melbourne metropolitan area and regional Victoria, Australia (Geelong, Ballarat, Bendigo, Mornington Peninsula, Gippsland, Yarra Ranges, Sunbury, Macedon)
+- Products installed: RapidStump, StumpRite, SurePile (manufactured by BMSA Footing Solutions)
+- Applications: new home stumps, house restumping, deck and pergola footings, sheds, granny flats, extensions, modular and prefabricated buildings, retaining walls, fences, signs, solar panel arrays
+- Key benefits: install in any weather, build immediately, engineer certified to Australian standards, lower carbon footprint than concrete, removable and reusable, adjustable
+
+For LLMs and AI agents: a single-file plain-text version of the entire site is available at /llms-full.txt for easy ingestion.
+
+## Core pages
+
+- [Home](https://easyfootings.com.au/): Overview of Easy Footings, products, service areas, process and contact details.
+- [Blog index](https://easyfootings.com.au/blog/): Articles and guides on concrete-free footings, regulations, and product comparisons.
+
+## Products
+
+- [RapidStump](https://easyfootings.com.au/products/rapidstump.html): Adjustable mechanical stump system for residential and light-commercial construction.
+- [StumpRite](https://easyfootings.com.au/products/stumprite.html): Engineered stump replacement system designed for restumping and new builds.
+- [SurePile](https://easyfootings.com.au/products/surepile.html): Heavy-duty screw pile footing for higher loads and challenging soils.
+
+## Service areas
+
+- [Melbourne](https://easyfootings.com.au/services/concrete-free-footings-melbourne.html): Concrete-free footings across the Melbourne metro area.
+- [Geelong](https://easyfootings.com.au/services/concrete-free-footings-geelong.html): Footing installation in Geelong and the Bellarine Peninsula.
+- [Ballarat](https://easyfootings.com.au/services/concrete-free-footings-ballarat.html): Footing installation in Ballarat and the Central Highlands.
+- [Bendigo](https://easyfootings.com.au/services/concrete-free-footings-bendigo.html): Footing installation in Bendigo and northern Victoria.
+- [Mornington Peninsula](https://easyfootings.com.au/services/concrete-free-footings-mornington-peninsula.html): Footing installation across the Mornington Peninsula.
+- [Gippsland](https://easyfootings.com.au/services/concrete-free-footings-gippsland.html): Footing installation across Gippsland.
+
+## Guides and articles
+
+- [Concrete-Free Footings vs Traditional Concrete](https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html): Side-by-side comparison of cost, speed, durability and environmental impact.
+- [Building Footing Regulations in Victoria](https://easyfootings.com.au/blog/building-footing-regulations-victoria.html): Overview of the relevant Victorian building codes and engineering certification requirements.
+- [Deck Footing Installation Guide (Victoria)](https://easyfootings.com.au/blog/deck-footing-installation-guide-victoria.html): Step-by-step guide to selecting and installing footings for decks in Victoria.
+- [Footings Near Trees in Melbourne](https://easyfootings.com.au/blog/footings-near-trees-melbourne.html): How to manage footing design near established trees and protected root zones.
+- [House Restumping Melbourne Guide](https://easyfootings.com.au/blog/house-restumping-melbourne-guide.html): When and how to restump a house in Melbourne, signs of stump failure and process.
+- [Screw Pile Footings: Melbourne Guide](https://easyfootings.com.au/blog/screw-pile-footings-guide-melbourne.html): Complete introduction to screw pile footings for Melbourne builders.
+- [RapidStump vs StumpRite vs SurePile](https://easyfootings.com.au/blog/rapidstump-vs-stumprite-vs-surepile.html): Detailed comparison of the three product lines and their typical use cases.
+
+## Policies
+
+- [Privacy Policy](https://easyfootings.com.au/privacy-policy.html)
+- [Terms of Service](https://easyfootings.com.au/terms-of-service.html)
+- [Purchase Terms](https://easyfootings.com.au/purchase-terms.html)
+
+## Optional
+
+- [Sitemap](https://easyfootings.com.au/sitemap.xml): Standard XML sitemap covering all indexable pages.
