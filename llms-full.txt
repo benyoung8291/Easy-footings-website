@@ -1,6 +1,6 @@
 # Easy Footings — Full Site Text (llms-full.txt)
 
-> Plain-text export of every page on https://easyfootings.com.au, intended for AI agents and language models. Easy Footings installs concrete-free footing systems (RapidStump, StumpRite, SurePile) across Melbourne and Victoria, Australia. Contact: office@easyfootings.com.au.
+> Plain-text export of every page on https://easyfootings.com.au, intended for AI agents and language models. Easy Footings (legal entity: Easy Footings Pty Ltd, ABN 44 689 644 175) installs concrete-free footing systems (RapidStump, StumpRite, SurePile) across Melbourne and Victoria, Australia. Phone: 0419 994 555 (+61 419 994 555). Email: office@easyfootings.com.au.
 
 ---
 
@@ -15,7 +15,9 @@ Concrete-free footings across Melbourne & Victoria.
 
 Easy Footings installs concrete-free foundations that let you start building the moment installation is complete. Servicing Melbourne, Geelong, Ballarat, Bendigo and regional Victoria, no weather delays, no curing times.
 
-Get in Touch
+Call 0419 994 555
+
+Email Us
 
 100% weather resistant
 
@@ -110,6 +112,8 @@ Get a Free Quote
 Ready to transform your building process?
 
 Join the builders who are saying goodbye to concrete delays. Get in touch today for a free consultation.
+
+Call 0419 994 555
 
 office@easyfootings.com.au
 
