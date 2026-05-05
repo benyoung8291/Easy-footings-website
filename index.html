@@ -7,7 +7,14 @@
   <meta name="description" content="Easy Footings installs concrete-free footing systems across Melbourne & Victoria, RapidStump, StumpRite, SurePile from BMSA Footing Solutions. Build immediately, no concrete, no delays. Servicing Geelong, Ballarat, Bendigo & regional VIC." />
   <meta name="keywords" content="concrete-free footings Melbourne, concrete-free footings Victoria, RapidStump, StumpRite, SurePile, BMSA footing solutions, Easy Footings Melbourne, screw pile footings Victoria, no concrete foundations, fast footing installation Melbourne, footing systems Geelong, footing systems Ballarat, deck footings Melbourne, house stumps Victoria" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="author" content="Easy Footings Pty Ltd" />
+  <meta name="theme-color" content="#1B3A2D" />
   <link rel="canonical" href="https://easyfootings.com.au" />
+  <link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au" />
+  <link rel="alternate" hreflang="x-default" href="https://easyfootings.com.au" />
+  <!-- LLM-readable site exports (helps AI assistants discover an authoritative summary) -->
+  <link rel="alternate" type="text/plain" title="LLM site summary" href="/llms.txt" />
+  <link rel="alternate" type="text/plain" title="Full LLM site export" href="/llms-full.txt" />
 
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website" />
@@ -34,22 +41,45 @@
   <meta name="geo.position" content="-37.8136;144.9631" />
   <meta name="ICBM" content="-37.8136, 144.9631" />
 
-  <!-- JSON-LD: LocalBusiness -->
+  <!-- JSON-LD: WebSite (helps search & AI assistants identify the canonical site entity) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "WebSite",
+    "@id": "https://easyfootings.com.au/#website",
+    "name": "Easy Footings",
+    "alternateName": "Easy Footings Pty Ltd",
+    "url": "https://easyfootings.com.au",
+    "description": "Melbourne & Victoria's specialist installer of concrete-free footing systems from BMSA Footing Solutions, including RapidStump, StumpRite and SurePile.",
+    "inLanguage": "en-AU",
+    "publisher": { "@id": "https://easyfootings.com.au/#organization" }
+  }
+  </script>
+
+  <!-- JSON-LD: LocalBusiness / Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["LocalBusiness", "Organization", "GeneralContractor"],
+    "@id": "https://easyfootings.com.au/#organization",
     "name": "Easy Footings",
     "legalName": "Easy Footings Pty Ltd",
-    "description": "Melbourne & Victoria's specialist installer of concrete-free footing systems. RapidStump, StumpRite and SurePile from BMSA Footing Solutions.",
+    "alternateName": ["Easy Footings Australia", "Easy Footings Melbourne"],
+    "description": "Melbourne & Victoria's specialist installer of concrete-free footing systems. RapidStump, StumpRite and SurePile from BMSA Footing Solutions. Engineer-certified mechanical footings installed without concrete, in any weather, with zero curing time.",
+    "slogan": "Concrete-free footings. Build immediately.",
     "url": "https://easyfootings.com.au",
     "email": "office@easyfootings.com.au",
     "telephone": "+61419994555",
     "image": "https://easyfootings.com.au/images/hero.webp",
+    "logo": "https://easyfootings.com.au/images/hero.webp",
     "priceRange": "$$",
+    "currenciesAccepted": "AUD",
+    "paymentAccepted": "Cash, Credit Card, EFT, Bank Transfer",
+    "foundingDate": "2024",
     "identifier": [
       { "@type": "PropertyValue", "name": "ABN", "value": "44 689 644 175" }
     ],
+    "vatID": "44 689 644 175",
     "address": {
       "@type": "PostalAddress",
       "addressRegion": "VIC",
@@ -60,18 +90,120 @@
       "latitude": -37.8136,
       "longitude": 144.9631
     },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "13:00"
+      }
+    ],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "contactType": "sales",
+        "telephone": "+61419994555",
+        "email": "office@easyfootings.com.au",
+        "areaServed": "AU-VIC",
+        "availableLanguage": ["English"]
+      },
+      {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+61419994555",
+        "email": "office@easyfootings.com.au",
+        "areaServed": "AU-VIC",
+        "availableLanguage": ["English"]
+      }
+    ],
     "areaServed": [
       { "@type": "State", "name": "Victoria", "sameAs": "https://en.wikipedia.org/wiki/Victoria_(state)" },
-      { "@type": "City", "name": "Melbourne" },
-      { "@type": "City", "name": "Geelong" },
-      { "@type": "City", "name": "Ballarat" },
-      { "@type": "City", "name": "Bendigo" },
-      { "@type": "City", "name": "Mornington Peninsula" },
-      { "@type": "City", "name": "Gippsland" }
+      { "@type": "City", "name": "Melbourne", "sameAs": "https://en.wikipedia.org/wiki/Melbourne" },
+      { "@type": "City", "name": "Geelong", "sameAs": "https://en.wikipedia.org/wiki/Geelong" },
+      { "@type": "City", "name": "Ballarat", "sameAs": "https://en.wikipedia.org/wiki/Ballarat" },
+      { "@type": "City", "name": "Bendigo", "sameAs": "https://en.wikipedia.org/wiki/Bendigo" },
+      { "@type": "Place", "name": "Mornington Peninsula", "sameAs": "https://en.wikipedia.org/wiki/Mornington_Peninsula" },
+      { "@type": "Place", "name": "Gippsland", "sameAs": "https://en.wikipedia.org/wiki/Gippsland" },
+      { "@type": "Place", "name": "Yarra Ranges" },
+      { "@type": "Place", "name": "Sunbury" },
+      { "@type": "Place", "name": "Macedon Ranges" }
     ],
-    "serviceType": ["Concrete-Free Footings", "RapidStump Installation", "StumpRite Installation", "SurePile Installation", "Screw Pile Footings", "House Restumping"],
-    "knowsAbout": ["concrete-free foundations", "screw pile footings", "rapid footing installation", "house stumps", "deck footings"],
+    "serviceType": [
+      "Concrete-Free Footings",
+      "RapidStump Installation",
+      "StumpRite Installation",
+      "SurePile Installation",
+      "Screw Pile Footings",
+      "House Restumping",
+      "Deck Footings",
+      "Pergola Footings",
+      "Shed and Garage Footings",
+      "Granny Flat Footings",
+      "Modular and Prefab Building Footings",
+      "Container and Portable Building Tie-Downs"
+    ],
+    "knowsAbout": [
+      "concrete-free foundations",
+      "screw pile footings",
+      "helical piles",
+      "house stumps",
+      "deck footings",
+      "pergola footings",
+      "AS 2870 residential slabs and footings",
+      "Victorian Building Regulations 2018",
+      "reactive clay soil classification",
+      "Tree Protection Zones",
+      "house restumping",
+      "rapid mechanical footing installation"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Concrete-free footing products and services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "RapidStump Concrete-Free Footing System",
+            "url": "https://easyfootings.com.au/products/rapidstump.html"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "StumpRite Adjustable Steel House Stumps",
+            "url": "https://easyfootings.com.au/products/stumprite.html"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SurePile Tie Down Anchor System",
+            "url": "https://easyfootings.com.au/products/surepile.html"
+          }
+        }
+      ]
+    },
     "sameAs": []
+  }
+  </script>
+
+  <!-- JSON-LD: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://easyfootings.com.au" }
+    ]
   }
   </script>
 
