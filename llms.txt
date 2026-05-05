@@ -42,6 +42,7 @@ For LLMs and AI agents: a single-file plain-text version of the entire site is a
 - [Concrete-Free Footings vs Traditional Concrete](https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html): Side-by-side comparison of cost, speed, durability and environmental impact.
 - [Building Footing Regulations in Victoria](https://easyfootings.com.au/blog/building-footing-regulations-victoria.html): Overview of the relevant Victorian building codes and engineering certification requirements.
 - [Deck Footing Installation Guide (Victoria)](https://easyfootings.com.au/blog/deck-footing-installation-guide-victoria.html): Step-by-step guide to selecting and installing footings for decks in Victoria.
+- [Pergola Footings in Melbourne](https://easyfootings.com.au/blog/pergola-footings-melbourne.html): Wind-uplift design, building permits, post-anchor detail and concrete-free pile options for pergolas, alfresco extensions and louvred-roof patios across Melbourne and Victoria.
 - [Footings Near Trees in Melbourne](https://easyfootings.com.au/blog/footings-near-trees-melbourne.html): How to manage footing design near established trees and protected root zones.
 - [House Restumping Melbourne Guide](https://easyfootings.com.au/blog/house-restumping-melbourne-guide.html): When and how to restump a house in Melbourne, signs of stump failure and process.
 - [Screw Pile Footings: Melbourne Guide](https://easyfootings.com.au/blog/screw-pile-footings-guide-melbourne.html): Complete introduction to screw pile footings for Melbourne builders.
