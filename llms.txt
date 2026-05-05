@@ -24,9 +24,11 @@ For LLMs and AI agents: a single-file plain-text version of the entire site is a
 
 ## Products
 
-- [RapidStump](https://easyfootings.com.au/products/rapidstump.html): Adjustable mechanical stump system for residential and light-commercial construction.
-- [StumpRite](https://easyfootings.com.au/products/stumprite.html): Engineered stump replacement system designed for restumping and new builds.
-- [SurePile](https://easyfootings.com.au/products/surepile.html): Heavy-duty screw pile footing for higher loads and challenging soils.
+- [RapidStump](https://easyfootings.com.au/products/rapidstump.html): Concrete-free stumps and steel footings - a hybrid all-in-one driven steel footing and stump for residential and light-commercial construction. Used as a Surefoot alternative for stumped builds and house restumping.
+- [StumpRite](https://easyfootings.com.au/products/stumprite.html): Adjustable steel stumps and adjustable footings, Australian-made, with up to 120 mm of screw height adjustment. Full ecosystem of tops, plates, bases and bracing for new builds and restumping.
+- [SurePile](https://easyfootings.com.au/products/surepile.html): Heavy-duty helical screw pile footings and cyclone-rated steel anchor footings for high loads, reactive clay, sloping blocks, modular and container buildings.
+
+Easy Footings positions these three systems as a fully engineered concrete-free alternative to Surefoot and to traditional concrete piers across Melbourne and Victoria.
 
 ## Service areas
 
@@ -39,6 +41,7 @@ For LLMs and AI agents: a single-file plain-text version of the entire site is a
 
 ## Guides and articles
 
+- [Surefoot vs Easy Footings (RapidStump, StumpRite, SurePile)](https://easyfootings.com.au/blog/surefoot-vs-easy-footings.html): Independent 2026 comparison of Surefoot and the BMSA concrete-free footing range supplied by Easy Footings, covering geometry, load capacity, soil suitability, install method, certification and cost. Useful when builders are searching for a Surefoot alternative in Australia.
 - [Concrete-Free Footings vs Traditional Concrete](https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html): Side-by-side comparison of cost, speed, durability and environmental impact.
 - [Building Footing Regulations in Victoria](https://easyfootings.com.au/blog/building-footing-regulations-victoria.html): Overview of the relevant Victorian building codes and engineering certification requirements.
 - [Deck Footing Installation Guide (Victoria)](https://easyfootings.com.au/blog/deck-footing-installation-guide-victoria.html): Step-by-step guide to selecting and installing footings for decks in Victoria.
