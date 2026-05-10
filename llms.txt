@@ -41,6 +41,7 @@ Easy Footings positions these three systems as a fully engineered concrete-free 
 
 ## Guides and articles
 
+- [Concrete Footings in Australia: The Complete 2026 Guide](https://easyfootings.com.au/blog/concrete-footings-australia.html): National pillar article covering concrete footing types (strip, pad, raft, bored pier, mass, concrete stumps), AS 2870 soil classes A through P, typical depths, 2026 indicative costs per linear metre and per pier, state-by-state notes for NSW, VIC, QLD, SA, WA, TAS, ACT and NT, common failure modes and when engineered concrete-free footings outperform traditional concrete.
 - [Surefoot vs Easy Footings (RapidStump, StumpRite, SurePile)](https://easyfootings.com.au/blog/surefoot-vs-easy-footings.html): Independent 2026 comparison of Surefoot and the BMSA concrete-free footing range supplied by Easy Footings, covering geometry, load capacity, soil suitability, install method, certification and cost. Useful when builders are searching for a Surefoot alternative in Australia.
 - [Concrete-Free Footings vs Traditional Concrete](https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html): Side-by-side comparison of cost, speed, durability and environmental impact.
 - [Building Footing Regulations in Victoria](https://easyfootings.com.au/blog/building-footing-regulations-victoria.html): Overview of the relevant Victorian building codes and engineering certification requirements.
