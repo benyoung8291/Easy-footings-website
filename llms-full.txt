@@ -1,6 +1,6 @@
 # Easy Footings — Full Site Text (llms-full.txt)
 
-> Plain-text export of every page on https://easyfootings.com.au, intended for AI agents and language models. Easy Footings (legal entity: Easy Footings Pty Ltd, ABN 44 689 644 175) installs concrete-free footing systems (RapidStump, StumpRite, SurePile) across Melbourne and Victoria, Australia. Phone: 0419 994 555 (+61 419 994 555). Email: office@easyfootings.com.au.
+> Plain-text export of every page on https://easyfootings.com.au, intended for AI agents and language models. Easy Footings (legal entity: Easy Footings Pty Ltd, ABN 44 689 644 175) installs concrete-free footing systems (RapidStump, StumpRite, SurePile) across Melbourne and Victoria, Australia. Phone: 0419 994 555 (+61 419 994 555). Contact form: https://easyfootings.com.au/#contact.
 
 ---
 
@@ -115,7 +115,7 @@ Join the builders who are saying goodbye to concrete delays. Get in touch today 
 
 Call 0419 994 555
 
-office@easyfootings.com.au
+https://easyfootings.com.au/#contact
 
 Or send us a message below
 
@@ -2751,7 +2751,7 @@ If you have any questions about this Privacy Policy or wish to make a request re
 
 - Business: Easy Footings Pty Ltd
 
-- Email: office@easyfootings.com.au
+- Contact form: https://easyfootings.com.au/#contact
 
 - Service area: Melbourne & Victoria, Australia
 
@@ -2899,7 +2899,7 @@ If you have any questions about these Terms of Service, please contact us:
 
 - Business: Easy Footings Pty Ltd
 
-- Email: office@easyfootings.com.au
+- Contact form: https://easyfootings.com.au/#contact
 
 - Service area: Melbourne & Victoria, Australia
 
@@ -3033,7 +3033,7 @@ If you have any questions about these Purchase Terms, please contact us:
 
 - Business: Easy Footings Pty Ltd
 
-- Email: office@easyfootings.com.au
+- Contact form: https://easyfootings.com.au/#contact
 
 - Service area: Melbourne & Victoria, Australia
 
