@@ -28,6 +28,29 @@ For LLMs and AI agents: a single-file plain-text version of the entire site is a
 - [StumpRite](https://easyfootings.com.au/products/stumprite.html): Adjustable steel stumps and adjustable footings, Australian-made, with up to 120 mm of screw height adjustment. Full ecosystem of tops, plates, bases and bracing for new builds and restumping.
 - [SurePile](https://easyfootings.com.au/products/surepile.html): Heavy-duty helical screw pile footings and cyclone-rated steel anchor footings for high loads, reactive clay, sloping blocks, modular and container buildings.
 
+Individual product pages (supply only or supply & install; 14-day returns on unused goods; prices exclude GST with GST-inclusive price shown on page):
+
+- [StumpRite Screw On Adjustable Stump Top](https://easyfootings.com.au/products/stumprite-screw-on-adjustable-stump-top.html): SKU SR-SO-XX, from $32.20 ex. GST.
+- [StumpRite Weld On Adjustable Stump Top](https://easyfootings.com.au/products/stumprite-weld-on-adjustable-stump-top.html): SKU SR-WO-XX, from $27.60 ex. GST.
+- [StumpRite Retro Fit Adjustable Stump Top](https://easyfootings.com.au/products/stumprite-retro-fit-adjustable-stump-top.html): SKU SR-RET-XX, from $32.20 ex. GST.
+- [StumpRite Straight Top Plate](https://easyfootings.com.au/products/stumprite-straight-top-plate.html): SKU SR-ST, $21.85 ex. GST.
+- [StumpRite Vertical Top Plate](https://easyfootings.com.au/products/stumprite-vertical-top-plate.html): SKU SR-VST/VLT/VXLT, from $21.75 ex. GST.
+- [StumpRite Corner Top Plate](https://easyfootings.com.au/products/stumprite-corner-top-plate.html): SKU SR-CT, $21.85 ex. GST.
+- [StumpRite Tee Top Plate](https://easyfootings.com.au/products/stumprite-tee-top-plate.html): SKU SR-TT, $21.85 ex. GST.
+- [StumpRite End Top Plate](https://easyfootings.com.au/products/stumprite-end-top-plate.html): SKU SR-ET, $21.85 ex. GST.
+- [StumpRite Straight Large Top Plate](https://easyfootings.com.au/products/stumprite-straight-large-top-plate.html): SKU SR-SLT, $25.90 ex. GST.
+- [StumpRite 2 Hole Base Plate](https://easyfootings.com.au/products/stumprite-2-hole-base-plate.html): SKU SR-2HBP-XX, from $18.40 ex. GST.
+- [StumpRite 4 Hole Base Plate](https://easyfootings.com.au/products/stumprite-4-hole-base-plate.html): SKU SR-4HBP-XX, from $24.15 ex. GST.
+- [StumpRite Fin Plate Base](https://easyfootings.com.au/products/stumprite-fin-plate-base.html): SKU SR-FP, $32.20 ex. GST.
+- [StumpRite Guy Wire Plate](https://easyfootings.com.au/products/stumprite-guy-wire-plate.html): SKU SR-GW, $109.25 ex. GST.
+- [StumpRite Tek Screw Base Plate](https://easyfootings.com.au/products/stumprite-tek-screw-base-plate.html): SKU SR-TSBP-XX, from $29.90 ex. GST.
+- [StumpRite Cast In Base Plate](https://easyfootings.com.au/products/stumprite-cast-in-base-plate.html): SKU SR-CIB-XX, from $10.35 ex. GST.
+- [StumpRite Cross Bracing](https://easyfootings.com.au/products/stumprite-cross-bracing.html): SKU SR-BR, $87.40 ex. GST.
+- [StumpRite Galvanised Stair Stringers](https://easyfootings.com.au/products/stumprite-stair-stringers.html): SKU S-STRING, from $114.00 ex. GST.
+- [SurePile TieDown DHDG](https://easyfootings.com.au/products/surepile-tie-down-dhdg.html): SKU SPTD-DHDG, from $53.35 ex. GST.
+- [SurePile Driver](https://easyfootings.com.au/products/surepile-driver.html): SKU SPD, $135.00 ex. GST.
+- [SurePile Driver Guide](https://easyfootings.com.au/products/surepile-driver-guide.html): SKU SPDG, $85.00 ex. GST.
+
 Easy Footings positions these three systems as a fully engineered concrete-free alternative to Surefoot and to traditional concrete piers across Melbourne and Victoria.
 
 ## Services
