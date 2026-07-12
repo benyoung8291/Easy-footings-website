@@ -77,25 +77,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            'ef-orange': '#E8983E',
-            'ef-green': '#1B3A2D',
-            'ef-cream': '#F5EDDA',
-            'ef-light': '#F9F6EF',
-            'ef-dark': '#111827',
-          },
-          fontFamily: {
-            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
-          },
-        },
-      },
-    }
-  </script>
+  <link rel="stylesheet" href="/css/styles.css" />
   <style>
     html { scroll-behavior: smooth; }
     .fade-up { opacity: 0; transform: translateY(30px); transition: opacity 0.7s ease, transform 0.7s ease; }
@@ -190,7 +172,7 @@
           </div>
         </div>
         <div class="fade-up">
-          <img src="/images/products/rapidstump-hero.png" alt="RapidStump concrete-free steel footing system" class="rounded-2xl shadow-lg w-full max-w-md mx-auto bg-white p-4" />
+          <img src="/images/products/rapidstump-hero.png" alt="RapidStump concrete-free steel footing system" class="rounded-2xl shadow-lg w-full max-w-md mx-auto bg-white p-4" width="421" height="1250" fetchpriority="high" decoding="async" />
         </div>
       </div>
     </div>
@@ -206,28 +188,28 @@
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
         <div class="text-center fade-up">
           <div class="w-16 h-16 mx-auto mb-4 bg-ef-light rounded-full flex items-center justify-center">
-            <img src="/images/icon-rush.webp" alt="Fast installation" class="w-10 h-10" />
+            <img src="/images/icon-rush.webp" alt="Fast installation" class="w-10 h-10" width="256" height="256" loading="lazy" decoding="async" />
           </div>
           <h3 class="font-semibold text-ef-dark mb-2">15 Min Install</h3>
           <p class="text-gray-600 text-sm">Average install time per RapidStump is approximately 15 minutes</p>
         </div>
         <div class="text-center fade-up">
           <div class="w-16 h-16 mx-auto mb-4 bg-ef-light rounded-full flex items-center justify-center">
-            <img src="/images/icon-hat.webp" alt="Instant load bearing" class="w-10 h-10" />
+            <img src="/images/icon-hat.webp" alt="Instant load bearing" class="w-10 h-10" width="256" height="256" loading="lazy" decoding="async" />
           </div>
           <h3 class="font-semibold text-ef-dark mb-2">Instant Load-Bearing</h3>
           <p class="text-gray-600 text-sm">Build immediately with no curing time and zero downtime after installation</p>
         </div>
         <div class="text-center fade-up">
           <div class="w-16 h-16 mx-auto mb-4 bg-ef-light rounded-full flex items-center justify-center">
-            <img src="/images/icon-stamp.webp" alt="Fully engineered" class="w-10 h-10" />
+            <img src="/images/icon-stamp.webp" alt="Fully engineered" class="w-10 h-10" width="256" height="256" loading="lazy" decoding="async" />
           </div>
           <h3 class="font-semibold text-ef-dark mb-2">Fully Engineered</h3>
           <p class="text-gray-600 text-sm">Rigorously tested at NATA approved facilities with certified engineering</p>
         </div>
         <div class="text-center fade-up">
           <div class="w-16 h-16 mx-auto mb-4 bg-ef-light rounded-full flex items-center justify-center">
-            <img src="/images/icon-eco.webp" alt="Eco friendly" class="w-10 h-10" />
+            <img src="/images/icon-eco.webp" alt="Eco friendly" class="w-10 h-10" width="256" height="256" loading="lazy" decoding="async" />
           </div>
           <h3 class="font-semibold text-ef-dark mb-2">Eco Friendly</h3>
           <p class="text-gray-600 text-sm">Zero concrete means a smaller environmental footprint for your build</p>
@@ -245,7 +227,7 @@
       </p>
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <div>
-          <img src="/images/products/rapidstump-product-2.jpg" alt="RapidStump installed footing" class="rounded-2xl shadow-lg w-full" />
+          <img src="/images/products/rapidstump-product-2.jpg" alt="RapidStump installed footing" class="rounded-2xl shadow-lg w-full" width="247" height="124" loading="lazy" decoding="async" />
         </div>
         <div class="space-y-4">
           <div class="flex items-start gap-4 fade-up">
@@ -380,12 +362,12 @@
       <h2 class="text-3xl font-medium text-ef-dark text-center mb-10 fade-up">Explore Our Other Products</h2>
       <div class="grid sm:grid-cols-2 gap-8 max-w-2xl mx-auto">
         <a href="/products/stumprite.html" class="block bg-ef-light rounded-2xl p-8 hover:shadow-lg transition-shadow text-center fade-up">
-          <img src="/images/products/stumprite-adjustable-stump.webp" alt="StumpRite adjustable house stumps" class="w-32 h-32 object-contain mx-auto mb-4" />
+          <img src="/images/products/stumprite-adjustable-stump.webp" alt="StumpRite adjustable house stumps" class="w-32 h-32 object-contain mx-auto mb-4" width="170" height="227" loading="lazy" decoding="async" />
           <h3 class="font-semibold text-ef-dark text-lg mb-2">StumpRite</h3>
           <p class="text-gray-600 text-sm">Adjustable stump tops, top plates, connectors &amp; bases for steel house stumps.</p>
         </a>
         <a href="/products/surepile.html" class="block bg-ef-light rounded-2xl p-8 hover:shadow-lg transition-shadow text-center fade-up">
-          <img src="/images/products/surepile-feature.png" alt="SurePile tie down system" class="w-32 h-32 object-contain mx-auto mb-4" />
+          <img src="/images/products/surepile-feature.png" alt="SurePile tie down system" class="w-32 h-32 object-contain mx-auto mb-4" width="442" height="439" loading="lazy" decoding="async" />
           <h3 class="font-semibold text-ef-dark text-lg mb-2">SurePile</h3>
           <p class="text-gray-600 text-sm">Fully engineered tie down system for shipping containers &amp; portable buildings.</p>
         </a>
@@ -430,6 +412,8 @@
             <li><a href="/services/concrete-free-footings-bendigo.html" class="text-gray-600 hover:text-ef-green text-sm transition-colors">Bendigo</a></li>
             <li><a href="/services/concrete-free-footings-mornington-peninsula.html" class="text-gray-600 hover:text-ef-green text-sm transition-colors">Mornington Peninsula</a></li>
             <li><a href="/services/concrete-free-footings-gippsland.html" class="text-gray-600 hover:text-ef-green text-sm transition-colors">Gippsland</a></li>
+            <li><a href="/services/adjustable-stumps-victoria.html" class="text-gray-600 hover:text-ef-green text-sm transition-colors">Adjustable Stumps Victoria</a></li>
+            <li><a href="/services/concrete-footings-victoria.html" class="text-gray-600 hover:text-ef-green text-sm transition-colors">Concrete Footings Victoria</a></li>
           </ul>
         </div>
         <div>
