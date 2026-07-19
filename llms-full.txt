@@ -2689,6 +2689,1598 @@ Read more →
 
 ---
 
+# Blog: Footings for Sloping Blocks in Melbourne
+
+Source: https://easyfootings.com.au/blog/footings-sloping-blocks-melbourne.html
+
+Footings for Sloping Blocks in Melbourne: A Complete Builder's Guide
+
+25 April 2026
+Short answer: on a sloping Melbourne block, the cheapest, fastest and structurally cleanest footing solution is almost always a concrete-free system, either helical screw piles (for new builds and heavier loads) or driven steel stumps (for decks, extensions, granny flats and restumps). Bored concrete piers still work on gentle slopes, but once the gradient passes about 1 in 6 the cost of benching, shoring and access blows out to the point where steel-piled alternatives are usually 20-40% cheaper, with no spoil and no concrete trucks reversing up your driveway.
+
+That's the practical answer. The longer answer depends on how steep the block is, the soil class under the topsoil, whether there's rock close to the surface, what you're building, and what the council planning scheme says about cut and fill. This guide walks through each of those factors so you can specify a footing system that gets through permit, copes with Melbourne's reactive clays, and doesn't cost a fortune to install.
+
+
+## What Counts as a Sloping Block in Victoria?
+
+There's no single legal definition, but Victorian builders, building surveyors and structural engineers tend to use roughly these gradient bands when scoping a job:
+
+Gradient | Practical description | Footing implication | < 1 in 10 (under ~10%) | Effectively flat suburban block | Standard waffle pod or strip footing usually fine | 1 in 10 to 1 in 6 (~10-17%) | "Mild slope". Most outer-suburban blocks | Engineered piers or screw piles, possibly stepped slab | 1 in 6 to 1 in 4 (~17-25%) | "Sloping block". Common in Eltham, Warrandyte, Belgrave, Mt Eliza | Screw piles or driven steel stumps strongly preferred | 1 in 4 to 1 in 3 (~25-33%) | "Steep block" or "hillside block" | Engineer-specified piles, almost always non-excavated | > 1 in 3 (over 33%) | Very steep. Found around Olinda, Kalorama, Lorne, Apollo Bay | Specific design, geotechnical input, often pole-frame on screw piles
+A useful rule of thumb: if you can comfortably wheel a barrow of concrete up the driveway, the block is in the "mild" band. If you need to rope yourself in to set up the level, it's hillside. Most of the inner-northern, inner-eastern and bayside Melbourne suburbs sit comfortably in the first two bands. The real sloping-block country is the Dandenong Ranges, the Yarra Valley foothills, parts of Eltham, Warrandyte, Templestowe, Park Orchards, Mooroolbark, Belgrave and Olinda, the Macedon Ranges, the Mornington Peninsula's Arthur's Seat and Mt Martha shoulders, the back of Ballarat, the gully blocks of Bendigo, and along most of the Surf Coast and Otways.
+
+
+## Why Slopes Are a Problem for Traditional Concrete Footings
+
+A bored concrete pier or a strip footing is designed around a flat-ish setup pad. As soon as the ground starts to fall away, several things conspire to push the cost and the program out:
+
+- Benching and cut-to-fill. To get a level platform for the auger or the slab, you have to cut into the high side and either retain or compact fill on the low side. On a 1 in 5 slope across a 12 m wide house, that's easily a 2.4 m vertical cut, plus a retaining wall.
+- Shoring and safety. Open trench excavation deeper than 1.5 m on a slope effectively requires battering or shoring under the OH&S regs. That's extra plant, extra time, and extra spoil.
+- Spoil disposal. A single bored pier on a sloping block can generate 0.4-0.8 m³ of spoil, half of it Melbourne-grey clay that's officially "category C waste" if it has fill or contamination history. Tip fees alone now run $80-$160 per cubic metre across metro Melbourne.
+- Concrete truck access. 8 m³ trucks can't reverse up steep driveways or cross saturated lawns. On most genuine sloping blocks the only options are a pump truck (extra $1,200-$2,000 per visit) or barrowing concrete by hand, which is brutally slow and limits your daily pour.
+- Slab edge below NGL. On stepped or split-level slabs, the down-slope slab edge can drop below natural ground level. That brings in damp-proofing, agricultural drains, and termite-treatment costs that don't exist on a flat block.
+- Reactive-clay risk multiplied. Cut-and-fill changes the moisture profile of the soil. A reactive clay that was previously stable on a slope can become heavily reactive once you've removed the surface vegetation and exposed it to weather. Class M sites can effectively become Class H1 after a season of cut.
+None of this is impossible. Concrete builders have been working on Melbourne hillsides for a century. But on the actual job, every metre of slope adds tradies, days, plant, retaining and risk. It's the dominant reason that hillside builds blow their budgets.
+
+
+## Soil & Geotechnical Considerations on a Slope
+
+Footings transfer load through whatever's under the topsoil, and on a sloping Victorian block that profile is rarely uniform. A standard AS 2870 soil report for a sloping site will typically flag one or more of the following:
+
+- Reactive clay (Class M, H1, H2). Found right across Melbourne's clay belt: from the inner west through Brunswick, Coburg, Preston, out to Greensborough, Eltham and Warrandyte. Reactive clays swell in winter and shrink in summer, and on a slope they tend to creep downhill at 5-15 mm a year.
+- Mixed fill. Older subdivided blocks in the eastern hills were often levelled with uncontrolled fill in the 1960s and 70s. That fill is rarely competent enough to bear a footing, so the design has to reach through it to native ground.
+- Floaters and shallow basalt. Common in the Dandenongs, the Macedon Ranges, around Mt Dandenong and parts of Mornington. Bored piers can refuse on a floater 800 mm in, leaving you with a half-finished hole and an awkward conversation with the engineer. Helical screw piles can usually grind through or be reset.
+- Saturated zones and seepage lines. Sloping sites concentrate groundwater along clay/rock interfaces. A bored pier hole that fills with water has to be tremie-poured (more cost, more risk). Sealed steel piles are unaffected.
+- Slope stability and global failure. On gradients above 1 in 4, the geotech engineer is checking not just bearing capacity but the overall stability of the slope. Heavy footing systems with concentrated loads can actually destabilise a marginal slope; distributed pile loads are usually preferred.
+The practical workflow is: get a geotechnical investigation (typically two boreholes plus DCP profiling for a residential block), share the report with your structural engineer and with us, and design the footings around the actual ground conditions rather than the architectural slab thickness. An extra $400-$800 spent on a thorough soil report routinely saves $5,000-$15,000 in over-engineered footings or mid-build redesigns.
+
+
+## Footing Options for Sloping Blocks: A Side-by-Side
+
+For a typical Melbourne sloping block, the realistic short-list is:
+
+Footing system | Best for | Slope limit | Trade-off | Stepped concrete strip footing / waffle slab | New build, slope < 1 in 10, stable Class M or better | ~1 in 8 | Heavy excavation, retaining walls, large cut-to-fill | Bored concrete piers | Pier-and-beam or split-level, slope to ~1 in 6 | ~1 in 5 | Spoil, plant access, slow on hillsides, can refuse on floaters | Helical screw piles (e.g. SurePile) | New homes, extensions, decks on any slope, mixed soils | No practical limit | Slightly higher per-pile cost; engineering required | Driven steel stumps (e.g. RapidStump) | Decks, pergolas, granny flats, light-medium loads | ~1 in 3 | Lighter loads only; needs solid bearing within 3-4 m | Adjustable steel stumps (e.g. StumpRite) | Restumps and retrofits on existing sloping homes | ~1 in 4 | Best inside an existing footprint; not for new pole-frame builds | Pole-frame on screw piles | Steep hillside houses (Dandenongs, Otways) | Up to ~1 in 2 | Architectural commitment; specialist build
+A few things stand out from that table. First, the slope limits for steel-piled systems are an order of magnitude higher than for concrete. Second, the headache of working with concrete grows almost linearly with the gradient, while screw piles and driven stumps install at almost the same rate at 1 in 10 as they do at 1 in 4. That's the core economic argument for going concrete-free on a slope.
+
+
+## Why Screw Piles & Steel Stumps Excel on Slopes
+
+Five reasons concrete-free systems consistently beat traditional concrete on Melbourne sloping blocks:
+
+- No benching required. A helical screw pile or driven steel stump is installed vertically through whatever ground sits beneath the install head, regardless of the surface fall. There's no need to cut a level platform first. On a 1 in 4 block that single fact saves days of plant time and dozens of cubic metres of cut.
+- Variable above-ground heights, set by the engineer. The piles are installed to a uniform engineered depth. Whatever's left protruding above natural ground is cut off at the right elevation for the bearer, so the building line is dead level even if the natural ground falls 1.8 m across the footprint.
+- Tiny plant footprint. Most of our installs use a 1.7-3.5 tonne mini-excavator with a hydraulic drive head, or a hand-held drive head where access is too tight for plant. Both can be walked across a sloping site without damaging the existing terrain or compacting reactive clays.
+- No spoil, no concrete trucks. A steep block with a single-car driveway and no rear access is a nightmare for concrete logistics. The same block, with the same footing layout, takes a screw pile crew about a day. We turn up with one ute and a tilt-tray; nothing leaves the site.
+- Verifiable load capacity at install. Screw piles are torque-tested as they're driven, so each pile gets its individual bearing capacity recorded in the install certificate. On a sloping site with variable soils this is gold; you don't have to take it on faith that your concrete pier is bearing on what the geotech said it would.
+For deeper detail on how the helical pile install process works and the engineering basis for it, see our complete screw pile footings guide. For the broader argument on concrete-free construction generally, see concrete-free footings vs traditional concrete.
+
+
+## Choosing the Right BMSA System for Your Slope
+
+Easy Footings installs three concrete-free systems from BMSA Footing Solutions. Each suits a different slice of the sloping-block market:
+
+- SurePile is our full helical screw pile. It's the right call for new builds, two-storey extensions, pole-frame houses on hillsides, and any job where the geotech report shows mixed fill, deep reactive clay, or you need to reach competent strata 3-6 m down. SurePile is the workhorse on sloping blocks across the Dandenongs, Yarra Valley and Surf Coast.
+- RapidStump is a driven steel stump system, ideal for decks, pergolas, carports, granny flats and light-frame extensions on mild-to-medium slopes. RapidStump installs much faster than SurePile when the bearing layer is shallow (within 2-3 m), and is the most cost-effective choice for typical residential decks on Melbourne's eastern and bayside slopes.
+- StumpRite is a height-adjustable steel stump system designed for restumping and relevelling existing sloping homes. The adjustable head accommodates the inevitable settlement variation across a hillside floor without needing to pull up the floor or relevel by jacking each timber stump independently.
+Not sure which suits your project? The decision matrix in RapidStump vs StumpRite vs SurePile compares load ratings, soil suitability and price points side-by-side. For most enquiries the right answer is obvious within a few minutes once we see the soil report and the slope.
+
+
+## Council Rules & Permits for Sloping-Block Footings
+
+Every Victorian residential footing job needs a building permit. On a sloping block there are two extra layers of regulation to plan around:
+
+- Cut and fill restrictions. Many sloping suburbs have planning controls that cap how much a development can cut into the natural slope. The Yarra Ranges, Nillumbik, Macedon Ranges and parts of Mornington Peninsula commonly enforce a 1 m cut rule outside specific overlays. Concrete-free piles avoid this entirely because they don't bench the site.
+- Erosion management overlays (EMOs). Hillside titles in the Dandenongs, the Strathbogies and the Otways are often subject to an EMO. A planning permit for any earthworks deeper than around 300 mm is required, and the surveyor will want a sediment-control plan. Steel piles generate effectively no spoil and don't trigger this layer.
+- Bushfire Attack Level (BAL) construction. A lot of sloping land in Victoria is in BAL-29 or BAL-40 zones. Steel screw piles are non-combustible and meet BAL requirements without modification. Timber stumps don't, so a restump on a BAL-rated property is almost always going to use steel.
+- AS 2870 footing classification. Your building surveyor will want to see that footings are designed to AS 2870 for the soil class. Helical piles and driven steel stumps are routinely engineered under AS 2870 and AS 5100 (bridge code) and produce a clear engineering certificate at hand-over.
+For a deeper dive on the regulatory framework, see our explainer on Victorian building footing regulations.
+
+
+## Practical Tips for Builders Working on Slopes
+
+A few things we've learned across hundreds of sloping installs in Melbourne and regional Victoria:
+
+- Set out from the high side. If you set out a sloping footing grid from the down-slope corner, every cumulative measurement error pulls the building line further off. Start from the high side and work down with offsets.
+- Survey before, not during. A licensed surveyor's contour plan to 250 mm intervals is cheap and saves disputes about cut volumes once the engineer issues the footing schedule. Insist on it before pricing the slab.
+- Specify pile cut-off heights, not embedment depths. On a slope you want each pile cut off at the same elevation, and the engineer back-calculates the embedment. The other way round leads to bearer levels that need shimming.
+- Plan the access path properly. Driving a 3 t excavator across a wet sloping clay site without ground-protection mats is the fastest way to scar the lawn and bog the plant. Hire mats; charge the client; everyone's happier.
+- Order more piles than the engineer specified. On a hillside it's normal to abandon one or two piles when they hit a floater or a buried tree root and reset 200-300 mm away. Keeping two or three spare piles on the truck means we don't have to come back.
+- Drainage is the silent killer. A perfectly engineered hillside footing system can still fail if surface water is concentrated against the up-slope side of the building. Spec a 100 mm slotted ag-pipe in a gravel-filled trench across the up-slope face and lead it to a legal point of discharge before the slab goes down.
+- Document everything. Photograph each pile location, install torque, and final cut-off. The certifier will love you, the bank will love you, and if anything moves in five years the records make the warranty conversation a five-minute job rather than a five-figure one.
+
+## What Does It Actually Cost? Indicative Melbourne Pricing
+
+Every site is different, but a few benchmark numbers from recent Melbourne sloping-block jobs will give you a feel:
+
+Project | Slope & soil | Concrete-free quote | Equivalent concrete quote | 35 m² rear deck, Eltham | 1 in 6, Class M clay | $4,800-$6,200 (RapidStump, 9 stumps) | $7,500-$9,500 (bored piers + spoil) | 60 m² ground-floor extension, Warrandyte | 1 in 5, fill over basalt | $11,000-$14,000 (SurePile, 14 piles) | $18,000-$24,000 (piers + retaining) | Restump 1960s timber-frame, Mt Dandenong | 1 in 4, mixed fill | $16,000-$22,000 (StumpRite, 32 stumps) | $26,000-$38,000 (concrete restump + dig) | New 180 m² pole-frame house, Olinda | 1 in 3, Class H1 over rock | $32,000-$40,000 (SurePile, 28 piles) | $55,000-$80,000 (piers + extensive cut)
+Indicative ranges only. Actual quote depends on access, soil report, engineering, BAL rating and pile depth. All figures ex-GST as at April 2026.
+
+The pattern is consistent. On flat blocks, concrete-free footings are price-comparable to bored piers. On sloping blocks, the gap widens dramatically because every concrete cost (excavation, retaining, pumping, spoil disposal) scales with the gradient, while pile costs barely move. The steeper the block, the more obvious the answer.
+
+
+## Frequently Asked Questions
+
+
+### What's the best footing for a sloping block in Melbourne?
+
+On most Melbourne sloping blocks the best footing is a concrete-free pile system, either helical screw piles for new builds and heavier loads, or driven steel stumps for decks, granny flats and similar. They install with no benching, no spoil and no concrete trucks, and remain affordable on gradients where bored piers become slow and expensive.
+
+
+### When does a Victorian block count as a sloping block?
+
+Most builders treat any site with a fall greater than around 1 in 10 (a 10% gradient) as a sloping block. Above 1 in 5 it's commonly classed as steep, and above 1 in 4 a structural engineer's specific footing design is essentially mandatory under AS 2870.
+
+
+### Are screw piles approved for sloping sites in Victoria?
+
+Yes. Helical screw piles and driven steel stumps are routinely engineered for sloping and hillside sites across Victoria under AS 2870 and AS 5100. They are particularly suited to slopes because they reach competent bearing strata below the disturbed surface soil and can be installed at variable cut-off heights without benching the site.
+
+
+### Do I need a soil test before designing footings on a sloping block?
+
+Yes. AS 2870 requires a geotechnical investigation for any residential footing design, and on sloping blocks this is even more important because soil profile, depth to rock and slope stability all influence which footing system is appropriate. A standard residential soil report costs around $400-$800 and turns around in 5-10 working days.
+
+
+### Can I use a waffle pod slab on a sloping block?
+
+Waffle pod slabs are designed for flat or near-flat sites and are difficult to detail on slopes greater than around 1 in 10. Above that, builders typically move to a stepped slab, a suspended slab, or a pier-and-beam structure. On gradients above 1 in 6, a pier-and-beam supported by screw piles is almost always the cheapest and fastest option.
+
+
+### How long does a sloping-block screw pile install take?
+
+For a typical residential job with 12-25 piles, the install itself is usually one to two days regardless of the gradient. That doesn't change much from a flat block. The big saving on a slope is everything not done: no excavator hire to bench the site, no truckloads of spoil out, no concrete pump bookings, no retaining wall trades.
+
+
+### Will my insurer cover a house on screw piles on a hillside?
+
+Yes. Screw pile and driven steel stump systems carry full Australian engineering certification, including for sloping and hillside sites. Mainstream Australian home insurers and building warranty providers treat them identically to a concrete-piered foundation. We supply the install certificate and engineering compliance documentation with every job.
+
+
+## The Bottom Line
+
+A sloping Melbourne block looks intimidating on paper. Once you swap the default concrete strategy for a concrete-free pile system, most of the difficulty disappears: there's no benching, no spoil, no truck access problem and no retaining wall hidden in the slab edge. You get an engineered footing system installed to a verifiable load capacity, on a one-day site visit, at a price that's typically 20-40% below the equivalent concrete-piered design once excavation and access costs are loaded in. Get a contour survey and a soil report early, talk to a structural engineer who has worked with screw piles, and the rest of the build runs like a flat-block job.
+
+---
+
+# Blog: Granny Flat Footings in Victoria
+
+Source: https://easyfootings.com.au/blog/granny-flat-footings-victoria.html
+
+Granny Flat Footings in Victoria: A Complete 2026 Guide
+
+26 April 2026
+Short answer: for most Victorian granny flats and secondary dwellings the right footing system in 2026 is a concrete-free pile system, either driven steel stumps for typical 50-60 sqm single-storey units, or helical screw piles where the soil is reactive, the block falls more than 1 in 10, or there's no truck access to the rear. They install in a day or two, cost 30-50% less than an equivalent waffle slab once you account for backyard access, and meet AS 2870 with full structural engineering certification.
+
+The longer answer depends on which Victorian planning pathway you're using, the size of the unit, the soil class beneath the lawn, and whether you can actually fit a concrete truck and a pump down the side of the existing house. This guide walks through each of those factors so you can pick a footing system that gets through the building permit, stays on budget, and doesn't tear up the back yard.
+
+
+## The 2026 Victorian Planning Picture
+
+From late 2023 the Victorian Government progressively reformed the planning rules for "Small Second Homes" (the planning name for what most people call a granny flat or DPU). For many lots the changes mean:
+
+- No planning permit required for a single Small Second Home up to 60 sqm in floor area on most residential lots 300 sqm or larger, provided standard setback, height and tree protection rules are met.
+- Building permit still required from a registered building surveyor, including a structural footing design certified to AS 2870.
+- Independent occupation allowed. Unlike the old "dependent person's unit" framework, a Small Second Home no longer has to be occupied by a relative and doesn't have to be removed when occupancy ends.
+- Overlays still apply. Heritage, bushfire (BMO/BAL), flood (LSIO/SBO), erosion (EMO), vegetation (VPO/SLO) and significant tree overlays still trigger their own permits and assessments.
+For builders and homeowners, the practical effect is that the planning side of a granny flat job has gone from a 3-6 month process down to weeks, but the building side is unchanged. The footing is still the single highest-risk line item: it has to be engineered, inspected, certified and warrantied. Footing decisions made for the wrong reasons (cheapest quote, fastest crew, "it's just a granny flat") routinely come back to haunt the build at frame inspection or, worse, two years later when the floor starts to move.
+
+
+## What Loads Does a Granny Flat Actually Put on Footings?
+
+A typical Victorian granny flat is one of three constructions:
+
+- Lightweight timber frame, weatherboard or fibre-cement clad, Colorbond roof — by far the most common. A 50-60 sqm unit weighs around 120-180 kPa·m² distributed, with point loads at the corner posts of a verandah or skillion if there's one.
+- Modular / prefabricated unit — delivered on a truck, craned into place. Loads are similar to a stick-built timber frame but concentrated under the chassis bearers, so footing setouts are tight and unforgiving.
+- Brick veneer or full masonry — heavier (250-350 kPa·m² distributed), needs a more conservative footing design, and is the worst fit for a tight backyard infill because of the brick truck and scaffolding requirements.
+For 90% of granny flat enquiries we see in Melbourne, the building is a lightweight timber frame, the loads are well within the rated capacity of any compliant footing system, and the choice between footings comes down to access, soil and program, not raw structural capacity.
+
+
+## Footing Options for a Victorian Granny Flat
+
+Three realistic short-listed systems for a 50-60 sqm granny flat:
+
+System | Best for | Typical install time | Watch out for | Waffle pod slab on ground | Open lots, flat blocks, masonry walls | 2-3 weeks (excavate, set, pour, cure) | Truck access, spoil disposal, reactive clay risk | Bored concrete piers + suspended bearers | Mild slope, established lawns | 1-2 weeks (auger, set cages, pour) | Spoil, concrete pump cost, refusal on rocky sites | Driven steel stumps (RapidStump) | Most timber-frame granny flats on competent soil | 1 day | Bearing layer must be within ~3 m | Helical screw piles (SurePile) | Reactive clay, sloping blocks, fill, deep bearing | 1-2 days | Slightly higher per-pile cost, engineering required
+Notice the install-time column. A pile system gets the footing stage off the critical path in a single visit, which on a typical 12-week granny flat program is the difference between a frame inspection in week 3 and one in week 6. That alone is often worth more than the difference in materials cost.
+
+
+## The Access Problem No One Quotes For
+
+Almost every granny flat in Victoria sits in the back yard of an existing house. The footing supplier doesn't get the front lawn or the driveway, they get whatever's left after the existing house, the deck, the carport, the side gate and the established trees. In practice this means:
+
+- Side gates are typically 900-1100 mm wide. A standard concrete pump line will fit. A 6 m³ concrete truck won't.
+- Lawns saturate quickly. Two days of rain in late autumn turns the side passage into a mud track. Concrete trucks will refuse to drive on it. A 1.7 t mini-excavator with rubber tracks usually still gets through.
+- Established trees are on most blocks. Even where they're not formally protected, root damage from a slab excavation kills the tree and creates a warranty claim.
+- Existing services run everywhere. Sewer and stormwater frequently cross the back yard. A 450 mm bored pier hits a 100 mm clay sewer line about once every six jobs. Steel piles can be repositioned 200 mm and re-piloted; a concrete crew has to stop, scan, redesign.
+- Concrete spoil has to leave through the same side gate it came through. Wheelbarrows, ramps, compaction strips of plywood across the lawn. None of it is in the original quote.
+On a flat, open block with side access you can drive a truck onto, a waffle slab is genuinely competitive on price. On the typical Melbourne backyard infill, the access tax pushes the slab option past the pile option by thousands of dollars before a single piece of timber gets cut.
+
+
+## Why Concrete-Free Wins on Granny Flats
+
+Five specific reasons we recommend concrete-free pile systems on most Victorian granny flat jobs:
+
+- One-day install. A 50 sqm granny flat needs around 12-16 piles. We typically have them in by lunchtime and capped by knock-off, ready for the framing crew the next morning. There's no curing window and no second visit.
+- Fits through the side gate. The hand-piloted drive head fits through anything wider than 800 mm. The mini-excavator option needs about 1100 mm. Both leave the lawn intact, and we don't need to rip out the side fence or the established hedge.
+- No spoil to remove. A bored-pier granny flat generates 4-6 m³ of spoil; a slab generates 15-25 m³ depending on cut. Disposal in metro Melbourne costs $80-$160 per cubic metre before you've paid the bobcat to cart it. Steel piles displace soil rather than removing it, so the spoil bill is zero.
+- Plays nicely with reactive clay. Most of Melbourne's middle and outer suburbs sit on Class M, H1 or H2 soil. A slab on Class H1 needs significant edge stiffening, internal beams and screen walls. A pile system bears below the active zone and bypasses the problem entirely.
+- Reversible and adjustable. If the granny flat is removed in 30 years, screw piles and driven stumps can be unwound and the lawn restored. Try doing that with a 100 mm waffle slab.
+The broader trade-off between concrete and concrete-free is laid out in our concrete-free vs traditional concrete comparison. For granny flats specifically, it's the access and program advantages that swing the decision.
+
+
+## Choosing the Right BMSA System
+
+Easy Footings installs three concrete-free systems from BMSA Footing Solutions. For granny flats:
+
+- RapidStump is the default choice for a typical 50-60 sqm timber-frame granny flat on Class M or stiffer soil. Driven steel stumps, fast install, well within the load capacity of any single-storey lightweight unit, and the most cost-effective option per pile.
+- SurePile is the right call for granny flats on Class H1 or H2 reactive clay, sloping back yards, blocks with significant fill history, or any unit that's masonry rather than timber. Helical screw piles reach competent strata 3-6 m down and load-test on install.
+- StumpRite is occasionally used where the granny flat is being added under or alongside an existing dwelling that's being relevelled at the same time. The adjustable head accommodates floor-level variation across the combined structure.
+The RapidStump-vs-SurePile question is easy to answer in advance: send us the soil report and a rough site plan, and we'll tell you which system suits the job within an hour. The full decision matrix lives in our RapidStump vs StumpRite vs SurePile comparison.
+
+
+## Soil & Site Considerations
+
+AS 2870 still applies. A granny flat is a Class 1a residential building under the National Construction Code, and the building surveyor will require:
+
+- A geotechnical soil report with an AS 2870 site classification (A, S, M, H1, H2, E or P). Most Melbourne residential reports come in at $400-$700 and turn around inside two weeks.
+- An engineering footing design that responds to that classification. For pile systems, that means a structural engineer's design schedule listing pile size, depth, spacing and reaction load per pile.
+- An install certificate at the end of the works. For screw piles, this includes torque readings per pile; for driven stumps it includes refusal records and pile lengths. The surveyor signs off the footing stage on the strength of this document.
+For granny flats specifically, two soil scenarios deserve special attention:
+
+- Reactive clay close to a mature tree. The roots dry out one side of the clay in summer; the absence of roots wets it up in winter. The footing has to bear deeper than the active zone, which on Class H2 sites can be 1.5-2.5 m. Bored piers can do this; helical piles do it more reliably.
+- Old fill. Backyards in older Melbourne suburbs frequently have 0.5-1.5 m of unconsolidated fill from past landscaping or pool removal. The fill itself is rarely structural-grade, so the footing has to penetrate to native ground. Screw piles handle this well; slabs require an over-excavation and engineered fill, which often kills the project.
+For a deeper dive on the regulatory side, see Victorian building footing regulations. If your block falls more than 1 in 10, also worth reading our sloping-block footings guide.
+
+
+## Practical Install Tips for Granny Flat Footings
+
+- Lock in the soil report before the engineer drafts the footing schedule. Having an engineer redesign mid-project because the report comes back as Class H2 instead of M is the single most common source of program delay on a Victorian granny flat.
+- Walk the side gate with us before quote. A 30-second video of the side passage tells us whether we need the hand-piloted head or the mini-excavator, and whether the lawn needs ground-protection mats.
+- Set out from the existing house, not the back fence. Boundary fences in Melbourne's older suburbs are routinely 100-300 mm off the title boundary. Setting out from the existing house keeps the granny flat at the correct setback and avoids encroachment surprises.
+- Confirm services before piling. A 50 sqm setout will usually have at least one sewer, one stormwater and one water service crossing it. Hydro-vac potholing or a CCTV scan before the install day costs $300-$500 and prevents a serious incident.
+- Get the bearer height right. A pile system gives you free choice of finished floor level. We recommend 450-600 mm of clear underfloor for ventilation and termite inspection, which keeps the BCA happy and prevents the floor sweating in winter.
+- Plan the deck or step at the same time. If there's an entry deck or a small verandah, the footings for it can be installed on the same site visit. Same crew, same rate, same day. Adding decking footings later doubles the mobilisation cost.
+- Document everything. Each pile gets photographed, torqued and recorded. The engineer signs the structural compliance certificate. The surveyor signs off the footing stage. The bank loan and the home warranty insurance both rely on that paperwork.
+
+## What Do Granny Flat Footings Actually Cost in Melbourne?
+
+A few benchmark numbers from recent Victorian jobs:
+
+Granny flat scenario | Concrete-free pile quote | Equivalent waffle slab quote | 45 sqm timber frame, flat block, Reservoir | $7,500-$9,000 (RapidStump, 12 stumps) | $13,500-$17,000 (waffle slab) | 60 sqm timber frame, Class H1 clay, Bentleigh | $10,500-$13,500 (SurePile, 14 piles) | $18,000-$24,000 (Class H1 stiffened slab) | 55 sqm timber frame, sloping block, Eltham | $11,000-$14,000 (SurePile, 14-16 piles) | $22,000-$30,000 (stepped slab + retaining) | 60 sqm modular drop-in unit, Geelong | $8,500-$11,000 (RapidStump, 14 stumps) | $15,000-$20,000 (slab to chassis spec)
+Indicative ranges only. Actual quote depends on access, soil report, slope, bearing depth and BAL rating. All figures ex-GST as at April 2026.
+
+The pattern is consistent: on a typical Victorian backyard granny flat, concrete-free pile footings come in 30-50% below an equivalent slab. The harder the access and the worse the soil, the bigger the gap.
+
+
+## Frequently Asked Questions
+
+
+### Do you still need a building permit for a granny flat in Victoria?
+
+Yes. The 2025-2026 Victorian planning reforms removed the requirement for a planning permit for many small secondary dwellings (typically up to 60 sqm on lots of 300 sqm or more), but a building permit is still required. The footings must be designed to AS 2870 by a structural engineer and signed off by a registered building surveyor.
+
+
+### What's the best footing for a granny flat?
+
+For most Victorian granny flats, concrete-free pile footings (driven steel stumps or helical screw piles) are the best choice. They install in a day, generate no spoil, work on tight infill blocks where concrete trucks can't access, and eliminate retaining walls on sloping back yards.
+
+
+### How much do granny flat footings cost in Melbourne?
+
+A typical 50-60 sqm timber-frame granny flat in Melbourne runs $7,500-$14,000 for concrete-free pile footings supplied and installed, depending on soil class, slope and access. An equivalent waffle slab usually lands at $14,000-$24,000 once excavation, fill and concrete pumping are loaded into a tight backyard site.
+
+
+### Can a granny flat sit on screw piles?
+
+Yes. Screw piles and driven steel stumps are routinely engineered as the primary footing system for granny flats and secondary dwellings under AS 2870 and AS 5100. They are particularly suited to backyard infill where access is restricted, the lawn cannot be excavated, or the block has reactive clay or fill.
+
+
+### Can I install a granny flat on screw piles myself?
+
+No. Helical screw piles and driven structural stumps must be installed by a qualified contractor with calibrated hydraulic equipment, and the install must be torque-tested and certified to match the engineer's design. Self-install is not accepted by Victorian building surveyors and won't pass a frame inspection.
+
+
+### How long does the footing stage take?
+
+For a typical 50-60 sqm granny flat with 12-16 piles, the footing install is usually one day on site, with the framing crew able to start the morning after. There's no concrete cure window. From engagement to first frame day, the bottleneck is almost always the engineering and soil report, not the install itself.
+
+
+### Will a screw pile granny flat affect my home warranty?
+
+No. Screw pile and driven steel stump footings are accepted by all major Victorian domestic building insurers and warranty providers under standard policy terms. We supply the engineer's compliance certificate and install records as part of every job, which the warranty insurer adds to your build file.
+
+
+## The Bottom Line
+
+A Victorian granny flat sits on the most awkward piece of land in any residential project: a backyard with limited access, established trees, mixed soils, hidden services and an existing house in the way. Concrete-free pile footings are designed for exactly this scenario. They install in a day, generate no spoil, fit through the side gate, comply with AS 2870, and routinely come in 30-50% below an equivalent slab once the access tax is loaded in. Get the soil report early, talk to a structural engineer who has signed off on screw piles before, and the footing stage stops being the bottleneck on the build.
+
+---
+
+# Blog: Backyard Office Pod Footings in Melbourne
+
+Source: https://easyfootings.com.au/blog/backyard-office-pod-footings-melbourne.html
+
+Backyard Office Pod Footings in Melbourne: A Complete Guide
+
+26 April 2026
+Short answer: for almost every backyard office pod in Melbourne, the right foundation is a concrete-free pile system, either driven steel stumps for typical 6-12 sqm pods on competent soil, or helical screw piles where the block falls or the soil is reactive. Pods are small, light, and often arrive prefabricated on a tilt-tray. Pile footings install in half a day, leave the lawn intact, fit through a 900 mm side gate, and let the pod be removed cleanly if you ever sell up or relocate it.
+
+The longer answer depends on the size of the pod, whether it's plumbed or wired, what the building surveyor wants to see, and how the supplier built the chassis. This guide walks through each of those factors so you can specify a foundation that turns up on the day, fits the pod, and doesn't blow the budget on a small backyard project.
+
+
+## What Counts as a "Backyard Office Pod"?
+
+The market has fragmented into half a dozen overlapping categories. The footing rules apply roughly the same way to all of them, but the size, weight and chassis details differ:
+
+- Garden office pods — typically 6-12 sqm, single room, lightweight timber or SIP construction, no plumbing. The classic WFH studio bought online or from a local prefab supplier.
+- Studio pods — 9-18 sqm, sometimes with a small bathroom or kitchenette. Often used for art, music or yoga rather than a desk job.
+- Cabin / chalet pods — 15-25 sqm, occasionally with a sleeping area. Heavier, frequently using engineered timber or steel framing.
+- Container conversions — 6 m or 12 m shipping containers fitted out as offices. Heavy chassis loads concentrated at four corner castings.
+- Modular drop-in pods — fully fitted at the factory, craned in on a tilt-tray or HIAB truck. The supplier specifies the foundation grid in advance.
+- Site-built studios — framed and clad on site by a carpenter. Slower to build but easier to fit on awkward blocks.
+Across all of these, the typical loads are well within the rated capacity of a single 76 mm or 89 mm steel pile. The decision between footing systems is rarely about structural capacity; it's about access, install speed, supplier coordination, soil and reversibility.
+
+
+## The Victorian Permit Picture
+
+Whether your pod needs a building permit in Victoria depends on size, height, services and use. The general framework under the Building Regulations 2018 (Vic) and the National Construction Code:
+
+Pod profile | Building permit? | Engineered footings? | < 10 sqm, < 3 m high, no services, true non-habitable use | Often exempt under Schedule 3 | Recommended (insurance, future-proofing) | Any pod with plumbing, fixed wiring or used as habitation | Yes | Yes (AS 2870 footing design) | 10-20 sqm office or studio | Almost always yes | Yes | Pod inside an overlay (BMO, HO, VPO, EMO, LSIO) | Yes; planning permit also likely | Yes
+Two practical notes. First, "no services" really means no plumbing and no fixed electrical: most modern office pods have an air-conditioner and at least one fixed power circuit, which by itself usually pushes the job into permit territory. Second, even where a permit isn't strictly required, most homeowners ask for an engineered footing anyway because their home insurer (and any future buyer) will want documentation that the pod isn't going to subside or fall over.
+
+Setbacks, BAL ratings and overlay rules apply to all pods regardless of the permit threshold. A pod inside a 1.5 m boundary clearance, or on a BAL-29 site without non-combustible cladding, can be ordered to be removed even if it was permit-exempt at install. Steel pile foundations are non-combustible and BAL-compliant by default; timber bearers on stumps still need to follow the relevant clearance rules.
+
+
+## Foundation Options for a Backyard Office Pod
+
+Realistic short-list for a typical 6-15 sqm pod in a Melbourne backyard:
+
+Foundation | Best for | Install time | Trade-off | Loose paver / slab pad | Tiny shed-style pod, never moved, no permit | Half a day | No engineering certificate, won't pass an insurance check | Concrete slab on ground | Site-built studio with plumbing, large pods | 1-2 weeks (cure time) | Excavation, spoil, truck access, lawn destruction | Bored concrete piers + bearers | Site-built pods on flat blocks | 3-5 days | Spoil, concrete pump on tight access, refusal on rocky sites | Driven steel stumps (RapidStump) | Most prefab and site-built office pods | Half a day | Bearing layer needed within ~3 m | Helical screw piles (SurePile) | Reactive clay, sloping yards, fill, near-tree installs | Half to one day | Slightly higher cost per pile
+A pod sitting on loose pavers is almost universally a bad idea. The unit might be small and light, but a Melbourne winter on Class M clay will move pavers around enough to bow the floor, jam the door and crack the cladding. A plywood paver-pile install is the most common reason we get called out to relevel a two-year-old pod.
+
+
+## Why Concrete-Free Pile Footings Are Ideal for Pods
+
+- Half-day install. A 6-12 sqm pod typically needs 4-9 piles. We can have them in, capped and surveyed before lunch, with the pod craned into place the same afternoon if the supplier coordinates the delivery.
+- Side-gate friendly. The hand-piloted drive head fits through anything wider than 800 mm. We don't need to lift fence panels, prune the hedge or pull up paving stones.
+- No spoil, no concrete trucks. A bored-pier pod foundation generates a couple of cubic metres of spoil; a slab generates considerably more. Both are problematic on a backyard with no truck access. Steel piles displace soil rather than removing it — nothing leaves the site.
+- Precise pile-head positioning. Modular pod chassis bolt to specific locations. Drive heads with hydraulic survey-grade tolerance get pile heads to within ±5 mm of the supplier's grid drawing. A bored pier is harder to land precisely once the auger has cut the spoil column.
+- Reversible. If you sell the house or relocate the pod, screw piles can be unwound and the lawn restored within a single morning. Concrete slabs cost as much to demolish as they did to pour.
+- Engineered and certified. Each pile is torque-tested at install and the engineer's compliance certificate goes on file. That paperwork keeps the home insurer, the building surveyor and any future buyer happy.
+For the broader case for concrete-free construction generally, see concrete-free footings vs traditional concrete. For granny flats and larger secondary dwellings, our granny flat footings guide covers the same logic at scale.
+
+
+## Choosing the Right BMSA System for Your Pod
+
+- RapidStump is the default choice for almost every backyard office pod on Class M or stiffer Melbourne soil. Driven steel stumps install fast, are well within the load capacity of any prefab or site-built pod, and are the lowest cost per pile.
+- SurePile is the right call when the pod sits on Class H1 or H2 reactive clay, on a sloping back yard, on fill, or close to a mature tree where the bearing has to reach below the active root zone. SurePile helical piles load-test on install and reach competent strata 3-6 m down.
+- StumpRite is occasionally used where a pod is being added under or alongside an existing structure that's also being relevelled. For a stand-alone backyard pod it's rarely the cheapest option.
+For a side-by-side breakdown across all three systems see our RapidStump vs StumpRite vs SurePile comparison.
+
+
+## The Modular Drop-In Workflow
+
+When the pod is delivered as a single craned-in module, the install day is a tightly choreographed half-day. The standard sequence we run with most Melbourne pod suppliers:
+
+- Day -7 to -3: we receive the supplier's foundation grid drawing, confirm soil class, and prepare the pile schedule. Engineer signs off on the design.
+- Day -1 (afternoon) or Day 0 (morning): piles installed, capped at the engineered cut-off, surveyed to ±5 mm against the supplier grid.
+- Day 0 (afternoon): the pod arrives on a tilt-tray or HIAB truck. The operator lifts the pod over the existing house, or through an open gate, and lowers it onto the prepared pile heads. Bolts go in, fixings get torqued.
+- Day +1: electrician and any plumber connect services. Building surveyor inspects the footing certificate alongside the structural sign-off.
+The reason this workflow is now the default for most pod brands in Melbourne is simple: it removes the foundation cure time entirely. A concrete pad needs 7-14 days from pour to drop-in; a pile foundation lets the pod arrive the same day the foundation goes in. For a customer paying rent on a temporary office, that's weeks of savings.
+
+
+## Soil & Site Considerations
+
+The same AS 2870 framework that applies to a granny flat applies to a pod. Even where a Schedule 3 exemption removes the strict permit requirement, the engineer is still going to want a soil class before signing the footing design. Common Melbourne pod-site scenarios:
+
+- Reactive clay (Class M, H1, H2). Common across the inner-northern, inner-eastern and bayside suburbs. The pile has to penetrate to bear below the active zone, typically 1.2-2.0 m on Class M and 1.8-2.5 m on Class H1/H2.
+- Old fill from former pools or landscaping. Backyards in Brighton, Caulfield, Toorak, Camberwell and similar 19th-century suburbs frequently have unconsolidated fill near the back fence. Screw piles bypass it; slabs require over-excavation.
+- Mature trees nearby. Almost every backyard has at least one significant tree. Driven and screw piles deflect rather than cut roots. For the detailed rules, see our footings near trees Melbourne guide.
+- Sloping yards. Many Melbourne blocks fall 200-600 mm across the back yard. Pile foundations install at variable cut-off heights; slabs need stepping or fill. See our sloping-block footings guide for the full detail.
+- Established lawns and gardens. Customers who chose the pod over an extension generally want the back yard preserved. A pile install with ground-protection mats over the access route leaves no scarring.
+
+## Practical Tips for Pod Footings
+
+- Get the supplier's foundation drawing first. Modular pods ship with a specific grid for the chassis or skid frame. Installing piles on a generic 1.5 m centre-to-centre layout and hoping the pod will fit is a recipe for trouble on delivery day.
+- Confirm crane reach before quoting. Even small pods often require a HIAB or mini-crane to lift over the existing house. The reach radius dictates where the truck can park, which in turn dictates where the pod can land. Walk this with us before booking the install.
+- Allow for an entry deck or threshold. Most pods sit 200-300 mm above ground for ventilation and termite clearance. Plan a small step or deck on the same site visit; it's much cheaper to install the deck footings on the same crew mobilisation.
+- Specify cut-off heights, not embedment depths. The pod has a flat floor; the yard might not. Tell the engineer the finished floor level you want and let the pile lengths vary.
+- Pothole services before piling. Sewer, stormwater and water services frequently cross backyards. Hydro-vac potholing or a CCTV scan costs $300-$500 and prevents an expensive incident.
+- Mind the BAL rating. If the property is in BAL-12.5 or higher, the pod cladding, decking and any underfloor enclosure all have to meet the rated construction standard. Steel piles are non-combustible by default.
+- Document everything. Even on a Schedule 3 pod, get the engineer's compliance certificate and the install records. The home insurer will ask for them.
+
+## What Do Backyard Office Pod Footings Actually Cost?
+
+A few benchmark numbers from recent Melbourne pod jobs:
+
+Pod scenario | Concrete-free pile quote | Equivalent slab quote | 6 sqm prefab office pod, flat lawn, Coburg | $3,200-$4,200 (RapidStump, 4 stumps) | $5,500-$7,500 (small slab + access) | 12 sqm timber-frame studio, Class H1 clay, Bentleigh | $5,500-$6,800 (SurePile, 6 piles) | $9,000-$12,500 (stiffened slab + pump) | 15 sqm modular drop-in pod, sloping yard, Eltham | $5,800-$7,200 (SurePile, 6-8 piles) | $11,000-$15,000 (stepped slab + fill) | 20 ft container office, Class M, Geelong | $3,800-$5,000 (RapidStump, 4 corner piles) | $6,500-$9,500 (slab to chassis)
+Indicative ranges only. Actual quote depends on access, soil report, slope, bearing depth and BAL rating. All figures ex-GST as at April 2026.
+
+The pricing pattern repeats from our larger projects: on a flat block with truck access, the gap between concrete and concrete-free narrows. On the typical Melbourne backyard pod site, with a side gate and a saturated lawn between the truck and the install, concrete-free piles come in 30-50% below an equivalent slab.
+
+
+## Frequently Asked Questions
+
+
+### Do I need a building permit for a backyard office pod in Victoria?
+
+Some pods under 10 sqm in floor area, under 3 m in height and not connected to plumbing or fixed wiring may be exempt under Schedule 3 of the Building Regulations 2018. Anything larger, taller, plumbed, electrically connected or used for habitation generally requires a building permit. Setbacks, BAL ratings and overlay requirements still apply either way.
+
+
+### What's the best foundation for a backyard office pod?
+
+For most Melbourne backyard office pods, concrete-free pile foundations (driven steel stumps or helical screw piles) are the best choice. They install in half a day, generate no spoil, fit through a standard side gate, leave the lawn intact, and can be removed cleanly if the pod is later relocated.
+
+
+### Can a prefab pod be dropped straight onto screw piles?
+
+Yes. Most Australian pod suppliers provide a chassis or skid frame designed to bolt directly to a steel pile head. The piles are installed and surveyed in advance, the pod arrives on a tilt-tray or HIAB truck, and the unit is craned into place and bolted down in a single visit.
+
+
+### How much do backyard office pod footings cost in Melbourne?
+
+A typical 6-12 sqm backyard office pod in Melbourne runs $3,200-$6,500 for concrete-free pile footings supplied and installed, depending on soil class, slope and access. An equivalent concrete slab usually lands at $5,500-$10,000 once excavation, pumping and spoil disposal are loaded into a tight backyard site.
+
+
+### Can a pod just sit on pavers?
+
+Technically yes for a very small, lightweight, never-moved pod on stable soil. In practice, pavers shift on Melbourne's reactive clays during the first winter and the pod ends up out of level. Most home insurers will also decline cover on a pod with no engineered foundation. We recommend even the smallest pods sit on a proper engineered pile system.
+
+
+### Will an office pod on screw piles add value to my home?
+
+Buyers value an engineered, certified, permanent-looking pod considerably higher than one sitting on pavers or a casual concrete pad. Screw pile foundations come with an engineering compliance certificate and torque records that buyers' solicitors and home inspectors look for. Where a pod is removable, screw piles also let it be unwound and the lawn restored without trace.
+
+
+### How long does the pod foundation take to install?
+
+For a typical 6-12 sqm pod with 4-6 piles, the foundation install is a half-day on site. There's no concrete cure window, so the pod can be craned into place the same afternoon if the supplier coordinates the delivery.
+
+
+## The Bottom Line
+
+A backyard office pod is the smallest building most homeowners ever commission, and it usually sits on the most awkward piece of land they own: a back yard with one access path, an established garden, and probably a bit of slope. Concrete-free pile foundations are designed for exactly this scenario. They install in half a day, produce no spoil, fit through the side gate, and let prefab pods be craned in on the same day the foundation goes down. Get the soil class confirmed, get the supplier's foundation grid in advance, and the foundation stage stops being the bottleneck on the build.
+
+---
+
+# Blog: Pergola Footings in Melbourne
+
+Source: https://easyfootings.com.au/blog/pergola-footings-melbourne.html
+
+Pergola Footings in Melbourne: Wind Uplift, Permits & Concrete-Free Options
+
+4 May 2026
+Short answer: a pergola is not a small deck. The footing has to resist wind uplift, not just vertical load, because the open roof acts like a sail in a Melbourne southerly. For most 4 to 8 post pergolas, the right footing is a single concrete-free pile per post with an engineered uplift-rated post anchor — either a driven steel stump on competent soil, or a helical screw pile on reactive clay or where the pergola sits over an existing paved area.
+
+The longer answer covers permits, post-anchor detailing, what changes when the pergola is attached to the house, and why pergolas built straight onto pavers or a 200 mm pad of concrete are the most common reason we get called back to relevel a structure within three winters. This guide is written for Melbourne and Victorian conditions.
+
+
+## Why Pergola Footings Are Different to Deck Footings
+
+A deck has a continuous, weighted floor that bears down on its footings. A pergola has tall, slender posts holding up an open or louvred roof with very little dead weight. In a Melbourne wind event — the kind that snaps a fence panel in Sandringham or pulls a tile off a roof in Reservoir — that roof generates significant upward force. The footing's main job is to stop the post being yanked out of the ground.
+
+The numbers, in rough Melbourne terms:
+
+- A 6 m × 4 m timber pergola in a typical N2 wind region generates around 3-6 kN of uplift per post.
+- The same pergola in N3 country (Mornington Peninsula coast, parts of the Bellarine, exposed Macedon ridges) can hit 6-10 kN per post.
+- An attached pergola with a Colorbond infill or louvred roof — very common in the alfresco renovations of the last five years — can double those numbers.
+A 300 mm-square paver, a precast concrete shoe sitting on a paving stone, or a 200 mm-deep concrete pad simply cannot resist that uplift. They rely on dead weight or shallow shear, and a single gust will lift them. This is the failure pattern we see again and again on suburban pergolas. For the broader story on how Australian footing standards apply, see our overview of Victorian footing regulations.
+
+
+## What Counts as a "Pergola" in Victoria?
+
+The word "pergola" is used loosely; the building surveyor uses it more precisely. The four common categories, all of which we install footings for:
+
+- Open-rafter timber pergola. The classic backyard pergola: 4 or 6 timber posts, exposed beams, no roof sheeting. Lowest uplift, simplest footing.
+- Louvred-roof pergola. Aluminium opening-louvre systems (Vergola, Stratco, Pivotech, Eclipse). Closed louvres in a southerly produce serious uplift; the supplier will spec a minimum footing capacity.
+- Solid-roof patio (often called a pergola). Colorbond, polycarb or insulated-panel roof. Technically a verandah or alfresco roof under the BCA, but most homeowners and tradespeople still call it a pergola. The highest uplift category.
+- Attached pergola or alfresco extension. Anchored to the house wall or eaves on one side, posts on the outer edge. Half the load goes through the house, the outer posts carry the rest, and the house-side fixings have their own engineering requirements.
+From a footing perspective the design process is the same for all four: nominate the wind region, calculate the uplift per post, size the pile and post anchor accordingly. The category mostly determines how big the uplift number is.
+
+
+## The Victorian Permit Picture for Pergolas
+
+A pergola in Victoria may be exempt from a building permit under Schedule 3 of the Building Regulations 2018 if it meets all of the following:
+
+- Plan area not more than 20 sqm
+- Height not more than 3.6 m
+- Open sides (no walls, no solid infill)
+- Not attached to another building
+- More than 1 m from a boundary
+- Not within an overlay (HO, BMO, LSIO, EMO, etc.) without separate planning approval
+The moment any of those conditions break — the pergola is bigger, taller, attached to the house, has a solid roof, sits on the boundary or affects stormwater — you are in building-permit territory. In practice, the majority of Melbourne pergolas built today are either roofed or attached to the house, so the building permit is the default rather than the exception.
+
+Pergola profile | Building permit? | Engineered footing? | < 20 sqm, < 3.6 m, open sides, freestanding, > 1 m from boundary | Often exempt | Recommended (uplift, insurance) | Attached to the house or eaves | Yes | Yes | Solid roof (Colorbond, polycarb, louvres) | Yes | Yes | > 20 sqm or > 3.6 m | Yes | Yes | Inside HO, BMO, LSIO, DDO or VPO | Yes; planning permit also likely | Yes
+Even where the structure is technically exempt, almost every reputable builder installs an engineered footing anyway. Home insurers will routinely refuse a claim if the pergola has come down in a storm and there is no engineering certificate behind it. Council rangers also lean on Schedule 3 exemptions hard, particularly where neighbours complain about overlooking or stormwater.
+
+
+## Footing Options for a Pergola
+
+Footing | Uplift capacity | Best for | Trade-off | Stirrup on existing slab / paver | Negligible | Decorative-only structures | Will lift in a wind event; insurance won't cover | Bored concrete pier (300 mm dia, 600-900 mm deep) | Moderate | Open-rafter timber pergolas, flat block, no overlay | Spoil, concrete cure, weather delays, can heave on Class H clay | Driven steel stump (RapidStump) | High | Most timber and aluminium pergolas, Class M and stiffer | Bearing layer needed within 3 m | Helical screw pile (SurePile) | Very high | Solid-roof and louvred pergolas, Class H clay, fill, paving | Slightly higher cost per pile | Adjustable mechanical stump (StumpRite) | High | Pergola tied into an existing relevelled deck or sub-floor | Rarely the cheapest standalone choice
+The headline pattern: a single concrete-free pile per post, paired with an engineered uplift-rated post anchor, beats almost everything else for a Melbourne pergola. The pile resists uplift through soil friction along its full length; the anchor transfers that capacity into the timber or aluminium post.
+
+
+## Pergola Over Existing Pavers or an Old Concrete Slab
+
+The most common Melbourne pergola scenario by a wide margin: a homeowner has an existing alfresco area, paved or slabbed, and wants to add a roof for shade and weather. The pavers or slab already define the floor; the question is how to get a structural footing through it without ripping it up.
+
+Concrete-free piles are designed for exactly this. The drive head core-cuts a 100-150 mm hole through the paver or thin slab, the pile is driven or screwed to engineer-specified torque or refusal, and the engineered post anchor is fitted at the surveyed height. The paver is dropped back in around the anchor and the pergola post bolts on top. The visible footprint of the footing is the post anchor itself; the surrounding paving stays in place.
+
+A bored pier, by contrast, requires the area around the post to be broken out, a 300 mm hole augered, the spoil removed, the pier poured, the cure waited out, and the paving re-laid. The cosmetic finish is rarely as clean and the build is delayed by a week.
+
+
+## Attached Pergolas: The House-Side Detail
+
+Where the pergola attaches to the house, half the structure typically transfers load to the existing wall plate, eaves or fascia. The other half goes to the outer-row posts. There are two footing implications:
+
+- Outer posts carry concentrated load. An attached pergola's outer posts often see 1.5-2x the uplift of a freestanding equivalent, because they're picking up half the roof rather than a quarter. Don't size the outer footings as if they were freestanding.
+- The house-side fixing has its own rules. The wall plate, ledger or fascia bracket has to be engineered, lag-bolted into structural framing (not just cladding), and typically flashed. This is a builder/engineer decision rather than a footing one, but we mention it because the same engineer signing off the footings will want to see the house-side detail.
+For decks attached to a house we cover the equivalent ledger detail in the deck footing installation guide. The principle is the same; the magnitudes are different because pergolas have higher uplift and lower vertical load.
+
+
+## Choosing the Right BMSA System for Your Pergola
+
+- RapidStump is the default for open-rafter timber pergolas on Class M or stiffer Melbourne soil. Driven steel stumps install through pavers, lawn or garden bed in minutes per post and carry well over the typical pergola uplift.
+- SurePile is the right choice for solid-roof or louvred pergolas, attached pergolas with high outer-post loads, sites on Class H1 or H2 reactive clay, sloping yards, fill, or pergolas close to mature trees. The helical bearing pulls the design depth below the active zone and resists uplift through both helix bearing and shaft friction.
+- StumpRite is occasionally used where the pergola ties into an existing house, deck or subfloor that's also being relevelled, so all the footings can be set out and adjusted off a single datum.
+For a side-by-side comparison see our RapidStump vs StumpRite vs SurePile breakdown. For the full screw-pile primer, see our screw pile footings Melbourne guide.
+
+
+## Soil & Site Considerations
+
+- Class M reactive clay. The default soil for a huge band of Melbourne suburbs — Coburg, Bentleigh, Box Hill, Reservoir, Doncaster. Driven steel stumps work well here at typical pergola load. Bearing typically 1.2-1.8 m below natural ground.
+- Class H1/H2 reactive clay. Common in inner-east, bayside and the western basalt suburbs. Shallow concrete piers can be lifted by seasonal heave. Helical screw piles below the active zone (1.8-2.5 m) are the safer choice.
+- Class P (problem) soils. Old fill, peat, landfill, mine subsidence. Footings need to penetrate to a confirmed bearing layer, which a screw pile does at install with live torque measurement.
+- Pergolas near mature trees. Tree Protection Zones cover a surprising amount of suburban backyards, particularly in heritage council areas. Concrete-free piles deflect rather than cut roots; bored piers usually can't be approved within the TPZ. See footings near trees in Melbourne for the detail.
+- Sloping back yards. Many Melbourne pergolas sit on yards that fall 200-500 mm. Pile footings install at variable cut-off heights so the pergola plate is dead level even on a sloping site. See footings for sloping blocks.
+- Coastal exposure. Mornington, Frankston, Mentone, Williamstown, Sorrento and the Bellarine are all in N3 wind territory. The footing uplift design number can double compared to inner-suburb N2 sites. Get the wind region confirmed before sizing footings.
+
+## Practical Tips for Pergola Footings
+
+- Get the supplier's engineering first. Aluminium-louvred and solid-roof pergola brands ship with a footing schedule that nominates a minimum uplift and shear capacity per post. Match your footing to that number rather than inventing one.
+- Specify the post anchor type with the pile. A correctly designed post anchor — cast-in or bolt-on, galvanised, with the right uplift rating — is half the engineering. A great pile under a $40 stirrup is a wasted pile.
+- Don't trust an existing 75 mm slab. Old alfresco slabs in Melbourne backyards are routinely 50-75 mm thick with no reinforcement. They will not hold an uplift-rated bracket. The pile has to go through the slab to ground.
+- Pothole services first. Sewer, stormwater and gas frequently cross the back-yard line where a pergola sits. A $300 hydro-vac potholing run will save you a $5,000 service repair.
+- Mind the boundary setback. Schedule 3 exemption requires >1 m to the boundary; planning rules in many councils want more. Confirm before setting out.
+- Document everything. Even on a Schedule 3 exempt pergola, get the engineering certificate and torque records on file. Future owners and insurers will ask.
+- Plan ahead for power. Many pergolas now carry a fan, lights or heating; the electrician's conduit run is much easier if it's coordinated with the footing layout before piles go in.
+
+## What Do Pergola Footings Cost in Melbourne?
+
+Indicative ranges from recent jobs across Melbourne metro and the regions:
+
+Pergola scenario | Concrete-free pile quote | Equivalent bored pier quote | 4-post open-rafter timber pergola, Class M lawn, Pascoe Vale | $1,800-$2,400 (RapidStump × 4 + anchors) | $2,200-$3,000 (4 piers + concrete + spoil) | 6-post Colorbond patio over existing pavers, Class M, Bentleigh | $2,600-$3,400 (RapidStump × 6 through pavers) | $3,400-$4,500 (paver removal + piers + reinstatement) | 5-post louvred-roof attached alfresco, Class H1, Glen Iris | $2,800-$3,800 (SurePile × 5 + uplift anchors) | $3,800-$5,500 (deep piers + cure + access) | 8-post freestanding timber pergola, sloping yard, Eltham | $3,200-$4,400 (SurePile × 8, variable cut-off) | $4,800-$6,500 (stepped piers + spoil disposal) | 6-post coastal pergola, N3 wind, Class M sand, Mornington | $2,800-$3,800 (SurePile × 6, uprated anchors) | $3,800-$5,200 (oversized piers for uplift)
+Indicative ranges only. Actual quote depends on access, soil report, slope, wind region and bearing depth. All figures ex-GST as at May 2026.
+
+The headline number to watch: pile footings beat bored piers more decisively on pergola jobs than on most other applications, because the savings on spoil disposal, paver reinstatement and concrete cure time stack up against a relatively small structural footing budget. On an alfresco-over-pavers job, concrete-free is often 30-40% cheaper installed.
+
+
+## Frequently Asked Questions
+
+
+### Do I need a building permit for a pergola in Victoria?
+
+A pergola in Victoria may be exempt from a building permit under Schedule 3 of the Building Regulations 2018 if it is open-sided, no more than 20 sqm in plan, no higher than 3.6 m, more than 1 m from a boundary, and not attached to another building. Anything attached to the house, larger, taller, roofed with a solid material, inside an overlay, or affecting drainage almost always requires a building permit. Even where exempt, the structure still has to comply with engineering, wind loading and setback rules.
+
+
+### What size footings does a pergola need?
+
+Pergola footings in Melbourne are sized for wind uplift, not just vertical load. A typical 4-post timber pergola on Class M clay needs footings capable of resisting 4-8 kN of uplift per post in addition to the dead load. That usually means a 600-900 mm bored pier 300 mm in diameter, or a single concrete-free screw pile or driven steel stump bedded 1.5-2.5 m deep with an engineered uplift-rated post anchor.
+
+
+### Can a pergola be installed over existing pavers or a concrete slab?
+
+Yes. Concrete-free screw piles can be installed straight through a paved area or alongside an existing slab without breaking up the surface. The drive head core-cuts a 100-150 mm hole through the paver, the pile reaches competent soil below, and the paver is dropped back in around the post anchor. This is the standard Melbourne solution when a homeowner wants to add a pergola or alfresco roof over an existing paved area.
+
+
+### What do pergola footings cost in Melbourne?
+
+A standard 4-post freestanding pergola in Melbourne costs $1,800-$2,800 for concrete-free pile footings supplied and installed, including engineered post anchors. A 6-post or attached pergola lands at $2,400-$3,800. Equivalent bored concrete piers usually cost a little more once spoil disposal, concrete pumping and the 7-day cure are included.
+
+
+### What is the best footing for a pergola on reactive clay?
+
+On Melbourne Class H1 or H2 reactive clay, helical screw piles such as SurePile are the best pergola footing because the helices anchor below the active zone (typically 1.8-2.5 m) and resist seasonal heave that would lift a shallow concrete pier. Driven steel stumps work well on Class M and stiffer soils. Avoid shallow footing pads; reactive clay will move them and the posts will twist out of plumb within two seasons.
+
+
+### Can I just bolt a pergola post to a precast concrete shoe?
+
+For a tiny decorative arbour, occasionally yes. For anything you'd reasonably call a pergola, no. A precast shoe sitting on a paving stone has effectively zero uplift capacity. The first storm with a 100 km/h gust will lift it. Home insurers also routinely refuse claims on pergolas without an engineered footing.
+
+
+### How long does the footing install take?
+
+For a typical 4-8 post pergola, the footing install is a half-day on site. There is no concrete cure window, so the carpenter or pergola installer can be on the posts the same afternoon the footings go in. A bored-pier alternative usually delays the build by 5-7 days for the cure.
+
+
+### Are concrete-free pergola footings compliant with Australian standards?
+
+Yes. RapidStump, SurePile and StumpRite are engineered to AS 2870 and AS 1170 wind loading requirements, with installation torque or refusal recorded against the engineer's design. The compliance certificate is issued for the footing layout and is what the building surveyor signs off against.
+
+
+## The Bottom Line
+
+A Melbourne pergola is mostly a wind-uplift problem, not a vertical-load problem. Get the wind region confirmed, get the supplier's footing schedule in writing, then install one engineered concrete-free pile per post with a properly rated post anchor. The whole footing stage finishes in half a day, the carpenter is on tools the same afternoon, the existing pavers stay put, and the structure is compliant, certified and insurable. Skip the precast shoe on a paver — it will cost less today and considerably more after the first big southerly.
+
+---
+
+# Blog: Surefoot vs Easy Footings
+
+Source: https://easyfootings.com.au/blog/surefoot-vs-easy-footings.html
+
+Surefoot vs Easy Footings: Concrete-Free Footings Compared (2026)
+
+An honest, technically grounded comparison of Surefoot and Easy Footings (RapidStump, StumpRite and SurePile) for Australian builders, owner-builders and homeowners weighing up concrete-free stump and steel footing options.
+
+5 May 2026
+Australian builders are increasingly looking past concrete piers for residential footings. Two names come up over and over again when you do: Surefoot and the BMSA range supplied and installed by Easy Footings — RapidStump, StumpRite and SurePile. All four are concrete-free, all four are engineer certified, and all four let you build immediately with no curing time. So how do you choose?
+
+This article walks through each system on its merits — how it works, what loads it carries, what soils it suits, how it gets certified, and what it actually costs to install. If you are searching for a Surefoot alternative in Melbourne or regional Victoria, or you want a structured way to compare concrete-free stumps, adjustable steel stumps and steel footings, this is the page.
+
+
+## Quick verdict
+
+- Choose Surefoot when you want a low-profile surface-mounted concrete-free pad on stable soils, particularly for prefabricated cabins, light decks and modular structures where the build sits at or near grade.
+- Choose RapidStump when you want a single integrated steel footing-and-stump — ideal for new stumped homes, additions and house restumping where the structural stump is part of the footing.
+- Choose StumpRite when you need adjustable steel stumps and adjustable footings with up to 120 mm of screw height adjustment and a full ecosystem of tops, plates, bases and bracing for everything from sub-floors to stair stringers.
+- Choose SurePile when the loads are heavy, the soil is reactive (Class H1, H2 or P), the block is steep, or the structure is commercial — helical screw piles reach competent strata that surface pads and short driven stumps cannot.
+
+## What is Surefoot?
+
+Surefoot is an Australian-designed concrete-free footing. Each unit is a hot-dip galvanised steel pad placed on a prepared ground surface, with multiple structural steel pins driven through angled holes in the pad into the soil below. The pins diverge from one another so that any movement of the pad — vertical, uplift or lateral — is resisted by skin friction and bearing across the full pin array. No concrete is required, no excavation is needed in most installations, and the footing reaches full design capacity the moment the last pin is set.
+
+Surefoot pads come in a range of sizes from small deck and pergola units up to larger industrial pads that carry several tonnes per footing. They are engineered, certified and used widely across Australia for decks, pergolas, modular cabins, sheds, container homes, signage, solar arrays and light commercial buildings.
+
+
+## What does Easy Footings install?
+
+Easy Footings is the Melbourne and Victorian installer of BMSA Footing Solutions, an Australian manufacturer of three complementary concrete-free footing systems. They are designed to cover everything from sub-floor restumping work to commercial helical piling, and they are routinely specified instead of Surefoot when the geometry, depth or load profile of the job suits a different solution.
+
+
+### RapidStump — concrete-free stump and steel footing in one
+
+RapidStump is a hybrid all-in-one steel footing and stump. Multiple opposing micropiles are driven through a steel sleeve at angles that lock the stump into the ground using skin friction and end bearing. Because the structural stump is part of the footing, builders skip a step on every stumped house, deck or restumping job — one component, one install pass, instant load capacity. RapidStump is made from C350 structural steel, every footing is engineered using site-specific soil data, and the average install time per footing is roughly 15 minutes.
+
+
+### StumpRite — adjustable steel stumps and adjustable footings
+
+StumpRite is an Australian-made range of adjustable steel stumps and adjustable footings with up to 120 mm of screw height adjustment. The system covers adjustable stump tops in screw-on, weld-on and retrofit styles; six top-plate configurations (straight, vertical, corner, tee, end and large); six base styles (bolt-in, concrete-in, screw-in and tek-screw); cross bracing and guy-wire bracing; and stair stringers. Every component is hot-dip galvanised. Builders use StumpRite to land bearers dead level on every stump even when the ground is not, which is why it is a popular choice for new stumped homes, granny flats and complex restumping jobs.
+
+
+### SurePile — helical screw piles and tie-down anchors
+
+SurePile is the heavy-duty option in the BMSA range. Each pile features helical (spiral) plates that are mechanically screwed into the soil to a designed depth. The torque required to install each pile is recorded and used as real-time verification of capacity. SurePile reaches deep bearing strata that pads and short driven stumps cannot, which is why it is the right pick for reactive Melbourne clay, sloping blocks, retaining walls, solar arrays and modular and container buildings that need cyclone-rated tie-downs.
+
+
+## Side-by-side comparison
+
+The table below summarises the four systems on the factors that drive most builder decisions.
+
+Factor | Surefoot | RapidStump | StumpRite | SurePile | Geometry | Surface pad with diverging pins | Driven hybrid steel stump & footing | Adjustable steel stump on driven or fixed base | Helical screw pile | Concrete required | No | No | No (concrete-in base optional) | No | Cure time | None | None | None | None | Typical depth | Surface to ~700 mm | ~1.0–1.8 m | Footing depth + stump | ~1.5–6 m | Load range | Light to medium | Light to medium-heavy | Medium to heavy residential | Heavy / commercial | Reactive clay (H1/H2) | Engineering required — depth limited | Good with engineered embedment | Good | Excellent — reaches below active zone | Sloping blocks | Possible with cut platforms | Good | Good (height adjustability) | Excellent (variable depth) | Restumping under house | Limited — needs pad clearance | Excellent — compact driver | Excellent (with adjustable tops) | Limited — needs headroom | Adjustability | Limited (shim plates) | Driven to height | Up to 120 mm screw adjust | Cut-to-length head | Tie-down / uplift | Good | Good | Good with lugged bases | Excellent — cyclone-rated tie-downs | Engineering certificate | Yes | Yes | Yes | Yes | Relative cost / footing | $$ | $$ | $$ | $$$
+Cost and depth ranges are indicative and depend on soil class, building load, footing count and access. Easy Footings will quote the system and price that suits your specific soil report and structural plans.
+
+
+## How they compare technically
+
+
+### Load transfer
+
+Surefoot transfers load through the diverging steel pins driven through a surface pad. Capacity is governed by the friction and bearing of the pins along their relatively shallow length plus the geometric advantage of having pins pointing in different directions. RapidStump uses the same pin-array principle but the pins go through a structural stump sleeve, so the stump itself becomes the head of the pile array. StumpRite places an adjustable steel stump on a base that can be driven, bolted or concreted in, then transfers load straight down the stump. SurePile is fundamentally different — it is a deep driven pile, with capacity coming from the helices bearing on competent soil at depth.
+
+The practical implication: the deeper the system, the better it handles reactive clay, fill, sandy soils and high uplift. That is why a SurePile screw pile beats a shallow surface pad on Class H1 reactive Melbourne clay, and why a driven RapidStump or adjustable StumpRite beats a surface pad once you are stumping a house above the active zone.
+
+
+### Site preparation
+
+Surefoot needs a level, prepared bearing surface for the pad. RapidStump and StumpRite need a peg-out only — the driver lands on the peg and drives. SurePile needs space for the torque head and rig, but no excavation. None of the four require formwork, concrete trucks, vibration plates or a cure period.
+
+
+### Adjustability and finished levels
+
+One of the biggest practical differences for builders is what happens once the footing is in. Surefoot pads are at a fixed level once installed; getting the bearer level often means shimming. RapidStump can be driven to a target top-of-stump RL, but final fine adjustment usually involves a bracket or top-plate. StumpRite is purpose-built for adjustability — the screw thread on each stump gives 120 mm of tuning, so a sub-floor with 25 stumps lands dead level even on a site that is anything but. SurePile can be cut at the head and capped at a survey-set level.
+
+
+## Compliance and engineering
+
+All four systems — Surefoot, RapidStump, StumpRite and SurePile — are engineered footing solutions used routinely for Class 1 dwellings, Class 10 outbuildings, additions, decks and modular and prefabricated buildings in Victoria. Each footing on a project is sized using site-specific soil data (typically a borehole soil test or DCP probe) plus the structural design loads from the building plans. The relevant Australian standards are AS 2870 (Residential Slabs and Footings), AS/NZS 1170 (Structural Design Actions) and AS 1554 (welding) where applicable, all referenced from the National Construction Code. Easy Footings provides a stamped engineering footing layout and an installation certificate for every job, which is what your building surveyor needs for permit compliance.
+
+
+## When Surefoot is the right call
+
+- Light residential decks, pergolas and freestanding pads on stable Class A or M soils.
+- Modular cabins and small prefabricated structures where the floor sits very close to grade.
+- Sites where pad bearing surfaces are easy to prepare and headroom for a tall driver or screw pile rig is constrained.
+- Owner-builder DIY projects where a single tradesperson can manhandle pads and pin drivers.
+
+## When Easy Footings is the right call
+
+- House restumping in Melbourne. RapidStump is purpose-built for sub-floor work where access is tight. See our house restumping Melbourne guide.
+- New stumped homes, additions and granny flats. StumpRite gives 120 mm of dead-level adjustment per stump. See our granny flat footings guide.
+- Reactive clay or sloping blocks. SurePile reaches the depth that pads cannot. See our sloping blocks guide.
+- Pergolas with serious wind uplift. SurePile or RapidStump anchor below the active zone. See our pergola footings guide.
+- Decks above 1 m or with spas. StumpRite or SurePile carry the higher loads. See our deck footing installation guide.
+- Footings near trees. Driven and screwed systems sidestep root damage compared to wide pad excavations. See our footings near trees guide.
+- Modular, container and relocatable buildings. SurePile tie-downs are cyclone rated.
+
+## Cost: what does each actually cost installed?
+
+Headline pricing across all four systems is similar — they compete with concrete piers on speed and labour rather than material cost. As a Melbourne 2026 guide:
+
+- Light deck or pergola footings: roughly $300–$600 per footing supplied and installed for any of the four systems.
+- Stumped house or granny flat: roughly $300–$700 per stump for RapidStump or StumpRite installations, depending on stump count, height and adjustability needs.
+- Helical screw piles: roughly $450–$1,200 per pile for SurePile depending on depth, torque rating and access.
+- Restumping a 1960s Melbourne weatherboard: typically $10,000–$25,000 all up for around 25 stumps using RapidStump or StumpRite, including engineering, levelling and certification.
+On a like-for-like job, Easy Footings is normally within ten to twenty percent of an equivalent Surefoot install. The deciding factor between the four systems is almost always soil, geometry and load — not headline price. See our full concrete-free vs traditional concrete cost comparison.
+
+
+## Decision tree: which concrete-free footing should I use?
+
+- Are the loads heavy or commercial, or is the soil reactive H1/H2/P? → SurePile.
+- Are you restumping or building a stumped house? → RapidStump for compact driven stumps; StumpRite if you need precise adjustable height per stump.
+- Is it a deck, pergola, shed, sign or solar array on stable soil? → Either Surefoot or RapidStump — choose by access, headroom and the level of adjustability you need.
+- Is it a relocatable, modular or container building that needs cyclone-rated tie-downs? → SurePile.
+- Unsure? Send us your plans and soil report.
+
+## Frequently asked questions
+
+Surefoot is an Australian-designed concrete-free footing system. Each unit is a hot-dip galvanised steel pad placed on a prepared ground surface with multiple steel pins driven through the pad at opposing angles. The pins lock the pad into the soil and the combined skin friction and bearing of the array carries vertical, uplift and lateral loads.
+
+Yes. Easy Footings supplies and installs three concrete-free footing systems — RapidStump, StumpRite and SurePile — that are used routinely as a Surefoot alternative across Melbourne and regional Victoria. All three are engineered to Australian standards and require no concrete, no curing and no weather delays.
+
+Both use steel pins driven into the ground at opposing angles to carry load without concrete. The geometry is different: Surefoot is a surface pad with pins through it; RapidStump is a hybrid steel footing-and-stump where the structural stump itself is the head of the pile array. RapidStump is typically faster for stumped builds and restumping; Surefoot can suit low-profile decks and modular cabins on stable soil.
+
+Yes. All four are engineered and certified to Australian standards including AS 2870 (Residential Slabs and Footings) and AS/NZS 1170 (Structural Design Actions). Each footing is sized using site-specific soil data and structural loads, and a footing certificate is issued for building permit compliance.
+
+Helical screw piles such as SurePile are the strongest option on Class H1 or H2 reactive Melbourne clay because the helices anchor below the active zone (typically 1.8–2.5 m). Surface pads and short driven stumps work well on Class M and stiffer soils.
+
+On the unit price for the footing itself, concrete-free systems typically come in within ten to twenty percent of an equivalent concrete pier. The bigger saving is programme: zero curing time, install in any weather and one trade on site instead of three. Most builders find that the reduced delays more than pay for any small price difference.
+
+---
+
+# Blog: Concrete Footings in Australia — Complete 2026 Guide
+
+Source: https://easyfootings.com.au/blog/concrete-footings-australia.html
+
+Concrete Footings in Australia: The Complete 2026 Guide
+
+10 May 2026
+Concrete footings are the most common foundation system in Australia. From a single-storey weatherboard cottage in Tasmania to a slab-on-ground house and land package in Western Sydney, the load path almost always ends in poured concrete somewhere in the soil. This guide explains, in plain English, what concrete footings actually are, the main types used across Australian residential and light-commercial construction, what they cost in 2026, how AS 2870 and soil classification drive the design, and when an engineered concrete-free footing is a smarter choice.
+
+In this guide
+
+- What is a concrete footing?
+- Types of concrete footings used in Australia
+- AS 2870 and soil classes A through P
+- How deep do concrete footings need to be?
+- How concrete footings are installed
+- Concrete footing cost in Australia (2026)
+- State-by-state notes
+- Common concrete footing problems
+- Concrete vs concrete-free footings
+- FAQ
+
+## What is a concrete footing?
+
+A concrete footing is a structural element, usually made of reinforced concrete cast in place, that transfers load from a building or structure into the ground. In residential terms, every external wall, internal load-bearing wall, brick pier, deck post and pergola column needs a footing that:
+
+- spreads the load over enough soil area that the ground can carry it without excessive settlement,
+- sits deep enough to be unaffected by seasonal moisture movement in the soil,
+- anchors the structure against uplift and lateral loads (wind, in particular), and
+- complies with AS 2870 Residential Slabs and Footings, the relevant state building regulation and the National Construction Code (NCC).
+The word “footing” is sometimes used loosely. Strictly, the footing is the concrete element; the foundation is the soil or rock the footing bears on. Australian engineers refer to the soil's bearing capacity, reactivity (its tendency to swell and shrink with moisture) and the design site classification, and then specify a footing geometry that matches.
+
+
+## Types of concrete footings used in Australia
+
+Australian builders use a handful of standard concrete footing types. The right one depends on soil class, load, the shape of the building and access.
+
+
+### 1. Strip footings
+
+A continuous trench of reinforced concrete that runs underneath external and load-bearing internal walls. Typical residential strip footings are 300–600 mm wide and 400–1000 mm deep, with N12 or N16 reinforcement top and bottom. Used everywhere in Australia for brick-veneer and double-brick housing on Class A, S and M sites.
+
+
+### 2. Pad footings
+
+Isolated rectangular or square concrete pads that sit under individual columns or posts. Common under deck posts, pergola posts, carport columns, steel-framed sheds, internal piers under stumped floors and verandah posts. Typical pad sizes are 450 × 450 × 600 mm to 900 × 900 × 900 mm depending on load.
+
+
+### 3. Raft slabs and waffle pods
+
+A raft slab is a stiffened concrete slab-on-ground that combines the slab with integrated edge and internal beams. Waffle pod slabs, the variant used on most new project-builder homes in Australia, use polystyrene void formers to create a grid of ribs above ground level. AS 2870 governs the depth and reinforcement of the edge and internal beams based on the site class.
+
+
+### 4. Bored concrete piers
+
+Holes are augered into the ground using a post-hole digger or a truck-mounted bored pier rig, then filled with concrete and reinforcement. Diameters of 300–600 mm and depths of 1500–3000 mm are typical. Used on reactive clay where strip or pad footings would move seasonally, on sloping blocks, and underneath stumped floors. Common across Melbourne, Adelaide, Western Sydney, Brisbane's western corridor and Hobart.
+
+
+### 5. Mass concrete footings
+
+Large unreinforced or lightly-reinforced concrete blocks used for fence posts, signs, light retaining walls and free-standing pergolas. Cheap, but limited to small loads.
+
+
+### 6. Concrete stumps
+
+Pre-cast concrete stumps (typically 100 × 100 mm or 125 × 125 mm) bedded into the ground in concrete. Once standard across Queensland Queenslanders, Melbourne weatherboard cottages and Tasmanian timber homes; now largely replaced by adjustable steel stumps and concrete-free systems on restumping jobs because pre-cast concrete stumps cannot be re-levelled if the ground moves.
+
+
+## AS 2870 and Australian soil classes
+
+AS 2870 is the Australian Standard that governs residential slabs and footings. Every new house and most extensions in Australia must be designed to it. The standard requires a geotechnical site investigation and assigns the site one of the following classifications:
+
+- Class A – Acceptable. Most sand and rock sites. Little ground movement. Common on the WA coastal plain.
+- Class S – Slightly reactive clay. Small ground movement. Common in coastal NSW and parts of Queensland.
+- Class M and M-D – Moderately reactive clay or silt. Found through outer Sydney, Brisbane, Hobart and parts of Melbourne and Adelaide.
+- Class H1, H1-D, H2 and H2-D – Highly reactive clay. Significant seasonal swell and shrink. The default classification for much of Melbourne's west (Werribee, Melton, Tarneit, Point Cook), Adelaide's plains, Western Sydney (Penrith, Blacktown) and parts of southeast Queensland.
+- Class E and E-D – Extremely reactive clay. Found in localised pockets, often on black-soil plains.
+- Class P – Problem site. Soft soils, fill, mine subsidence areas, landslip, abnormal moisture conditions or trees. Site-specific engineering design is mandatory; standard AS 2870 footing details cannot be used.
+The more reactive the site, the deeper and stiffer the footing must be. On Class H and E sites, builders typically move from shallow strip footings to either a deep edge-beam raft slab, bored concrete piers founded below the active zone, or engineered pile footings.
+
+
+## How deep do concrete footings need to be?
+
+There is no single answer, because depth is driven by soil class, load and the depth of the “active zone” (the soil layer that moves with seasonal moisture). As a guide:
+
+- Deck pad footings: 600–900 mm on Class A, S and M sites; 900–1200 mm or deeper on Class H sites.
+- House strip footings: 400–600 mm on Class A and S; 600–1000 mm on Class M.
+- Bored concrete piers under stumped floors: 1500–2400 mm on Class H1, sometimes deeper on H2 and E.
+- Pergola post footings: typically 600–900 mm, but the governing load is usually wind uplift rather than vertical load, so geometry and reinforcement matter more than raw depth.
+- Pier and beam in reactive clay: pier toes founded below the active zone, generally 1.8–3.0 m deep.
+For any structure requiring a building permit, depth must be specified on engineered drawings; do not rely on the table above for actual construction.
+
+
+## How concrete footings are installed
+
+The installation sequence for residential concrete footings in Australia is broadly the same across every state:
+
+- Site investigation and soil test. A geotechnical contractor drills boreholes or augers test holes to determine soil profile, classification under AS 2870 and bearing capacity.
+- Engineering design. A structural engineer specifies footing dimensions, depth, reinforcement, concrete grade and any special founding requirements.
+- Council or building surveyor permit. Plans, the soil report and engineering documentation are submitted for a building permit (Victoria, Tasmania), a Complying Development Certificate (NSW), a building approval (Queensland, Western Australia, South Australia) or equivalent.
+- Excavation. Trenches for strip footings, holes for bored piers or pads are excavated. A building surveyor or engineer inspects the depth, founding material and dimensions before any concrete is poured.
+- Reinforcement. Steel reinforcement (deformed bar, mesh and trench mesh) is placed in the trench or hole, with cover provided by bar chairs or spacers.
+- Concrete pour. N20, N25 or N32 concrete is delivered by truck and placed into the excavation. Vibrators consolidate the concrete around reinforcement.
+- Cure. Concrete is left to cure for a minimum period (usually 5–7 days for strip footings before brickwork; 28 days to reach full design strength). On reactive clay sites, builders need to manage moisture during cure to prevent shrinkage cracking.
+- Inspection and sign-off. Reinforcement and depth are normally inspected before pour, and the completed footing inspected before the next stage of construction.
+
+## Concrete footing cost in Australia (2026)
+
+The cost of concrete footings in 2026 varies widely by location, soil, access and labour availability. The figures below are indicative ranges, supplied and installed, for Australian residential projects:
+
+Footing type | Typical unit | 2026 indicative cost (AUD) | Strip footing (residential) | per linear metre | $180–$320 | Pad footing for deck or pergola | per pad | $150–$400 | Bored concrete pier (300–450 mm dia, 1.5–3.0 m deep) | per pier | $350–$900 | Waffle pod slab (incl. footings) | per m² of slab | $110–$180 | Stiffened raft slab on Class H site | per m² of slab | $150–$240 | Pre-cast concrete stump bedded in concrete | per stump | $160–$320
+Prices exclude soil test, engineering design fees, permit fees and excavation in rock or contaminated ground. Regional Australia and remote sites can sit well above these ranges. Always get an itemised quote.
+
+
+## Concrete footings – state-by-state notes
+
+The Australian regulatory landscape is broadly consistent because AS 2870 and the NCC apply nationally, but each state and territory has its own administrative regime and typical soil conditions.
+
+- Victoria. Building permits administered under the Building Act 1993 by a registered building surveyor. Reactive clay dominates Melbourne's west and north. Bored concrete piers and screw piles are both common. See our Victorian footing regulations guide.
+- New South Wales. Approvals are either a Complying Development Certificate (CDC) or a Development Application (DA) with a separate Construction Certificate. Western Sydney sits on highly reactive shale and Bringelly clay; bored piers or deep stiffened slabs are typical. Sydney's eastern beaches are largely sandstone – shallow strip footings or pad footings on rock.
+- Queensland. Building approvals through a private building certifier under the Building Act 1975. The wet tropics, cyclonic regions and reactive black soil plains all change footing requirements. Concrete stumps are still common on Queenslanders but adjustable steel and concrete-free systems are gaining share for new builds and restumping.
+- South Australia. Adelaide's Plains are predominantly Class H reactive clay; raft slabs and bored piers dominate. Approvals via private certifier or council.
+- Western Australia. Coastal Perth is largely sand – Class A – favouring shallow strip and pad footings. Hills suburbs in the Darling Range encounter rock close to surface. The WA Building Commission regulates work via a building permit pathway.
+- Tasmania. A mix of clay, basalt and sandy soils. Hobart's older suburbs have many timber homes on stumps. Cold and wet winters extend concrete cure times and slow strip-footing work.
+- ACT. Most suburban Canberra sites are Class M or H reactive clay. Footings are governed by the ACT Building Act and AS 2870.
+- Northern Territory. Cyclonic wind loading is the dominant design driver. Footings must resist substantial uplift; mass concrete and bored piers are both used, alongside engineered steel piling.
+
+## Common concrete footing problems
+
+Concrete footings fail in well-understood ways. The most common Australian failure modes are:
+
+- Reactive clay heave and shrink. Strip footings on Class H or E sites that were under-designed will move with the seasons, opening cracks in plaster and brickwork.
+- Differential settlement. Different parts of a footing system settle by different amounts, producing diagonal cracking. Often caused by fill that was not properly compacted, or by piers that did not reach competent founding material.
+- Tree-induced movement. Mature trees within proximity of the footings extract moisture from the soil, causing shrinkage and settlement. See our guide on footings near trees.
+- Inadequate cover and rebar corrosion. Insufficient concrete cover over reinforcement leads to corrosion and concrete spalling, particularly within 1 km of the coast.
+- Frost and freeze-thaw. Rare in Australia but relevant in the Tasmanian highlands and the Snowy Mountains: shallow footings can heave with freeze-thaw cycles.
+- Cure-time damage. Concrete poured in extreme heat without curing measures, or in heavy rain, can crack and lose design strength.
+
+## Concrete footings vs engineered concrete-free footings
+
+Engineered steel pile and screw pile footings – including the RapidStump, StumpRite and SurePile systems installed by Easy Footings – are an accepted alternative to bored concrete piers and pad footings under AS 2870 and the NCC. They are not a replacement for every concrete footing (you still need a slab for most houses), but they are demonstrably better than concrete in specific situations:
+
+Criterion | Traditional concrete footings | Concrete-free steel pile footings | Build immediately after install | No – 5–28 day cure | Yes – same day | Performance on Class H reactive clay | Requires deep piers | Founded below active zone | Sloping or hillside blocks | Difficult – benching, formwork | Suited – minimal earthworks | Tight access (existing decks, courtyards) | Hard to deliver concrete | Handheld and compact rigs | Weather sensitivity | Delays in heavy rain or extreme heat | Installs in any weather | Carbon footprint | Higher – cement is carbon intensive | Lower – steel only | Removable / re-usable | No | Yes | Typical residential cost | Similar – sometimes higher once delays and rectifications are counted | Competitive – often cheaper on awkward sites
+For a deeper comparison, read our concrete-free footings vs traditional concrete article and our screw pile footings guide.
+
+
+## FAQ – Concrete footings in Australia
+
+
+### What is a concrete footing?
+
+A concrete footing is a reinforced-concrete element, cast into the ground, that transfers building loads into the soil. In Australia it is designed in accordance with AS 2870 and certified by a registered structural engineer for the relevant site classification.
+
+
+### How deep do concrete footings need to be in Australia?
+
+Strip footings for a single-storey house are typically 400–1000 mm deep; bored concrete piers under stumped floors are commonly 1500–3000 mm deep; deck pad footings are 600–900 mm. Depth must be specified by an engineer based on a site-specific soil test.
+
+
+### How much do concrete footings cost in 2026?
+
+Australian residential concrete footings cost roughly $180–$320 per linear metre for strip footings, $350–$900 per bored pier, and $150–$400 per pad. Waffle-pod slabs add $110–$180 per square metre to the slab cost.
+
+
+### What is the difference between a footing and a foundation?
+
+The footing is the structural concrete element. The foundation is the soil or rock that supports it. AS 2870 covers both as an integrated system for residential construction.
+
+
+### Do I need a permit to pour concrete footings?
+
+For nearly all houses, extensions, granny flats and most decks, yes – a building permit (or the state equivalent) is required before pouring concrete. The application normally needs a soil report and engineered footing design.
+
+
+### Can concrete footings be replaced with screw piles?
+
+Yes, when the design is certified by a structural engineer. Engineered screw pile footings such as SurePile and driven steel footings such as RapidStump are an accepted alternative to bored concrete piers under AS 2870 and the National Construction Code, and are widely used on reactive clay, sloping blocks and restricted-access sites across Australia.
+
+---
+
+# Blog: Shipping Container Home Footings in Victoria
+
+Source: https://easyfootings.com.au/blog/shipping-container-home-footings-victoria.html
+
+Shipping Container Home Footings in Victoria: Corner Castings, Permits & Concrete-Free Options
+
+14 May 2026
+Short answer: a shipping container home is not a slab-on-ground build. It carries its entire load through the eight corner castings, not through the floor. The right Victorian footing is one engineered pile per corner casting — on most blocks a helical screw pile, on stiff inner-suburb sites a driven steel stump, and on flat suburban infill a bored concrete pier. Continuous slabs and strip footings are usually a waste of money under a container.
+
+The longer answer covers Class 1a permits, why containers are deceptively heavy once fitted out, what changes on a sloping or BAL-rated bushfire site, and why the container drops back onto piles the same day they install — a workflow that suits the kind of regional blocks where most Victorian container homes actually get built. This guide is written for Melbourne metro, Geelong, Ballarat, Bendigo, the Mornington Peninsula and Gippsland.
+
+
+## Why Container Footings Are a Point-Load Problem
+
+A timber-framed home spreads its load through a continuous bottom plate and a slab or bearer grid; a container concentrates it. The container's structural frame is the corrugated steel walls and the corner castings — the eight cast-steel blocks at the top and bottom corners that lifting cranes and twistlocks engage with. The bottom four (or six, or eight on a multi-container build) are where the building meets the ground, and they are the only points the engineer cares about.
+
+The numbers, in rough Victorian terms:
+
+- A 20-foot (6 m) container shell weighs around 2.2 tonnes empty.
+- Fitted out as a 1-bedroom dwelling — insulation, internal lining, kitchen, bathroom, glazed openings, decking — it lands at 6-9 tonnes finished.
+- At a typical 4-corner support, each casting transfers 25-40 kN to the ground.
+- A 40-foot (12 m) container fully fitted lands at 10-14 tonnes, with intermediate mid-span supports the engineer will usually add, lifting per-casting loads to 35-55 kN.
+Those numbers are deceptively large. A 300 mm-square paver, a stack of besser blocks, or four "temporary" timber sleepers cannot resist that load on Victorian reactive clay without settling unevenly within the first wet winter. For the broader story on how Australian footing standards apply to point loads, see our overview of Victorian footing regulations.
+
+
+## What Counts as a "Container Home" Under the Victorian Permit System?
+
+The word "container home" covers very different builds, and the building surveyor treats them differently. The four common categories, all of which we install footings for:
+
+- Single 20-foot container cabin. Often used as a studio, granny flat or short-stay rental. Habitable, so Class 1a under the NCC. Always needs a building permit and engineered footings.
+- Single 40-foot container home. One-bedroom dwelling with kitchen and bathroom. Class 1a, building permit, sometimes a planning permit depending on the lot.
+- Two-or-more container build. Side-by-side, L-shape or stacked containers, typically with a structural connection or a pitched roof over the gap. Engineered as a single Class 1a building; the footings are designed for the combined plan with intermediate supports.
+- Container as a non-habitable shed or workshop. No plumbing, no sleeping, no full habitable fit-out. May be exempt from a building permit under Schedule 3 of the Building Regulations 2018 if it is under 10 sqm and meets the setback rules; anything bigger or with services still needs approval.
+From a footing perspective the design process is the same for all four: nominate the per-casting load, nominate the soil class, design one engineered pile under each corner casting plus intermediate supports where the engineer requires them. The category mostly determines how many piles you end up with.
+
+
+## The Victorian Permit Picture for Container Homes
+
+A habitable container home in Victoria is a Class 1a building under Volume 2 of the National Construction Code. The container's original ISO shipping certification has no bearing on building approval — it certifies the box for stacking and lifting, not for occupation. In practice, that means:
+
+- A building permit is required, issued by a registered building surveyor.
+- An engineer's footing design signed to AS 2870 and AS 1170 forms part of the permit documentation.
+- A planning permit is required in rural zones, on lots with a Bushfire Management Overlay (BMO), Heritage Overlay (HO), Significant Landscape Overlay (SLO) or Environmental Significance Overlay (ESO), and often for second dwellings on suburban lots.
+- An occupancy permit is required before the dwelling can be lived in.
+- If the site is bushfire-prone, a BAL assessment drives both the cladding and the footing detail.
+The moment a container is intended to be slept in, that whole chain applies. The myth that "a container is a vehicle, so it doesn't need a permit" is the single most common reason regional Victorian container builds get red-tagged by council and forced to be removed at owner cost. Get the engineering done up front; the footing engineering is usually the cheapest part of the permit pack.
+
+Container build profile | Building permit? | Planning permit? | Engineered footing? | Single 20-ft container, non-habitable, < 10 sqm | Often exempt | Depends on zone/overlay | Recommended | Single 20-ft cabin, habitable / fitted out | Yes (Class 1a) | Often, for second dwellings | Yes | Single 40-ft container home | Yes (Class 1a) | Usually | Yes | Two-or-more containers, joined dwelling | Yes (Class 1a) | Yes | Yes | Container in BMO / BAL-rated site | Yes | Yes | Yes (with BAL-rated detail)
+Council rangers in rural and peri-urban Victorian shires are increasingly active on unpermitted container dwellings, particularly where neighbours raise stormwater, wastewater or setback complaints. Even where the original drop-off looks invisible, a future sale will surface the missing occupancy permit on title search.
+
+
+## Footing Options for a Shipping Container Home
+
+Footing | Per-casting capacity | Best for | Trade-off | Besser blocks / sleepers / pavers (informal) | Negligible / non-engineered | Nothing habitable | Won't pass building surveyor; settles unevenly within one season | Continuous concrete slab | Very high (overkill) | Flat blocks where a slab is already being poured for adjoining works | Most expensive option, wastes the container's frame, traps moisture under floor | Bored concrete pier (300-450 mm dia, 900-1500 mm deep) | High | Flat suburban infill, Class M or stiffer, no access constraints | Spoil disposal, concrete pumping, 7-day cure, can heave on Class H clay | Driven steel stump (RapidStump) | High | 20-ft cabins on Class M and stiffer sites with bearing within 3 m | Bearing layer needed within drive depth | Helical screw pile (SurePile) | Very high; can be doubled with twin-helix | Most container homes; Class H clay, fill, sloping or remote regional sites | Slightly higher cost per pile, offset by speed and zero spoil
+The headline pattern: one engineered pile per corner casting, with a steel bearing cap matched to the casting's twistlock pocket, beats every alternative for a Victorian container home. The pile resists the point load through soil friction and helix bearing; the cap transfers that capacity cleanly into the casting; the container is on its final level the day the piles go in.
+
+
+## Sloping Blocks: Where Container Footings Earn Their Keep
+
+The most common Victorian container-home site by a wide margin is a regional or peri-urban block with a fall — a hillside acre in the Macedon Ranges, a Gippsland farm corner, a Mornington Peninsula coastal lot. Container homes are popular on these sites precisely because they install fast and don't need a full crew on the ground.
+
+Concrete-free piles are designed for exactly this. Each pile is screwed to engineer-specified torque or refusal, the bearing head is welded or cut to a different cut-off height under each casting, and the four (or six, or eight) heads finish on a single level plane. A 600-800 mm fall across the length of a 40-foot container — which would otherwise force a tall stepped concrete pier, retained fill, or a cut-and-fill platform with associated drainage — is absorbed by the cut-offs. The container drops in dead level on day one.
+
+A bored-pier build on the same slope is much more expensive: each pier needs over-height formwork, the spoil has to be carted up or down the fall, the concrete truck often can't reach the back piers and the pump distance adds cost, and the contractor has to come back twice. We cover the general sloping-block footing problem in more depth in our footings for sloping blocks guide.
+
+
+## BAL-Rated and Bushfire-Prone Sites
+
+A large share of Victorian container homes go onto blocks with a Bushfire Management Overlay, particularly in the Dandenongs, Otways, Macedon Ranges, Yarra Valley and rural Gippsland. The BAL rating — from BAL-LOW through BAL-FZ (Flame Zone) — is set on the bushfire attack level assessment and drives a lot of the build detail.
+
+From a footing perspective, BAL ratings influence two things:
+
+- The sub-floor space cannot harbour embers. A container on piles sits with a ventilated gap between casting and ground. At BAL-29 and above, that gap typically needs to be enclosed with non-combustible perimeter skirting (compressed fibre cement, steel sheet, or screened to AS 3959 ember requirements). The piles themselves are steel and BAL-compliant; the skirting is a builder detail rather than a footing detail, but the two need to be coordinated.
+- Vegetation clearance and tree protection. BMO setbacks and council tree-protection zones often overlap. Concrete-free piles install with hand-held drive equipment that can deflect around mature roots; bored piers usually can't be approved within a Tree Protection Zone. See footings near trees for the detail on TPZ rules.
+BAL-FZ sites are the most restrictive. We don't recommend a casual container build inside the Flame Zone — the container itself is steel and that's helpful, but glazing, decking, services penetrations and gap-sealing all have to meet AS 3959-FZ requirements and the project economics usually flip back toward a purpose-built FZ-rated dwelling.
+
+
+## Transportable, Modular and Off-Grid Container Cabins
+
+A growing share of Victorian container builds are not delivered by a builder onto a slab — they are pre-fitted in a factory, trucked to site on a tilt-tray, and craned into place. The footing has to be installed and surveyed before the truck arrives, because the container drops directly onto the bearing heads. There is no second-pour adjustment phase.
+
+The workflow we see most often:
+
+- Engineer's setout. Pile positions are surveyed to the corner casting centres, typically ±15 mm tolerance for a 20-foot container, ±25 mm for a 40-foot.
+- Piles installed and capped. Half a day on site for a 20-foot, a full day for a 40-foot, often the day before the truck.
+- Container craned in. The lift contractor lands the four corner castings directly onto the bearing heads, twistlock pockets aligned with caps. Container is level and structurally complete in 30-90 minutes.
+- Services and skirting. Plumbing, electrical, decking and perimeter skirting follow over the next week or two.
+On a flat-block remote regional site — the off-grid Gippsland or Mallee scenarios — this is by far the fastest way to legally land a habitable dwelling. We've installed pile sets where the container was on site, level, and lockable inside 48 hours of footing day one.
+
+
+## Choosing the Right BMSA System for Your Container Home
+
+- SurePile is the default for almost every Victorian container home. The helix lets a single pile carry the 30-55 kN per-casting load on Class M, H1 and H2 reactive clay, fill, and sloping or remote regional sites. Variable cut-off means perfect levelling regardless of ground fall.
+- RapidStump suits 20-foot container cabins on stiff Class M or better soil where bearing is reached inside 3 m. Common on Melbourne inner-suburb infill blocks where a container is being added behind an existing house as a studio or second dwelling.
+- StumpRite is occasionally used where a container is tied into an existing relevelled deck, sub-floor or veranda that all needs to sit on a single datum. Less common as a standalone container footing, more common in mixed builds.
+For a side-by-side comparison of all three see our RapidStump vs StumpRite vs SurePile breakdown. For the full screw-pile primer, see our screw pile footings Melbourne guide.
+
+
+## Soil & Site Considerations
+
+- Class M reactive clay. The default soil for most of Melbourne's middle-ring suburbs and a wide band of regional towns. Driven steel stumps work for 20-foot cabins; screw piles are the safer choice for 40-foot and multi-container builds at full per-casting load.
+- Class H1/H2 reactive clay. Common across inner-east Melbourne, bayside, western basalt suburbs and the Bellarine. Shallow piers can be heaved by seasonal moisture; screw piles to 2.5-3.5 m bypass the active zone. Critical on a container, because uneven heave between corners twists the steel frame and pops window seals.
+- Class P (problem) soils. Old farm fill, peat in the Westernport fringe, mine subsidence in central Victoria. Container builds on these sites must penetrate to a confirmed bearing layer, which a screw pile does at install with live torque measurement.
+- Sandy coastal sites. Mornington Peninsula, Phillip Island, Bellarine, Surf Coast. Loose surface sand on a stiffer base; piles drive through to the bearing layer cleanly and the casting heads sit well above any sand drift line.
+- Sloping rural blocks. Container piles are the cheapest correct answer here by a wide margin — see the section above.
+- Remote / off-grid access. Pile install equipment is mounted on a small mini-excavator or skid-steer and accesses through a 1.5 m gate. A concrete truck and pump combination usually can't, and ready-mix delivery to remote regional sites carries a heavy long-haul premium.
+
+## Practical Tips for Container Home Footings
+
+- Get the container's weight schedule before the engineer sizes piles. A 40-foot one-bedroom container fully fitted is a much heavier number than the "9-tonne" shorthand most sellers quote. Get the kerb weight including tile, decking and double-glazed openings.
+- Confirm the cast layout. Standard ISO containers have eight castings (four top, four bottom), but some "high-cube" and "side-opening" containers have non-standard casting positions. The footing setout follows the bottom-corner cast centres, not the visible edge of the steel.
+- Specify the bearing cap with the pile. The cap has to land cleanly under the casting's twistlock pocket, transfer load through bearing not bolt shear, and tolerate the ±15-25 mm setout error. A great pile under a poorly detailed cap will still hold the container — but the lift contractor will curse you on crane day.
+- Pothole services first. Sewer, stormwater, gas, and rural water-main runs frequently cross the back-yard or rural-block line where a container goes. A $300 hydro-vac potholing run will save you a $5,000 service repair.
+- Mind the setback. Most Victorian suburban second-dwelling rules want 1 m to the side boundary and 3 m to the rear; rural-zone setbacks can be much larger. Confirm before setting out piles.
+- Plan for tie-down. In N3 wind country (Mornington, Surf Coast, Phillip Island, exposed Macedon ridges) a containerised dwelling is light enough to need engineered tie-down to its footings. Screw piles take a tie-down rod directly; bored piers need a starter bar cast in.
+- Document everything. Get the engineering certificate, pile install torque records, and footing layout on file with the building permit pack. The occupancy permit will not issue without them.
+- Think ahead about decking and entry steps. A container floor sits 350-500 mm above ground once piled. Plan the deck or stairs at footing stage so the deck piles share equipment mobilisation with the dwelling.
+
+## What Do Container Home Footings Cost in Victoria?
+
+Indicative ranges from recent jobs across Melbourne metro and regional Victoria:
+
+Container build scenario | Concrete-free pile quote | Equivalent bored pier quote | 20-ft cabin studio, Class M flat lawn, Coburg inner-suburb | $2,800-$3,400 (RapidStump × 4 + caps) | $3,200-$4,200 (4 piers + concrete + spoil) | 40-ft 1-bed home, flat semi-rural block, Bacchus Marsh | $4,200-$5,200 (SurePile × 6, caps) | $5,200-$6,800 (6 piers + cure + access) | 40-ft home, 700 mm fall, Class H1, Macedon Ranges hillside | $4,800-$6,000 (SurePile × 6-8, variable cut-off) | $7,500-$11,000 (stepped piers + cart-up spoil) | Two 20-ft containers side by side, BAL-19, Gippsland | $6,500-$8,500 (SurePile × 8 + intermediate caps) | $9,000-$13,000 (deep piers + remote concrete supply) | L-shape two-container dwelling, coastal N3, Mornington | $7,500-$10,000 (SurePile + tie-down rods) | $11,000-$15,000 (uprated piers + cyclone tie-down)
+Indicative ranges only. Actual quote depends on access, soil report, slope, BAL rating, wind region and bearing depth. All figures ex-GST as at May 2026.
+
+The headline number to watch: concrete-free piles beat bored piers more decisively on container builds than on almost any other application, because the savings on spoil, concrete delivery, cure time and re-mobilisation all stack up against a relatively small per-casting footing budget. On a sloping or remote regional block, concrete-free is routinely 30-50% cheaper installed and weeks faster to occupancy.
+
+
+## Frequently Asked Questions
+
+
+### Do shipping container homes need a building permit in Victoria?
+
+Yes. A shipping container home used as a habitable dwelling in Victoria is a Class 1a building under the National Construction Code and requires a building permit, an engineer-designed footing, and a final occupancy permit before it can be lived in. The container's original shipping certification has no bearing on building approval. Some councils also require a planning permit, especially in rural zones, bushfire overlays or heritage overlays. A container used purely as a non-habitable shed under 10 sqm with no plumbing or electrical may be exempt under Schedule 3 of the Building Regulations 2018, but anything you intend to live or sleep in is Class 1a.
+
+
+### What footings does a shipping container home need?
+
+A shipping container home carries its load almost entirely through the eight corner castings, not through the floor. Each corner casting on a fully fitted 20-foot container typically transfers 25-40 kN to the ground, and a 40-foot container 35-55 kN per casting. The standard Victorian solution is one engineered footing per corner casting: either a 300-450 mm bored concrete pier 900-1500 mm deep, or a single concrete-free screw pile sized to that point load. Continuous slabs and strip footings are over-engineered for a container and rarely the cheapest answer.
+
+
+### Can you put a shipping container home on screw piles?
+
+Yes, and on most Victorian sites it is the preferred answer. Helical screw piles install one per corner casting, typically four piles for a 20-foot container or six to eight for a 40-foot. Each pile is wound to engineer-specified torque, the bearing head is welded or bolted to a steel cap that locates under the corner casting, and the container drops straight onto the heads. No concrete cure, no spoil disposal, and the entire footing set can install in half a day for a 20-foot cabin.
+
+
+### What do container home footings cost in Victoria?
+
+Indicative supplied-and-installed pricing in 2026: a single 20-foot container on four screw piles runs $2,800-$3,800 for the footings, a 40-foot container on six to eight piles $4,200-$6,000, and a two-container side-by-side or L-shape build $6,500-$10,000. Bored concrete pier equivalents land slightly higher once spoil disposal, concrete pumping and a 7-day cure are included, and significantly higher on sloping or access-restricted regional blocks.
+
+
+### Can a shipping container home be installed on a sloping block?
+
+Yes, and the sloping block is where concrete-free screw piles open up the biggest cost saving. Each pile installs to a different cut-off height, so the four or eight bearing heads finish on a single level plane regardless of the ground fall. A 600-800 mm fall across a 12-metre container length, which would otherwise force a tall stepped concrete footing or a cut-and-fill platform with associated drainage, is absorbed by varying the pile cut-off. The container sits dead level on day one.
+
+
+### Are screw pile footings compliant for a Class 1a container home?
+
+Yes. Engineered helical screw piles such as SurePile are designed and certified to AS 2870 (residential slabs and footings) and AS 1170 (structural design actions), with installation torque or refusal recorded against the engineer's design. The footing layout is signed off by the project engineer and forms part of the building permit documentation. The relevant building surveyor in Victoria signs off against that engineering, not against the footing brand.
+
+
+### How many piles does a 40-foot container home need?
+
+A 40-foot container fully fitted as a Class 1a dwelling typically needs six piles — one under each of the four bottom corner castings, plus two intermediate supports at mid-span to limit floor deflection and stop the container's underside flexing under domestic live load. Eight piles are common where the container has been cut for a large window or door opening that interrupts the structural side wall.
+
+
+### Can I install footings before the container arrives?
+
+Yes, and you should. The standard workflow is: engineer's setout day one, piles installed and surveyed day one or two, container delivered and craned in day three or later. The bearing heads are levelled to the engineer's cut-off and the container drops directly onto them. Concrete piers have to be poured, cured for 7 days, and surveyed before the container can land, which is why container builds favour screw piles on tight delivery windows.
+
+
+### Do I need different footings for a BAL-rated bushfire site?
+
+The footings themselves are steel and inherently BAL-compliant. What changes is the perimeter skirting between the container floor and the ground: at BAL-29 and above it has to be non-combustible and ember-screened, which is a builder detail rather than a footing detail but needs coordinating at footing stage so the skirting line, vent openings and bearing caps work together.
+
+
+## The Bottom Line
+
+A Victorian shipping container home is mostly a point-load problem, not a slab problem. Get the container's finished weight in writing, get the soil class confirmed, then install one engineered concrete-free pile under each corner casting with a properly detailed bearing cap. The piles finish on a single level plane regardless of slope, the carpenter and lift contractor are on tools the same week, and the structure is compliant, certified and ready for occupancy permit. Skip the stack of besser blocks under "temporary" twistlocks — it will cost less today and considerably more after the first wet winter on Victorian reactive clay.
+
+---
+
+# Blog: Tiny House Footings in Victoria
+
+Source: https://easyfootings.com.au/blog/tiny-house-footings-victoria.html
+
+Tiny House Footings in Victoria: Movable Dwellings, Class 1a Builds & Concrete-Free Piles
+
+18 May 2026
+Short answer: a tiny house is either a movable dwelling on wheels or a Class 1a fixed dwelling on land, and the two have very different footing answers in Victoria. Movable tiny houses need an engineered support set, not a stack of timber sleepers under the chassis. Fixed tiny homes need engineered footings under each bearer support, designed to AS 2870. On almost every Victorian block the cheapest and most flexible answer is the same: one concrete-free helical screw pile per bearer support — un-screwable and re-usable if the tiny house is ever relocated.
+
+The longer answer covers the legal distinction Victorian councils actually apply, why tiny houses are deceptively heavy once you load them with off-grid batteries and water, what changes on a sloping or BAL-rated rural block, and why the screw-pile workflow suits the kind of regional Victorian sites where most tiny houses are actually parked. This guide is written for Melbourne metro, Geelong, Ballarat, Bendigo, the Mornington Peninsula and Gippsland.
+
+
+## The Two Tiny House Categories Victorian Councils Apply
+
+The marketing literature treats "tiny house" as a single thing. The building surveyor doesn't. Every Victorian tiny house falls into one of two regulatory boxes, and the box determines the footing design more than anything else:
+
+- Tiny House On Wheels (THOW). Built on a road-registered trailer chassis, generally 2.5 m wide and 6 to 9 m long. Treated as a movable dwelling under the Residential Tenancies Act and the Caravan Park regulations rather than a Class 1a building, provided it remains capable of being moved within 24 hours and is not permanently connected to mains services. Many Victorian councils will accept a THOW parked on a host property for personal use; some require a permit to occupy long-term. The footing question is not "do I need a permit" but "what do I sit it on so it doesn't bog into Class H1 clay through the winter."
+- Tiny House On Foundations (THOF). Built directly onto a permanent footing set, generally 25 to 50 square metres of internal floor, with mains services and full fit-out. This is a Class 1a building under Volume 2 of the National Construction Code. It needs a building permit, engineered footings signed to AS 2870, often a planning permit in rural and overlay-affected zones, and a final occupancy permit. From a footing perspective it is treated exactly like a small Class 1a granny flat — see our granny flat footings guide for the parallel detail.
+The line between the two is drawn on three things: fixity (can it actually be moved?), services (is it on mains or off-grid?) and occupancy (is someone living there full-time?). A THOW that has lived in the same paddock for five years, plumbed in, hard-wired to mains, with decking built around it, is the case where councils most often rule "this is a Class 1a build, you need a permit retroactively." Get the classification straight up front; the footing design follows from it.
+
+
+## Why Tiny House Footings Are a Point-Load Problem
+
+A tiny house, on or off wheels, concentrates its load onto a small number of supports. The trailer chassis is usually a pair of steel C-section rails with cross-members and a coupling tongue; a fixed tiny house is built on timber bearers spanning between piles. Either way, the load reaches the ground through point supports, not a continuous slab.
+
+The numbers, in rough Victorian terms:
+
+- A 6 m tiny house weighs 3.5 to 4.5 tonnes fitted out for off-grid living (cladding, insulation, kitchen, bathroom, loft, batteries, water tanks).
+- A 7.5 m tiny house lands at 4.5 to 6 tonnes.
+- A 9 m tiny house lands at 6 to 8 tonnes.
+- Designed on four corner supports plus two intermediates, each support transfers 8 to 15 kN to the ground under serviceability load — significantly higher under design wind uplift on an exposed coastal or ridge site.
+- A loaded off-grid tiny house with a full 2,000 L rainwater tank and a 10 kWh battery wall can add another 2.5 tonnes of dead load over a small area, all of which lands on the rear bearer pair.
+Those numbers are deceptively large for a structure that looks like a "cabin on a trailer." A 200 mm-square paver, a stack of timber sleepers, or four supermarket-grade jack stands cannot resist that load on Victorian reactive clay without settling unevenly through the first wet winter. The doors stop closing, the loft tilts toward the heavy end, and the chassis takes a permanent twist. Most tiny house "the floor went out" complaints in Victoria are a footing problem, not a build problem.
+
+
+## The Victorian Permit Picture for Tiny Houses
+
+A habitable tiny house in Victoria touches three sets of rules: the Building Regulations 2018, the Planning and Environment Act via local council planning schemes, and the Residential Tenancies Act if it is rented out. In practice, the footing-relevant points are:
+
+- A fixed (THOF) tiny house requires a building permit from a registered building surveyor, an engineer's footing design signed to AS 2870 and AS 1170, and a final occupancy permit before it can be lived in.
+- A movable (THOW) tiny house generally does not require a building permit if it remains genuinely movable, but most councils still require it to be parked behind appropriate boundary setbacks, with adequate effluent and stormwater management, and not used as a long-term primary dwelling without a permit.
+- A planning permit is often required in rural zones, on lots with a Bushfire Management Overlay (BMO), Heritage Overlay (HO), Significant Landscape Overlay (SLO) or Environmental Significance Overlay (ESO), and frequently for second dwellings on suburban lots regardless of category.
+- If the site is bushfire-prone, a BAL assessment drives both the cladding and the sub-floor detail.
+- A short-stay or holiday-rental tiny house has additional planning permit triggers and is increasingly being flagged by councils in tourism corridors like the Mornington Peninsula, Great Ocean Road and Gippsland coast.
+The most expensive mistake in Victorian tiny house builds isn't the footings — it's misreading the category and finding out after the fact that the council considers it a Class 1a build that has been occupied without a permit. The footing engineering is usually the cheapest part of the permit pack, and getting it certified up front gives the building surveyor confidence in the rest of the build. For the broader regulatory picture across all footing types, see our Victorian footing regulations guide.
+
+Tiny house profile | Building permit? | Planning permit? | Engineered footing? | THOW, short stay, on host property, no mains | Generally no | Depends on zone/overlay | Recommended support set | THOW, long-term residence, mains-connected | Often required | Usually | Yes | THOF, fixed Class 1a dwelling under 50 sqm | Yes (Class 1a) | Usually | Yes | Tiny house in BMO / BAL-rated site | Yes | Yes | Yes (with BAL-rated sub-floor detail) | Tiny house used as short-stay rental | Yes | Yes | Yes
+
+## Footing Options for a Tiny House
+
+Footing | Per-support capacity | Best for | Trade-off | Timber sleepers, pavers, jack stands (informal) | Negligible / non-engineered | Short-term transit parking only | Settles unevenly within one wet season; twists the chassis | Continuous concrete slab | Very high (overkill) | Where a slab is already being poured for adjoining works | Removes the tiny house's relocatability, traps moisture, most expensive option | Bored concrete pier (300-450 mm dia, 900-1500 mm deep) | High | Flat suburban infill, Class M or stiffer, no access constraints | Spoil disposal, concrete pumping, 7-day cure, can heave on Class H clay | Driven steel stump (RapidStump) | Moderate to high | 6 to 7.5 m tiny houses on Class M and stiffer sites with bearing within 3 m | Bearing layer needed within drive depth | Helical screw pile (SurePile) | High; doubled with twin-helix | Most tiny houses; Class H clay, fill, sloping or remote regional sites | Slightly higher cost per pile, offset by speed, zero spoil, and full reversibility | Adjustable steel stump (StumpRite) | Moderate to high | THOW long-term parking where seasonal re-levelling may be wanted | 120 mm of screw adjustment lets the owner correct seasonal movement without disturbing the chassis
+The headline pattern: one engineered support per bearer point, with a steel bearing cap or chassis bracket sized to the tiny house, beats every alternative on a Victorian site. The pile resists the point load through soil friction and helix bearing; the cap transfers that capacity cleanly into the chassis rail or timber bearer; the tiny house sits level the day the piles go in and stays that way.
+
+
+## Sloping Blocks: Where Tiny House Footings Earn Their Keep
+
+The most common Victorian tiny house site by a wide margin is a regional or peri-urban block with a fall — a back paddock in the Macedon Ranges, a Gippsland hobby farm, a Mornington Peninsula coastal lot, a Yarra Valley vineyard corner. Tiny houses are popular on these sites precisely because they install fast and don't need a full earthworks crew on the ground.
+
+Concrete-free piles are designed for exactly this. Each pile is screwed to engineer-specified torque or refusal, the bearing head is welded or cut to a different cut-off height under each bearer, and the four to eight heads finish on a single level plane. A 400 to 800 mm fall across the length of a 9 m tiny house — which would otherwise force a tall stepped concrete pier, retained fill, or a cut-and-fill platform with associated drainage — is absorbed by the cut-offs. The tiny house arrives on a tilt-tray, the lift contractor lowers it onto the heads, and the chassis is dead level on day one.
+
+A bored-pier build on the same slope is much more expensive: each pier needs over-height formwork, the spoil has to be carted up or down the fall, the concrete truck often can't reach the back piers and the pump distance adds cost, and the contractor has to come back twice. We cover the general sloping-block footing problem in more depth in our footings for sloping blocks guide.
+
+
+## BAL-Rated and Bushfire-Prone Sites
+
+A large share of Victorian tiny houses end up on blocks with a Bushfire Management Overlay — the Dandenongs, Otways, Macedon Ranges, Yarra Valley, Strzelecki Ranges and rural Gippsland are the most common postcodes we see in tiny-house quotes. The BAL rating — from BAL-LOW through BAL-FZ (Flame Zone) — is set on the bushfire attack level assessment and drives a lot of the build detail.
+
+From a footing perspective, BAL ratings influence two things:
+
+- The sub-floor space cannot harbour embers. A tiny house on piles sits with a ventilated gap between the chassis or bearers and the ground. At BAL-29 and above, that gap needs to be enclosed with non-combustible perimeter skirting (compressed fibre cement, steel sheet, or screened to AS 3959 ember requirements). The piles themselves are steel and BAL-compliant; the skirting is a builder detail rather than a footing detail, but the two have to be coordinated at pile cut-off stage.
+- Vegetation clearance and tree protection. BMO setbacks and council tree-protection zones often overlap. Concrete-free piles install with hand-held drive equipment that can deflect around mature roots; bored piers usually can't be approved within a Tree Protection Zone. See footings near trees for the TPZ detail.
+
+## Off-Grid and Remote Regional Tiny Houses
+
+A growing share of Victorian tiny house owners are not on mains water, sewer or power — they're on tank water, composting or worm-farm waste, and solar with battery storage. From a footing perspective that matters in two ways:
+
+- Battery and tank weight. A 10 kWh lithium battery wall is around 90 kg, but a 2,000 L water tank coupled inside or under the deck is 2 tonnes of dead load over a small area. The footing engineer needs to know where it lands.
+- Access for install plant. Pile install equipment is mounted on a small mini-excavator or skid-steer and accesses through a 1.5 m gate, down a paddock track, or across pasture without leaving a scar. A concrete truck and pump combination usually can't reach remote tiny house pads, and ready-mix delivery to remote regional Victoria carries a heavy long-haul premium — sometimes 50 % above the metro mix price by the time the truck has driven two hours each way.
+The workflow we see most often on a remote regional tiny house:
+
+- Engineer's setout. Pile positions are surveyed to the chassis rail or bearer centres, typically ±15 mm tolerance.
+- Piles installed and capped. Half a day on site for a 6 to 7.5 m tiny house, full day for a 9 to 12 m build, often the day before the tilt-tray.
+- Tiny house delivered. Tilt-tray reverses to the pad, the operator slides the tiny house off the truck and lands the chassis rails directly onto the bearing heads.
+- Bolt down or strap. Engineer-specified anchor rods or steel strap tie-downs secure the chassis to each pile head.
+- Services and skirting. Water tank connection, solar penetration, decking and perimeter skirting follow over the next week or two.
+
+## Choosing the Right BMSA System for Your Tiny House
+
+- SurePile is the default for almost every Victorian tiny house. The helix lets a single pile carry the 8 to 15 kN per-support load on Class M, H1 and H2 reactive clay, fill, and sloping or remote regional sites. Variable cut-off means perfect levelling regardless of ground fall, and the pile is fully un-screwable if the tiny house is later relocated — valuable on land you don't own or on a property with a future development plan.
+- RapidStump suits 6 to 7.5 m tiny houses on stiff Class M or better soil where bearing is reached inside 3 m. Common on Melbourne inner-suburb infill blocks where a tiny house is being added behind an existing house as a studio or second dwelling.
+- StumpRite is the option to consider for THOW long-term parking. The 120 mm of screw-thread adjustment lets the owner re-level the dwelling seasonally without disturbing the chassis, which suits sites where some long-term reactive-clay movement is expected and engineering risk-tolerated.
+For a side-by-side comparison of all three see our RapidStump vs StumpRite vs SurePile breakdown. For the full screw-pile primer, see our screw pile footings Melbourne guide.
+
+
+## Soil & Site Considerations
+
+- Class M reactive clay. The default soil across most of Melbourne's middle-ring suburbs and a wide band of regional towns. Driven steel stumps work for 6 to 7.5 m tiny houses; screw piles are the safer choice for 9 to 12 m builds, especially fully fitted off-grid units.
+- Class H1/H2 reactive clay. Common across inner-east Melbourne, bayside, western basalt suburbs and the Bellarine. Shallow piers can be heaved by seasonal moisture; screw piles to 2.5 to 3.5 m bypass the active zone. Critical on a tiny house, because differential heave between front and back supports twists the chassis and pops door alignment within one season.
+- Class P (problem) soils. Old farm fill, peat in the Westernport fringe, soft alluvial deposits along the Yarra and Goulburn floodplains, mine subsidence in central Victoria. Tiny house piles on these sites must penetrate to a confirmed bearing layer, which a screw pile does with live torque measurement at install.
+- Sandy coastal sites. Mornington Peninsula, Phillip Island, Bellarine, Surf Coast. Loose surface sand on a stiffer base; piles drive through to the bearing layer cleanly and the cap heads sit well above any sand drift line.
+- Sloping rural blocks. Tiny house piles are the cheapest correct answer here by a wide margin — see the section above.
+- Remote / off-grid access. Pile install equipment accesses through a 1.5 m gate; concrete truck access often can't. This single factor decides most rural tiny house quotes.
+
+## Practical Tips for Tiny House Footings
+
+- Get the finished weight in writing from the builder. A 7.5 m tiny house fully fitted is a much heavier number than the trailer-tare quoted at sale. Get the kerb weight including water tanks, batteries, internal joinery, double-glazed openings and any external decking.
+- Confirm the chassis rail layout. Most THOW builds have two main C-section rails and several cross-members. The footing setout follows the rail centres, not the visible cladding edge of the build.
+- Specify the bearing cap with the pile. The cap has to land cleanly under the chassis rail (THOW) or bearer (THOF), transfer load through bearing not bolt shear, and tolerate ±15 mm setout error. A great pile under a poorly detailed cap will still hold the load — but the tilt-tray contractor will curse you on delivery day.
+- Plan tie-down for N3 wind country. Tiny houses on the Mornington Peninsula, Surf Coast, Phillip Island and exposed Macedon ridges are light enough to need engineered tie-down to their footings. Screw piles take a tie-down rod directly through a tapped pile head; bored piers need a starter bar cast in at pour time.
+- Pothole services first. Sewer, stormwater, gas, telecommunications and rural water-main runs frequently cross the part of the property where the tiny house is going. A $300 hydro-vac potholing run will save you a $5,000 service repair.
+- Mind boundary setbacks and overlays. Most Victorian suburban second-dwelling rules want 1 m to the side boundary and 3 m to the rear; rural-zone setbacks can be much larger. BMO sites trigger 10 m vegetation clearance circles around the dwelling. Confirm before setting out piles.
+- If it's a THOW, leave it move-able. The footing detail can be a chassis-clamp bracket rather than a welded cap. That keeps the dwelling genuinely movable, which is the test some councils apply when deciding if a building permit is required.
+- Document everything. Get the engineering certificate, pile install torque records, and footing layout on file with the building permit pack (THOF) or in the owner's records (THOW). A future sale, a future planning enforcement, or a future insurance claim will all ask for them.
+- Plan deck and entry steps at footing stage. A tiny house chassis sits 350 to 600 mm above ground once piled; some THOFs sit higher. Specify the deck or stair piles at the same time as the dwelling footings so the equipment is mobilised once.
+
+## What Do Tiny House Footings Cost in Victoria?
+
+Indicative ranges from recent jobs across Melbourne metro and regional Victoria:
+
+Tiny house build scenario | Concrete-free pile quote | Equivalent bored pier quote | 6 m THOW, Class M flat lawn, Bayswater inner-suburb | $2,200-$2,800 (RapidStump × 4 + clamp brackets) | $2,800-$3,800 (4 piers + concrete + spoil) | 7.5 m THOF, flat semi-rural block, Bacchus Marsh | $2,800-$3,800 (SurePile × 6, caps) | $3,800-$5,200 (6 piers + cure + access) | 9 m off-grid THOF, 500 mm fall, Class H1, Macedon Ranges | $3,600-$4,800 (SurePile × 6-8, variable cut-off) | $6,500-$9,500 (stepped piers + cart-up spoil) | 9 m THOF, BAL-19 bushfire site, Yarra Valley | $4,200-$5,800 (SurePile + BAL-coordinated skirting interface) | $7,500-$11,000 (deep piers + remote concrete supply) | 12 m THOF with deck, coastal N3, Mornington Peninsula | $5,200-$6,800 (SurePile × 8 + tie-down rods + 6 deck piles) | $9,500-$14,000 (uprated piers + cyclone tie-down + spoil) | THOW long-term parking, seasonal re-level expected, Bendigo | $1,800-$2,600 (StumpRite × 6 + adjustable tops) | $3,200-$4,500 (6 piers + no future adjustability)
+Indicative ranges only. Actual quote depends on access, soil report, slope, BAL rating, wind region and bearing depth. All figures ex-GST as at May 2026.
+
+The headline number to watch: concrete-free piles beat bored piers more decisively on tiny house builds than on almost any other application, because the savings on spoil, concrete delivery, cure time and re-mobilisation all stack up against a relatively small per-support footing budget. On a sloping or remote regional block, concrete-free is routinely 35-50 % cheaper installed and weeks faster to occupancy. On a THOW where future relocatability matters, the concrete-free option also preserves the resale value of the dwelling as a genuinely movable asset.
+
+
+## Tiny Houses vs Granny Flats vs Container Homes
+
+Three closely-related small-dwelling categories often get confused in Victorian footing quotes. The footing answer is genuinely different for each:
+
+- A granny flat is a fixed Class 1a dwelling, typically 40 to 60 sqm, built like a small house with a continuous footing perimeter. Slab or pier-and-bearer.
+- A shipping container home is a fixed Class 1a build where the entire load goes through eight corner castings, regardless of internal area. Four to eight engineered piles per container.
+- A tiny house is either movable (THOW) or fixed (THOF) and rides on a chassis or bearer pair. Four to eight engineered supports along the rail line, never under a single point.
+If you're still deciding between the three, the footing cost difference is usually less than 10 % of total build, but the regulatory and resale picture differs enormously. A tiny house is the most relocatable; a container home the most cyclone-resistant; a granny flat the most planning-friendly for permanent residence.
+
+
+## Frequently Asked Questions
+
+
+### Do tiny houses need footings in Victoria?
+
+Yes, in almost every practical scenario. A tiny house on wheels still needs an engineered support set to take the dwelling off its trailer wheels and onto a stable base once it is parked for living rather than transport. A tiny house on land (a Class 1a fixed dwelling under 50 sqm) requires engineered footings as part of the building permit, the same as any other Class 1a build. Only a short-stay caravan-style stop on its own wheels with no plumbing or grid connection escapes the footing question, and Victorian councils are increasingly tightening rules even on that scenario.
+
+
+### Is a tiny house a Class 1a building in Victoria?
+
+It depends on how the tiny house is used and how it is fixed to the site. A tiny house built on a road-registered trailer, set up so it can be moved within 24 hours and used as a temporary dwelling, is generally treated as a movable dwelling under the Residential Tenancies Act and Caravan Park regulations rather than a Class 1a building. A tiny house bolted to a permanent footing set, connected to mains services and used as a primary residence, is a Class 1a dwelling under the National Construction Code and needs a building permit, engineered footings and an occupancy permit. Victorian councils look at use and fixity, not at the marketing label on the build.
+
+
+### What footings does a tiny house need?
+
+A timber-framed tiny house under 50 sqm typically transfers 8 to 15 kN per support point to the ground depending on its floor span, cladding weight and snow or wind loads. The standard Victorian answer is four to eight engineered support points, one under each bearer or chassis-rail end and each mid-span intermediate. On most sites that is a helical screw pile per support; on stiff Class M suburban blocks a driven steel stump works; on flat infill blocks a bored concrete pier is an option but rarely the cheapest. A continuous slab is over-engineered for the load and undoes one of the tiny house's main appeals, which is being able to lift and move it later.
+
+
+### Can you put a tiny house on screw piles?
+
+Yes, and it is the default Victorian answer for a serious tiny house build. Helical screw piles install one per bearer support, typically four to eight piles for a 6 to 9 m tiny house. Each pile is wound to engineer-specified torque, the bearing head is welded or bolted to a steel cap matched to the tiny house chassis or bearer detail, and the tiny house drops directly onto the heads. No concrete cure, no spoil disposal, and the entire footing set installs in half a day. Critically for tiny house owners, the piles can be unscrewed and re-used if the tiny house is later relocated.
+
+
+### What do tiny house footings cost in Victoria?
+
+Indicative supplied-and-installed pricing in 2026: a 6 to 7 m tiny house on four screw piles runs $2,200-$3,200 for the footings, a 9 m tiny house on six piles $3,200-$4,500, and a 12 m tiny home with intermediate supports $4,500-$6,200. Bored concrete pier equivalents land moderately higher once spoil disposal, concrete pumping and a 7-day cure are included, and significantly higher on sloping or access-restricted regional blocks. A THOW long-term parking support set (corner stabilisers plus engineered intermediate supports) runs $1,800-$2,800 depending on chassis length and the level of permanence required.
+
+
+### Can I install a tiny house on a sloping rural block?
+
+Yes, and the sloping block is exactly where concrete-free piles earn their keep on a tiny house build. Each pile is installed to a different cut-off height, so the four to eight bearing heads finish on a single level plane regardless of ground fall. A 400 to 800 mm fall across the length of a 9 m tiny house, which would otherwise force a tall stepped concrete pier or a cut-and-fill platform with drainage, is absorbed by varying the pile cut-off. The tiny house sits dead level on day one with no follow-up re-shimming through the first wet season.
+
+
+### Are screw pile footings compliant for a Class 1a tiny home in Victoria?
+
+Yes. Engineered helical screw piles such as SurePile, and driven steel stumps such as RapidStump, are designed and certified to AS 2870 (residential slabs and footings) and AS 1170 (structural design actions), with installation torque or refusal recorded against the engineer's design. The footing layout is signed off by the project engineer and forms part of the building permit documentation. The relevant building surveyor in Victoria signs off the footings against that engineering, not against the footing brand or shape.
+
+
+### How many piles does a 9-metre tiny house need?
+
+A 9 m tiny house typically needs six piles — one under each of the four chassis-rail or bearer ends, plus two intermediate supports at mid-span to limit floor deflection and stop the chassis flexing under domestic live load. Eight piles are common where the tiny house has a heavy off-grid load — rear-mounted water tanks, battery wall, or extended decking integrated with the chassis. The engineer's design follows the floor span and dead-load layout, not just the overall length.
+
+
+### Can I install footings before the tiny house arrives?
+
+Yes, and you should. The standard workflow is: engineer's setout day one, piles installed and surveyed day one or two, tiny house delivered by tilt-tray day three or later. The bearing heads are levelled to the engineer's cut-off and the chassis rails drop directly onto them. Concrete piers have to be poured, cured for seven days and surveyed before the dwelling can land, which is why tiny house builds overwhelmingly favour screw piles on tight delivery windows.
+
+
+### Will I lose the ability to move my tiny house later if I sit it on screw piles?
+
+No, and that's one of the main reasons tiny house owners pick screw piles over concrete. The pile is steel, fully un-screwable, and can be wound out of the ground in 15-30 minutes per pile leaving only a small hole that grass closes over within a season. The bearing cap unbolts from the chassis rail, and the tiny house lifts back onto its trailer for relocation. Concrete piers, by contrast, are a one-way decision: once poured, they stay in the ground or get jackhammered out at significant cost.
+
+
+## The Bottom Line
+
+A Victorian tiny house is fundamentally a point-load problem, not a slab problem — and the right answer depends almost entirely on whether yours is a movable dwelling on wheels or a fixed Class 1a build on land. Get the category straight with your council, get the finished weight in writing from the builder, then install one engineered concrete-free pile under each chassis-rail or bearer support with a properly detailed bearing cap. The piles finish on a single level plane regardless of slope, the tilt-tray contractor lands the tiny house dead level on day one, and the structure is compliant, certified and ready for occupancy permit or council inspection. Skip the stack of timber sleepers under "temporary" jack stands — it will cost less today and considerably more after the first wet winter on Victorian reactive clay.
+
+---
+
+# Blog: Shed Footings in Victoria
+
+Source: https://easyfootings.com.au/blog/shed-footings-victoria.html
+
+Shed Footings in Victoria: Steel Sheds, Garages, Farm Sheds & Costs
+
+3 June 2026
+Short answer: a steel shed is a portal frame, and it carries its whole structure through the base plate at each column — not across the floor. The right Victorian footing resists three loads at every column: downward weight, sideways wind, and wind uplift trying to pull the column out of the ground. The standard options are a thickened-edge concrete slab, individual concrete pad footings, or one concrete-free screw pile per column. On reactive clay, sloping ground and remote rural blocks, a screw pile under each column is usually the fastest and most reliable answer.
+
+The longer answer covers why wind uplift — not dead load — governs shed footings, how the kit manufacturer's engineering sets your footing sizes, when you can skip the slab entirely, the Victorian permit picture for a Class 10a shed, and what footings actually cost for everything from a backyard garden shed to a six-bay American barn. This guide is written for Melbourne metro, Geelong, Ballarat, Bendigo, the Mornington Peninsula and Gippsland.
+
+
+## Why Shed Footings Are a Wind Problem, Not a Weight Problem
+
+A house pushes down. A shed mostly tries to fly away. A steel kit shed is light — a 7 × 9 m farm shed frame might weigh only a couple of tonnes — but it has a large, sail-like roof. When wind hits it, the roof generates lift the same way an aircraft wing does, and that uplift is transferred down through the columns and into the footings as a tension load trying to pull each column base straight up out of the ground.
+
+That changes everything about the footing. For most small structures you size a footing to carry weight pressing down. For a shed you size it to resist being pulled up, while also handling lateral sway and the modest downward load. The numbers, in rough Victorian terms:
+
+- A typical suburban shed in wind region N2 generates uplift of around 5-15 kN per column.
+- A larger or more exposed shed in N3 terrain (coastal Mornington, Surf Coast, exposed ridgelines) can push that to 15-30 kN per column.
+- Open-sided structures — carports, hay sheds, machinery bays — are far worse, because wind gets inside and lifts the roof from beneath.
+A shed that is simply bolted to four pavers, or stood on un-tied stumps, is the classic Victorian storm casualty: the frame stays intact and the whole building peels off its base and lands two paddocks over. The footing and its holding-down connection are what keep that from happening. For the wider picture on how Australian footing standards handle these load cases, see our overview of Victorian footing regulations.
+
+
+## Let the Kit Engineering Drive the Footing
+
+Almost every steel shed in Victoria is a kit — Fair Dinkum, Ranbuild, Stratco, ABC Sheds, Spanbilt and similar. The single most useful thing to know is that the kit comes with site-specific engineering, and that engineering tells you the footing it needs. The manufacturer's certificate nominates:
+
+- The wind region and terrain category the shed is rated for (you must confirm this matches your actual site).
+- The reaction at each column — the download, the uplift, and the horizontal shear.
+- A minimum footing size for a stated soil class, usually given as a concrete pad of a certain diameter and depth, or as a slab-edge detail.
+- The holding-down bolt pattern and size at each base plate.
+Two things trip people up. First, the "standard" footing schedule in the kit assumes a benign soil class — often Class A or M. If your block is Class H reactive clay or Class P fill, the standard pad is not enough and you need a site-specific footing designed by an engineer. Second, the kit's wind rating must match your site; a shed quoted for N2 dropped onto an exposed N3 coastal block is under-designed from day one. Get the soil class and the real wind region confirmed before anyone pours or drives anything.
+
+
+## Footing Options for a Shed or Garage
+
+Footing | Uplift resistance | Best for | Trade-off | Pavers / un-tied stumps (informal) | None | Nothing the wind can reach | Won't pass a surveyor; first real storm lifts the building | Thickened-edge concrete slab | High (mass + cast-in bolts) | Garages, workshops and any shed wanting a finished floor | Most expensive; needs flat pad, formwork, cure; can crack on reactive clay | Bored concrete pad / pier per column | Moderate-high | Flat blocks, no-slab farm sheds on stable soil | Spoil disposal, concrete supply, 7-day cure; can heave on Class H clay | Driven steel stump (RapidStump) | High in tension | Garden sheds and garages on Class M or stiffer soil with bearing near surface | Bearing layer needed within drive depth | Helical screw pile (SurePile) | Very high; helix carries tension and download | Most sheds; reactive clay, fill, sloping, exposed or remote rural sites | Slightly higher cost per pile, offset by speed and zero spoil
+The headline pattern: a slab still makes sense when you genuinely want a finished concrete floor (a garage, a home workshop). But the moment the floor can be gravel or compacted rock — farm sheds, machinery sheds, hay sheds, American barns, carport-style structures — one engineered footing per column is cheaper, and a screw pile is the fastest version of that because the column bolts straight to the pile head with no cure.
+
+
+## You Don't Always Need a Slab
+
+A common misconception is that a shed needs a slab to be legal. It does not. A shed needs an engineered footing under each column to be structurally compliant; the floor is a separate decision. Plenty of Victorian sheds are built on pad footings or screw piles with a compacted crushed-rock floor, and a slab is poured later (or never). Splitting the two has real advantages:
+
+- Lower up-front cost. You pay for footings now and defer the slab, which is often the single biggest line item.
+- Build immediately. Screw-pile footings are ready to bolt to the day they go in — no waiting on a concrete cure before the frame crew starts.
+- Raised floors are easy. On a sloping or flood-prone block, footings can hold a bearer-and-joist timber floor at a set level rather than fighting the ground with fill.
+- Less reactive-clay risk. A slab on Class H clay rides the seasonal movement and cracks; piles taken below the active zone don't.
+
+## The Victorian Permit Picture for Sheds
+
+A non-habitable shed in Victoria is a Class 10a building under the National Construction Code. Whether you need a permit comes down mostly to size and siting:
+
+- A shed over 10 sqm in floor area generally needs a building permit, and the footing design is part of it.
+- A shed under 10 sqm, under 3 m high (or under 2.4 m if within 1 m of a boundary), and not built closer to the street than the house, may be exempt from a building permit under Schedule 3 of the Building Regulations 2018 — but it still has to meet siting and setback rules.
+- A planning permit can be required regardless of size in rural and Green Wedge zones, or on lots with a Bushfire Management Overlay (BMO), Heritage Overlay (HO), Significant Landscape Overlay (SLO) or Environmental Significance Overlay (ESO).
+- If the shed is to be lived in, slept in, or run as a habitable studio, it stops being a Class 10a shed and becomes a Class 1a dwelling with a far more involved approval chain.
+Shed profile | Building permit? | Planning permit? | Engineered footing? | Garden shed < 10 sqm, low, compliant siting | Often exempt | Depends on zone/overlay | Recommended for wind tie-down | Single / double garage | Yes | Sometimes (front setback, overlays) | Yes | Farm / machinery shed, rural zone | Yes | Usually | Yes | American barn / large workshop | Yes | Usually | Yes | Shed on a BMO / BAL-rated site | Yes | Yes | Yes (with BAL-rated detail)
+The cheap, sound move is to do the footing engineering up front. A shed that gets red-tagged after the fact for an unpermitted, under-designed footing is far more expensive to fix than getting the pad or pile schedule signed off before the slab or frame goes in.
+
+
+## Sloping and Reactive-Clay Blocks: Where Piles Earn Their Keep
+
+A huge share of Victorian sheds go onto blocks that are anything but flat and benign — a hobby-farm corner in the Macedon Ranges, a sloping Gippsland paddock, a reactive-clay backyard in Melbourne's outer growth suburbs. This is exactly where concrete-free screw piles pull ahead.
+
+On a slope, each pile is wound to engineer-specified torque or refusal and the bearing head is set to a different cut-off height, so every column base finishes on a single level plane. A 500-800 mm fall across a shed footprint — which would otherwise force cut-and-fill, a retaining edge, or a tall stepped slab — is simply absorbed by the cut-offs, and the frame goes up dead level on day one. A bored-pier or slab approach on the same slope means over-height formwork, spoil to cart up or down the fall, and a concrete truck that often can't reach the back of the pad.
+
+On Class H reactive clay, the failure mode is differential movement: the clay swells in winter and shrinks in summer, the slab edge or shallow pad rides that movement, and the shed frame racks until the roller-door binds and the sheets pop their screws. Piles taken below the seasonally active zone anchor in stable soil and stop it. We cover the sloping-block problem in more depth in our footings for sloping blocks guide.
+
+
+## Holding-Down: The Connection Matters as Much as the Footing
+
+A perfect footing with a weak connection still fails in a storm. The link between the column base plate and the footing is engineered as part of the load path, and it has to carry the full uplift in tension:
+
+- Slab and pad footings resist uplift through their mass plus cast-in holding-down bolts or chemically anchored studs. The bolts must be the size and embedment the engineer specifies — not whatever was in the bottom of the ute.
+- Screw piles resist uplift through helix bearing in tension, and the column bolts directly to the pile head with an engineered bracket. There's no concrete to crack around the bolt and no waiting for a pour to cure before the connection is live.
+- Bracing matters too. Roof and wall bracing carries the horizontal wind load back to the footings; if the kit's bracing is value-engineered out, the footings can't save the building.
+
+## Choosing the Right BMSA System for Your Shed
+
+- SurePile is the default for larger and rural sheds. The helix carries both the download and the wind uplift on Class M, H1 and H2 reactive clay, fill, and sloping or remote sites, and the variable cut-off levels every column base regardless of ground fall — ideal for farm sheds, machinery sheds and American barns.
+- RapidStump suits garden sheds and single or double garages on stiff Class M or better soil where bearing is reached near the surface. Common on Melbourne suburban infill blocks where a shed or garage is added behind an existing house.
+- StumpRite with its adjustable height suits sheds with a raised timber bearer floor, or sheds tied into an existing relevelled structure where every base needs to land on a single datum.
+For a side-by-side comparison of all three see our RapidStump vs StumpRite vs SurePile breakdown, and for the full screw-pile primer see our screw pile footings Melbourne guide.
+
+
+## Soil & Site Considerations
+
+- Class A / S sites. Sand and rock, common on parts of the Surf Coast and the granite country. Standard kit pad footings often suffice; piles still win on speed where no slab is wanted.
+- Class M reactive clay. The default across Melbourne's middle and outer suburbs and many regional towns. Driven stumps work for garden sheds and garages; screw piles are the safer call for larger sheds at full uplift.
+- Class H1/H2 reactive clay. Widespread across the western basalt suburbs, the outer growth corridors and the Bellarine. Shallow pads heave seasonally and rack the frame; piles to 2.5-3.5 m bypass the active zone.
+- Class P (problem) sites. Old farm fill, soft soils, the Westernport peat fringe. The footing must reach a confirmed bearing layer, which a screw pile does with live torque measurement at install.
+- Sloping rural blocks. Piles are the cheapest correct answer by a wide margin — see the section above.
+- Remote / off-grid access. Pile equipment mounts on a mini-excavator or skid-steer and reaches through a farm gate; a concrete truck and pump often can't, and ready-mix to remote rural sites carries a steep long-haul premium.
+
+## Practical Tips for Shed Footings
+
+- Confirm the wind region against the real site. A kit quoted for N2 on an exposed coastal or ridgeline block is under-designed. Check the rating before ordering, not after the frame is up.
+- Get the column reactions, not just the footprint. The engineer sizes footings off the download, uplift and shear at each column — ask the kit supplier for the reaction schedule.
+- Decide slab-or-no-slab early. It changes the footing type, the floor budget and the build sequence. A gravel floor with pile footings is a legitimate, cheaper finish for a working shed.
+- Match the holding-down bolts to the design. Bolt size, grade and embedment are specified for the uplift — substituting them is the most common quiet failure point.
+- Pothole services first. Stormwater, gas, rural water mains and septic lines love to cross the back yard or paddock corner where a shed lands. A cheap potholing run beats a service strike.
+- Mind the setbacks. Boundary, easement and street-frontage setbacks all apply to sheds; confirm them before setting out footings.
+- Document everything for the permit. The footing engineering, the pile torque records, and the holding-down detail all belong in the building permit pack and the final sign-off.
+
+## What Do Shed Footings Cost in Victoria?
+
+Indicative ranges from recent jobs across Melbourne metro and regional Victoria:
+
+Shed scenario | Concrete-free pile quote | Equivalent pad / slab-edge quote | 6 × 3 m garden shed, Class M flat lawn, suburban Melbourne | $1,800-$2,600 (RapidStump × 4-6 + brackets) | $2,200-$3,200 (pads + concrete + spoil) | Double garage, Class M, flat block, outer suburb | $3,200-$4,200 (SurePile × 6-8 + brackets) | $3,000-$4,500 (thickened-edge slab) | 7 × 9 m farm shed, Class H1, gravel floor, Bacchus Marsh | $3,800-$5,500 (SurePile × 8, no slab) | $5,500-$8,000 (deep pads + cure + access) | Machinery shed, 600 mm fall, Macedon Ranges hillside | $5,500-$8,000 (SurePile × 8-10, variable cut-off) | $9,000-$14,000 (stepped pads + cart-up spoil) | Six-bay American barn, N3 exposed, remote Gippsland | $8,000-$12,000 (SurePile × 10-14 + tie-down) | $12,000-$18,000 (deep pads + remote concrete supply)
+Indicative ranges only. Actual quote depends on access, soil report, slope, wind region, shed size and bearing depth. All figures ex-GST as at June 2026.
+
+The pattern to watch: on a flat suburban block where you want a finished concrete floor anyway, a slab and a pile footing land close together. But the further you get from flat-and-easy — reactive clay, a slope, a remote rural site, or a working shed that doesn't need a slab — the more decisively concrete-free piles win, routinely 30-50% cheaper installed and ready to build on the same day.
+
+
+## Frequently Asked Questions
+
+
+### Do you need a building permit for a shed in Victoria?
+
+Usually yes. A shed with a floor area over 10 sqm generally requires a building permit, and the footing design forms part of it. A shed under 10 sqm and under 3 m high (or under 2.4 m within 1 m of a boundary) may be exempt from a building permit under Schedule 3 of the Building Regulations 2018, but it must still meet siting and setback rules. A planning permit can also be required in rural zones or on lots with a Bushfire Management Overlay, Heritage Overlay or other planning overlay, regardless of shed size.
+
+
+### What footings does a steel shed need?
+
+A steel kit shed is a portal frame that carries its load through the base plate at each column, not evenly across the floor. The footing must resist three things at each column: downward dead and live load, lateral wind load, and wind uplift trying to pull the column out of the ground. The standard options are an edge-thickened concrete slab with the columns cast in, individual concrete pad footings under each column, or a concrete-free screw pile under each column. The kit manufacturer's engineering nominates the footing size for your wind region and soil class.
+
+
+### Can you build a shed without a concrete slab?
+
+Yes. A shed only needs an engineered footing under each column to be structurally sound and compliant; the floor can be compacted gravel, crushed rock or a slab poured later. Farm sheds, machinery sheds, American barns and hay sheds are routinely built on pad footings or screw piles with no slab. Screw piles are the fastest no-slab option because each column footing installs and is ready to bolt to in the same visit, with no concrete cure.
+
+
+### What do shed footings cost in Victoria?
+
+Indicative supplied-and-installed footing pricing in 2026: a small single garage or 6 × 3 m garden shed on four to six screw piles runs $1,800-$3,200, a double garage or 7 × 9 m farm shed on six to eight piles $3,200-$5,500, and a large machinery shed or American barn on ten or more piles $6,000-$12,000. A bored concrete pad or slab-edge alternative is often comparable on a flat suburban block but climbs quickly on reactive clay, sloping ground or remote rural sites where concrete supply and access add cost.
+
+
+### Can a shed be built on a sloping or reactive clay block?
+
+Yes, and that is where concrete-free screw piles save the most. Each pile is installed to a different cut-off height so every column base finishes on one level plane regardless of ground fall, removing the need for cut-and-fill or a stepped slab. On Class H reactive clay the piles bypass the seasonally active surface zone and anchor in stable soil, which stops the differential movement that cracks slabs and racks shed frames.
+
+
+### How are shed footings designed for wind uplift?
+
+A shed has a large light roof and is the most uplift-sensitive small structure most owners ever build. The engineer takes the wind region (N1 to N3, or cyclonic C for parts of Australia), terrain category and shed dimensions, then calculates the uplift at each column. The footing and its holding-down connection must resist that uplift, not just bear the weight. Concrete pads resist uplift through their mass plus cast-in bolts; screw piles resist it through helix bearing in tension, with the column bolted directly to the pile head.
+
+
+### Are screw pile footings compliant for a shed?
+
+Yes. Engineered helical screw piles such as SurePile are designed and certified to AS 2870 (residential slabs and footings) and AS 1170 (structural design actions), with installation torque or refusal recorded against the engineer's design. The footing layout and holding-down detail are signed off by the project engineer and form part of the building permit documentation. The building surveyor signs off against that engineering, not against the footing brand.
+
+
+### How many footings does a shed need?
+
+One footing under each portal-frame column at minimum. A small garden shed might have four; a 7 × 9 m farm shed typically has six to eight; a large machinery shed or multi-bay American barn can need ten to fourteen or more once the bay spacing and any mezzanine or roller-door openings are accounted for. The kit engineering specifies the exact column grid and therefore the footing count.
+
+
+## The Bottom Line
+
+A Victorian shed is mostly a wind problem, not a weight problem. Confirm the kit's wind region against your real site, get the soil class and the column reactions in writing, then put one engineered footing under each column with a holding-down connection sized for the uplift. A slab is worth it when you want a finished floor — a garage or workshop — but for farm sheds, machinery sheds and any working shed, concrete-free screw piles under each column are cheaper, level every base regardless of slope, and let the frame crew start the same day. Skip the pavers-and-hope approach; the first real Victorian storm is what it's designed to fail.
+
+---
+
+# Blog: Carport Footings in Melbourne
+
+Source: https://easyfootings.com.au/blog/carport-footings-melbourne.html
+
+Carport Footings in Melbourne: Depth, Permits & Costs
+
+19 July 2026
+Short answer: a carport needs one engineered footing under each post, and the load that governs the design is wind uplift — not the weight of the roof. Because a carport is open on at least two sides, wind gets underneath the roof and lifts it harder than it lifts an enclosed shed, while the structure itself is too light to hold itself down. The standard footing options are a bored concrete pier with a cast-in post stirrup, bolting to an existing slab where the engineering allows it, or a concrete-free driven steel footing or screw pile that is ready to build on the same day.
+
+The longer answer covers how deep carport footings actually need to be, the difference between attached and freestanding carports, what to do when the carport has to land beside a driveway or on an existing slab, the Victorian permit picture, and what carport footings cost across Melbourne in 2026. If you are building a roofed outdoor structure that is enclosed, read our shed footings guide instead; for an unroofed or louvred structure, see the pergola footings guide.
+
+
+## Why Carports Cop the Worst Wind Uplift
+
+Of all the light structures in a Melbourne backyard, the carport has the least going for it in a storm. An enclosed shed at least presents walls that keep wind out from under the roof most of the time. A carport invites the wind straight in: the airflow accelerates under the roof sheet, pressure builds on the underside while suction develops on top, and the two effects add together. The result is that an open-sided roof generates more net uplift per square metre than an enclosed building of the same footprint — and the carport frame weighs next to nothing, so there is almost no dead load to offset it.
+
+In practical Melbourne terms, a typical suburban double carport in wind region N2 can see uplift in the range of 5-12 kN per post, and an exposed site — coastal Mornington, the Bellarine, open new-estate blocks in the growth corridors before the neighbourhood fills in — pushes that higher. Every one of those kilonewtons has to be resisted in tension, by a footing that grips the ground, not just sits on it. This is why the classic shortcut of standing carport posts on pavers, or in shallow hand-dug blobs of concrete, fails: those footings resist weight, and weight was never the problem. For the broader picture on how these load cases are regulated, see our guide to Victorian footing regulations.
+
+
+## How Deep Do Carport Footings Need to Be?
+
+The honest answer: there is no single legal depth. The footing is sized by the engineering for your specific carport, soil class and wind region. But there are reliable Melbourne rules of thumb:
+
+- Bored concrete pier: typically 450 mm diameter and 900-1,200 mm deep on stable Class A or M soil, with the post stirrup cast in. On Class H reactive clay the pier must go deeper to get below the seasonally active zone, and 1,500 mm+ is common.
+- Driven steel footing (RapidStump): driven to refusal against a bearing layer, typically within the top 1-1.5 m on stiff Melbourne clays. Uplift capacity comes from the soil gripping the driven shaft.
+- Helical screw pile (SurePile): typically installed 1.5-3 m deep, wound in until the installation torque confirms the engineer's required capacity. The helix resists uplift directly in tension.
+The key mental shift: depth is a means, not the requirement. What the building surveyor signs off on is a footing that resists the calculated uplift, shear and download at each post. A screw pile proves that capacity with a live torque reading at installation; a concrete pier proves it by matching the engineer's specified dimensions in the specified soil. If your soil turns out softer than assumed — old fill, a buried garden bed, a plumbing trench — the pier drawing is no longer valid, while a screw pile simply winds deeper until the numbers are met.
+
+
+## Attached vs Freestanding Carports
+
+The two carport types load their footings differently, and it changes the design:
+
+- Attached (lean-to) carports fix one side to the house structure, so only the outer edge needs posts — usually two or three. The house connection must be into structure (a beam bolted to studs or brickwork with engineered fixings), and the outer posts carry roughly half the roof's uplift each, which concentrates the load on fewer footings. Fewer footings, but each one works harder.
+- Freestanding carports stand on their own posts — four for a single, six for a double, eight or more for long or triple bays. The load is shared across more footings, but there is no house to stiffen the structure, so the posts and footings also resist all of the lateral (racking) load. Bracing or moment-rated post connections become part of the footing conversation.
+Attached carports also raise a subtle issue on reactive clay: the house sits on deep, stable footings while shallow carport piers ride the seasonal clay movement, so the carport roof line visibly rises and falls against the house through the year, stressing the flashing and the connection. Taking the carport footings below the active clay zone — exactly what a screw pile does — keeps the two structures moving together.
+
+
+## Footing Options for a Carport
+
+Footing | Uplift resistance | Best for | Trade-off | Pavers / shallow hand-dug pads (informal) | None | Nothing that holds a roof | Fails the surveyor and the first big front that comes through | Bored concrete pier + cast-in stirrup | Moderate-high (mass + embedment) | Open access, stable Class A/M soil, no time pressure | Spoil, concrete truck on the driveway, curing wait; heaves on Class H clay | Bolt-down base plate to existing slab | Depends entirely on the slab | Sound, thick slabs the engineer can verify | Most driveways are unreinforced 100 mm paths — often not enough for uplift | Driven steel footing (RapidStump) | High in tension | Suburban carports on stiff Class M or better soil | Needs a bearing layer within drive depth | Helical screw pile (SurePile) | Very high; helix carries tension directly | Reactive clay, fill, tight access, attached carports, exposed sites | Slightly higher cost per footing, offset by speed and zero spoil
+
+## Carports Beside Driveways and Existing Slabs
+
+Almost every Melbourne carport lands on or beside existing concrete — that is the whole point of a carport. That constraint is usually what decides the footing:
+
+- Bolting to the existing driveway is tempting and occasionally legitimate, but only when the engineer can verify the slab: most residential driveways are 100 mm of unreinforced or lightly-reinforced concrete on uncontrolled fill, which cannot anchor 5-12 kN of uplift per post. If the slab cannot be verified, it cannot be the footing.
+- Core-drilling through the slab and founding a pier or pile beneath it keeps the post where you want it. A screw pile through a 150 mm core hole is a neat, spoil-free version of this; a bored pier through the same hole means jack-hammering a much larger opening and patching around it.
+- Footings in the strip beside the concrete — the garden bed or the lawn edge — avoid cutting the slab entirely. This is where concrete-free systems shine: the installation gear fits through a standard side gate, there is no spoil pile on the driveway and no concrete truck blocking the street, and the posts are ready to frame the same day.
+Down a narrow side-of-house run — the classic single carport between the house and the fence — excavating pier holes and barrowing concrete is slow, messy work. A driven or screwed steel footing turns the same job into a clean morning's install.
+
+
+## The Victorian Permit Picture for Carports
+
+A carport is a Class 10a building under the National Construction Code, the same class as a shed or garage. The practical rules for Melbourne:
+
+- A carport over 10 sqm generally needs a building permit — and since a single car space is around 15 sqm, virtually every real carport does. The footing design is part of the permit documentation.
+- Siting rules matter more than for sheds, because carports live at the front or side of the house: street setbacks, corner-block visibility splays, and boundary construction rules under Part 5 of the Building Regulations 2018 all come into play. Building to a side boundary is common and usually workable, but it must be designed for it.
+- A planning permit can also be required in a Heritage Overlay, a Neighbourhood Character Overlay, or where the carport sits forward of the house facade — common in Melbourne's inner and middle-ring heritage suburbs.
+- Report-and-consent from council may be needed where the carport encroaches on street setbacks — a routine but time-consuming step worth starting early.
+None of this should put you off; a carport is one of the simplest permits a Victorian homeowner will ever pull. But the footing engineering belongs in the application from the start — retrofitting compliance after a surveyor queries four unmarked blobs of concrete is the expensive path.
+
+
+## Choosing the Right BMSA System for Your Carport
+
+- RapidStump is the go-to for suburban carports on stiff Class M or better soil: an all-in-one driven steel footing and post base that installs in minutes per post, with the frame able to go up immediately. Ideal for the side-of-house single and the standard backyard double.
+- SurePile steps in for reactive Class H clay, filled ground, exposed high-wind sites and attached carports that must move with the house. The helix carries the uplift in tension and the torque reading proves the capacity at install.
+- StumpRite adjustable stump tops suit carports being matched to an existing structure or veranda line, where every post has to land on a precise datum — the 120 mm of screw adjustment absorbs the tolerance.
+For a side-by-side comparison see RapidStump vs StumpRite vs SurePile, and for the full screw-pile primer see the screw pile footings Melbourne guide.
+
+
+## What Do Carport Footings Cost in Melbourne?
+
+Indicative supplied-and-installed ranges from recent jobs across Melbourne and surrounds:
+
+Carport scenario | Concrete-free footing quote | Equivalent bored pier quote | Attached single, 2-3 posts, side of house, Class M | $900-$1,800 (RapidStump or SurePile) | $1,200-$2,200 (tight-access dig + concrete) | Freestanding single, 4 posts, flat suburban block | $1,400-$2,600 | $1,600-$2,800 | Freestanding double, 6 posts, Class M | $2,000-$3,800 | $2,400-$4,200 | Double on Class H reactive clay, western suburbs | $2,600-$4,500 (SurePile below active zone) | $3,500-$6,000 (deep piers + spoil) | Exposed or coastal site, higher wind rating | $3,000-$5,500 (SurePile + engineered tie-down) | $4,000-$7,000 (larger piers, more concrete)
+Indicative ranges only. Actual quote depends on access, soil report, wind region, post count and bearing depth. All figures ex-GST as at July 2026.
+
+On a flat, open block the two approaches land close together on price — the concrete-free system wins on time, mess and the ability to frame the same day. On reactive clay, tight access or exposed sites, the gap opens decisively in favour of piles, typically 25-40% cheaper installed once excavation, spoil and deep concrete are priced honestly.
+
+
+## Frequently Asked Questions
+
+
+### How deep do carport footings need to be?
+
+There is no single legal depth; the footing is sized by an engineer for your soil class and wind region. As a guide, a bored concrete pier for a Melbourne carport post is typically 450 mm in diameter and 900-1,200 mm deep on stable Class A or M soil, and deeper on Class H reactive clay. A concrete-free screw pile is typically installed 1.5-3 m deep, past the seasonally active clay zone, with the depth confirmed by installation torque rather than a tape measure. What matters is not the depth itself but that the footing resists the wind uplift calculated for the carport.
+
+
+### Do you need a permit for a carport in Victoria?
+
+Usually yes. A carport is a Class 10a building, and one with a floor area over 10 sqm generally needs a building permit — which almost every usable carport exceeds. The footing design forms part of the permit documentation. Siting rules also apply, especially for carports built to a side boundary or forward of the house, and a planning permit can be required in heritage areas or under other planning overlays. Check with your council or private building surveyor before building.
+
+
+### Can you build a carport without concrete?
+
+Yes. Each carport post needs an engineered footing, but that footing does not have to be concrete. Driven steel footings such as RapidStump and helical screw piles such as SurePile are engineer-certified to Australian Standards, resist wind uplift in tension through the soil, and are ready to bolt to the moment they are installed. There is no excavation spoil, no concrete truck on the driveway and no curing time, so the carport frame can go up the same day.
+
+
+### What do carport footings cost in Melbourne?
+
+Indicative supplied-and-installed pricing in 2026: an attached single carport on two or three posts runs about $900-$1,800 in concrete-free footings, a freestanding single on four posts $1,400-$2,600, and a freestanding double on six posts $2,000-$3,800. Bored concrete piers are often similar on paper but add excavation spoil, concrete supply and a curing wait, and the gap widens quickly on reactive clay or tight-access blocks.
+
+
+### Can I put carport footings next to an existing driveway or slab?
+
+Yes, and it is the most common Melbourne carport scenario. The options are core-drilling through the existing concrete and founding a footing below it, bolting a post base plate directly to the slab where the engineer confirms the slab can take the uplift, or installing a screw pile or driven steel footing in the strip beside the driveway. Screw piles suit tight side-of-house access because the gear fits through a standard gate and produces no spoil.
+
+
+### How many footings does a carport need?
+
+One footing per post. An attached (lean-to) single carport typically has two or three posts, since the house wall carries one side. A freestanding single usually has four posts, a freestanding double six, and a long double or triple carport can need eight or more. The engineering for your span, roof type and wind region sets the exact post grid.
+
+
+### Why do carport footings need to resist wind uplift?
+
+A carport is an open structure: wind flows underneath the roof as well as over it, so the roof generates more uplift than an enclosed shed of the same size — while the light frame provides almost no dead weight to hold it down. The governing design load is therefore tension, pulling each post up out of the ground, and the footing must be engineered to resist it. Footings that only bear weight, like pavers or shallow pads, are the reason carports are common storm casualties.
+
+
+## The Bottom Line
+
+A Melbourne carport is a wind-uplift structure wearing a very light roof. Put one engineered footing under each post, sized for the uplift at your site — not for the weight — and treat the existing driveway with suspicion rather than as a free footing. On stable soil with open access, a bored pier and a concrete-free steel footing cost about the same, and the steel option hands you back the driveway and the same-day build. On reactive clay, tight side access or an exposed block, concrete-free screw piles are the cheaper and better-engineered answer outright. Whatever you choose, get the footing design into the permit from day one.
+
+---
+
 # Privacy Policy
 
 Source: https://easyfootings.com.au/privacy-policy.html
