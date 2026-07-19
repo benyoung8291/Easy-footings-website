@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://easyfootings.com.au/</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/" />
@@ -15,7 +15,7 @@
   <!-- Blog index -->
   <url>
     <loc>https://easyfootings.com.au/blog/</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/" />
@@ -23,113 +23,120 @@
 
   <!-- Blog articles -->
   <url>
+    <loc>https://easyfootings.com.au/blog/carport-footings-melbourne.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/carport-footings-melbourne.html" />
+  </url>
+  <url>
     <loc>https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/concrete-free-footings-vs-traditional-concrete.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/screw-pile-footings-guide-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/screw-pile-footings-guide-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/deck-footing-installation-guide-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/deck-footing-installation-guide-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/house-restumping-melbourne-guide.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/house-restumping-melbourne-guide.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/building-footing-regulations-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/building-footing-regulations-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/rapidstump-vs-stumprite-vs-surepile.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/rapidstump-vs-stumprite-vs-surepile.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/footings-near-trees-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/footings-near-trees-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/footings-sloping-blocks-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/footings-sloping-blocks-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/granny-flat-footings-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/granny-flat-footings-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/backyard-office-pod-footings-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/backyard-office-pod-footings-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/pergola-footings-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/pergola-footings-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/surefoot-vs-easy-footings.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/surefoot-vs-easy-footings.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/concrete-footings-australia.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/concrete-footings-australia.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/shipping-container-home-footings-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/shipping-container-home-footings-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/tiny-house-footings-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/tiny-house-footings-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/shed-footings-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/shed-footings-victoria.html" />
@@ -138,21 +145,21 @@
   <!-- Product pages -->
   <url>
     <loc>https://easyfootings.com.au/products/rapidstump.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/rapidstump.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/surepile.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/surepile.html" />
@@ -161,140 +168,140 @@
   <!-- Individual product pages -->
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-screw-on-adjustable-stump-top.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-screw-on-adjustable-stump-top.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-weld-on-adjustable-stump-top.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-weld-on-adjustable-stump-top.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-retro-fit-adjustable-stump-top.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-retro-fit-adjustable-stump-top.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-straight-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-straight-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-vertical-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-vertical-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-corner-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-corner-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-tee-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-tee-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-end-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-end-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-straight-large-top-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-straight-large-top-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-2-hole-base-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-2-hole-base-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-4-hole-base-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-4-hole-base-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-fin-plate-base.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-fin-plate-base.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-guy-wire-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-guy-wire-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-tek-screw-base-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-tek-screw-base-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-cast-in-base-plate.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-cast-in-base-plate.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-cross-bracing.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-cross-bracing.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite-stair-stringers.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite-stair-stringers.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/surepile-tie-down-dhdg.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/surepile-tie-down-dhdg.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/surepile-driver.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/surepile-driver.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/surepile-driver-guide.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/surepile-driver-guide.html" />
@@ -303,42 +310,42 @@
   <!-- Service area pages -->
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-melbourne.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-melbourne.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-geelong.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-geelong.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-ballarat.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-ballarat.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-bendigo.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-bendigo.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-mornington-peninsula.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-mornington-peninsula.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-free-footings-gippsland.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-free-footings-gippsland.html" />
@@ -347,14 +354,14 @@
   <!-- Keyword service pages -->
   <url>
     <loc>https://easyfootings.com.au/services/adjustable-stumps-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/adjustable-stumps-victoria.html" />
   </url>
   <url>
     <loc>https://easyfootings.com.au/services/concrete-footings-victoria.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/concrete-footings-victoria.html" />
@@ -369,7 +376,7 @@
   </url>
   <url>
     <loc>https://easyfootings.com.au/terms-of-service.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
