@@ -2229,13 +2229,28 @@ Source: https://easyfootings.com.au/blog/house-restumping-melbourne-guide.html
 Guide
 
 #
-House Restumping Melbourne: When to Restump & Your Best Options
+Restumping Cost in Melbourne: 2026 Prices Per Stump & Complete Guide
 
 By Easy Footings
-1 February 2026
-8 min read
+Updated 26 July 2026
+9 min read
 
-Melbourne is home to thousands of older weatherboard and brick-veneer houses built on timber or concrete stumps. Over decades, these stumps deteriorate. Timber rots, concrete cracks, and the reactive clay soils across much of Melbourne accelerate the damage. If your home is showing signs of foundation movement, restumping may be the solution. Here's everything you need to know.
+Restumping costs between $500 and $1,000+ per stump in Melbourne in 2026. A full restump of a typical weatherboard home (40-60 stumps) runs $20,000-$50,000, and a partial restump of 10-20 stumps costs $5,000-$15,000. This guide breaks down exactly what drives the price, the warning signs to look for, permits, timeframes, and how concrete-free restumping compares.
+
+## How Much Does Restumping Cost in Melbourne?
+
+2026 price ranges Melbourne homeowners can expect:
+
+- Per stump (supply & install): $500-$1,000+
+- Partial restump (10-20 stumps, one section of the house): $5,000-$15,000
+- Full restump (40-60 stumps, average weatherboard): $20,000-$50,000
+- Large home / difficult access (80+ stumps, low clearance, reactive soil): $50,000+
+
+Factors that affect cost include the number of stumps (a typical house has 40-80), accessibility under the house, soil conditions and classification, whether plumbing or services need to be temporarily moved, engineering and permit costs, and the footing system used. Concrete-free restumping with RapidStump often delivers a lower total cost because of reduced labour time, no concrete-related expenses, and no return visits after curing.
+
+## Restumping Costs in Regional Victoria
+
+Per-stump rates in Geelong, Ballarat, Bendigo and Gippsland are broadly in line with Melbourne ($500-$1,000+ per stump). Travel and mobilisation can add to a quote from a metro-based contractor, while concrete deliveries to out-of-town or rural sites are often expensive or hard to schedule. Concrete-free driven steel stumps avoid the concrete logistics entirely, which is why they frequently work out cheaper outside Melbourne. Easy Footings services all of these regions.
 
 ## Signs Your Home Needs Restumping
 
@@ -2309,30 +2324,6 @@ RapidStump from BMSA Footing Solutions is purpose-built for restumping. Each ste
 
 - Lowering & securing. The house is lowered onto the new stumps and bearers are secured to the stump heads.
 
-## How Much Does Restumping Cost in Melbourne?
-
-Restumping costs vary depending on several factors, but here are general ranges for Melbourne:
-
-- Per stump. Expect to pay between $500 and $1,000+ per stump depending on the system used, access difficulty, and soil conditions.
-
-- Typical home (40-60 stumps). A full restump for an average Melbourne weatherboard might cost between $20,000 and $50,000.
-
-- Partial restump (10-20 stumps). A partial job might range from $5,000 to $15,000.
-
-Factors that affect cost include:
-
-- Number of stumps to replace
-
-- Accessibility under the house (low clearance = harder, more expensive)
-
-- Soil conditions and classification
-
-- Whether plumbing or services need to be temporarily moved
-
-- Engineering requirements
-
-Concrete-free restumping with RapidStump often delivers a lower total cost because of reduced labour time and no concrete-related expenses.
-
 ## Do You Need a Permit for Restumping in Victoria?
 
 In Victoria, restumping is considered structural building work and generally requires a building permit. You'll need to engage a registered building surveyor (either council or private) to issue the permit and inspect the completed work.
@@ -2362,6 +2353,20 @@ When selecting a restumping contractor in Melbourne, look for:
 - References. Ask for recent project references in your area.
 
 - Product knowledge. A good contractor should be able to explain the differences between footing systems and recommend the best option for your home.
+
+## Restumping FAQs
+
+How long does restumping take? Concrete-free restumping with driven steel stumps is typically completed in 1-3 days, with the house lowered the same day. Traditional concrete restumping takes 1-2 weeks or more because concrete must cure for 7-28 days before the house can be lowered.
+
+How many stumps does a house have? A typical Melbourne weatherboard sits on 40 to 80 stumps, arranged on a grid of roughly 1.2-1.8 metres under the bearers. Larger homes can exceed 100.
+
+Is restumping covered by home insurance? Usually not. Stump deterioration from age, rot or gradual soil movement is treated as wear and tear, which most Australian policies exclude. Damage from a sudden insured event (flood, burst pipe undermining footings) may be covered - check your PDS.
+
+Can you live in the house during restumping? With concrete-free restumping, usually yes - the work happens under the house and is finished in days. With traditional concrete restumping you may need to vacate during the curing period.
+
+Should you buy a house that needs restumping? It's not a deal-breaker - restumping is a routine, well-understood job. Get an under-floor inspection and a written quote before making an offer, then use the figure (commonly $20,000-$50,000 for a full restump) in your price negotiation.
+
+What's the difference between restumping and reblocking? Nothing - they're two names for the same job. "Reblocking" is the older Melbourne term; "restumping" is more common today across Victoria.
 
 ## Need restumping in Melbourne?
 
@@ -4400,6 +4405,137 @@ A carport is an open structure: wind flows underneath the roof as well as over i
 ## The Bottom Line
 
 A Melbourne carport is a wind-uplift structure wearing a very light roof. Put one engineered footing under each post, sized for the uplift at your site — not for the weight — and treat the existing driveway with suspicion rather than as a free footing. On stable soil with open access, a bored pier and a concrete-free steel footing cost about the same, and the steel option hands you back the driveway and the same-day build. On reactive clay, tight side access or an exposed block, concrete-free screw piles are the cheaper and better-engineered answer outright. Whatever you choose, get the footing design into the permit from day one.
+
+---
+
+# Blog: Concrete Piers & Pier Footings in Australia
+
+Source: https://easyfootings.com.au/blog/concrete-piers-pier-footings-australia.html
+
+Guide
+
+#
+Concrete Piers & Pier Footings in Australia: Depths, Costs & Types
+
+By Easy Footings
+26 July 2026
+9 min read
+
+A concrete pier is a vertical column of concrete that carries building loads down to stable ground. Piers support houses, decks, extensions, verandahs and even slabs, and they're one of the most common footing types in Australia — especially on the reactive clay soils found across Melbourne and much of Victoria. This guide covers the main types of concrete piers, how deep they need to go, what they cost in 2026, and when a concrete-free alternative such as a screw pile or driven steel footing is the smarter choice.
+
+## What is a Concrete Pier (and a Pier Footing)?
+
+A pier is a discrete vertical support — a column in the ground rather than a continuous strip. Loads from bearers, posts or slab beams concentrate onto each pier, which transfers them down to soil that's strong and stable enough to carry them. A pier footing is the complete assembly: the pier shaft plus whatever spreads the load at its base — a widened "bell", a concrete pad, or the shaft's own bearing area if the soil is strong.
+
+## Types of Concrete Piers
+
+- Bored piers. The most common residential type. A hole (typically 300-600mm diameter) is drilled with an auger, reinforcement is placed, and concrete is poured in situ.
+- Mass concrete piers. Bored piers poured without reinforcement, for lighter loads on stable ground where the design allows.
+- Belled piers. Bored piers with an enlarged base to spread load or resist uplift, common on highly reactive (Class H/E) clay sites.
+- Precast concrete piers. Factory-made columns or blocks placed in an excavated hole or on a prepared pad. Quick, but limited to lighter structures and dependent on design acceptance.
+- Pier and beam. Piers supporting ground beams or bearers, keeping the floor structure clear of reactive topsoil.
+- Brick piers. Traditional masonry piers on concrete pads, still seen under older homes, usually replaced with steel or concrete during restumping.
+
+## How Deep Do Concrete Piers Need to Be?
+
+There is no single standard depth — the answer comes from your site's AS 2870 soil classification and the engineer's design. Typical pier depths: stable sand/rock (Class A/S) 600mm-1m into natural ground; moderately reactive clay (Class M) 1-1.5m; highly reactive clay (Class H1/H2) 1.5-2.5m; extreme/problem sites (Class E/P), fill or trees nearby 2.5m+ (engineer designed). The governing principle: the pier must found below the zone of seasonal moisture change, in natural soil of adequate bearing capacity.
+
+## Concrete Pier Costs in 2026
+
+- Bored pier, 300-450mm diameter x 1-1.5m (drilled, steel, poured): $250-$600 each
+- Bored pier, larger diameter or 2m+ deep: $600-$1,500+ each
+- Drilling rig mobilisation (small jobs): $1,000-$3,000
+- Precast pier blocks (supply only, light structures): $50-$150 each
+- Soil test & engineering design: $600-$2,000
+
+Watch the hidden costs: rig access, spoil removal, concrete truck access or pumping, wet-weather delays, and the return visit after curing. On small jobs (decks, granny flats, pergolas), mobilisation and concrete logistics can cost more than the piers themselves.
+
+## Piers vs Footings vs Stumps
+
+Footing is the umbrella term: anything that transfers building load to the ground. A pier is a discrete vertical column footing. A stump is the post that carries the floor structure above ground level, usually sitting on (or integrated with) a pier or pad footing. Modern systems like RapidStump combine the footing and the stump in a single driven steel unit.
+
+## Standards & Engineering: AS 2870 and AS 3600
+
+For houses and other Class 1 buildings, pier design falls under AS 2870 (Residential Slabs and Footings), with the concrete governed by AS 3600. A soil report classifies the site; a structural engineer sizes the piers (diameter, depth, spacing, reinforcement); the building surveyor may require a pier hole inspection before pouring; concrete is typically N20-N25 grade.
+
+## Concrete-Free Alternatives to Concrete Piers
+
+- SurePile screw piles: helical steel piles wound in to a verified torque — effectively load-tested as installed. Ideal for high loads, reactive clay, sloping blocks.
+- RapidStump driven steel footings: an all-in-one footing and stump driven mechanically in minutes. Build the same day, any weather.
+- StumpRite adjustable steel stumps: adjustable steel piers with up to 120mm of screw height adjustment.
+
+All three are engineer-certified to Australian standards and installed by Easy Footings across Melbourne and Victoria — typically faster and cheaper than bored piers on small-to-medium jobs.
+
+## Concrete Pier FAQs
+
+How deep do concrete piers need to be? At least 600mm into stable natural soil on good sites, and commonly 1-2.5m on reactive clay sites in Victoria; the engineer's design sets the real number.
+
+How much does a concrete pier cost? Roughly $250-$600 per typical residential bored pier in 2026, plus rig mobilisation, engineering and concrete supply; larger or deeper piers run $600-$1,500+.
+
+Can I use precast concrete piers for a house? Generally no — houses need footings designed to AS 2870 and accepted by your building surveyor. Certified screw piles or driven steel footings are the accepted fast alternative for habitable buildings.
+
+Are piers better than a slab? Neither is universally better. Piers (with a stumped floor) suit sloping blocks, reactive soils, flood-prone sites and renovations; slabs suit flat, stable sites.
+
+---
+
+# Blog: AS 2870 Explained — Residential Slabs and Footings
+
+Source: https://easyfootings.com.au/blog/as-2870-residential-slabs-footings-explained.html
+
+Standards
+
+#
+AS 2870 Explained: Soil Classes, Footing Types & Compliant Design
+
+By Easy Footings
+26 July 2026
+8 min read
+
+AS 2870-2011, Residential Slabs and Footings, is the Australian Standard that governs how house footings and slabs are designed and built. If you're building, extending or restumping a home anywhere in Australia, your footings must comply with it — it's referenced by the National Construction Code.
+
+## What is AS 2870?
+
+AS 2870 sets out the design and construction requirements for footing systems supporting houses and other Class 1 and Class 10 buildings — slabs, strip footings, pad footings, stumps and piers. The current edition is AS 2870-2011. Its core idea: Australian soils move, particularly reactive clays that swell when wet and shrink when dry, so footings must be matched to how much the site is expected to move. The standard defines how sites are classified by reactivity, provides standard (deemed-to-comply) footing designs for each class, and sets performance requirements that engineered alternatives must meet.
+
+## AS 2870 Soil Classifications
+
+- Class A: stable sand or rock — little or no movement (0-10mm)
+- Class S: slightly reactive clay — 10-20mm expected surface movement
+- Class M / M-D: moderately reactive clay or silt — 20-40mm
+- Class H1 / H1-D: highly reactive clay — 40-60mm
+- Class H2 / H2-D: highly reactive clay — 60-75mm
+- Class E / E-D: extremely reactive clay — 75mm+
+- Class P: problem site (fill, soft soil, trees, abnormal moisture) — engineer assessment required
+
+The "-D" suffix indicates deep-seated movement, common in dry inland areas. Much of Melbourne's west and north sits on basaltic clay classified M to H2; parts of regional Victoria classify E. Trees near footings can push an otherwise straightforward block into Class P.
+
+## Soil Tests & Building Permits
+
+The classification comes from a geotechnical soil report: boreholes are drilled on site, samples assessed, and a classification issued. For a residential block expect roughly $400-$800 and 1-2 weeks. Footings can't be designed or a building permit issued without it.
+
+## Footing Types Under AS 2870
+
+Slab-on-ground (stiffened raft and waffle slabs), strip footings, pad footings, stumps and piers, and piled footings (bored piers, screw piles or driven piles that carry loads below the reactive zone).
+
+## Standard Designs vs Engineered Designs
+
+AS 2870 offers two compliance paths: deemed-to-comply designs (pre-engineered slab and footing details for Class A to H2 sites) and engineered designs (for Class E and P sites, unusual structures, or alternative footing systems — a structural engineer designs the footings to meet the standard's performance requirements and certifies the design).
+
+## How Steel Footings & Screw Piles Comply with AS 2870
+
+The standard is performance-based: any footing system that an engineer certifies to meet its requirements complies. SurePile screw piles are wound in until a verified installation torque confirms bearing capacity. RapidStump driven steel footings are mechanically driven to refusal below the reactive zone. StumpRite adjustable steel stumps add up to 120mm of screw height adjustment above certified bases. Every Easy Footings installation is backed by engineer certification the building surveyor can accept for permit purposes.
+
+## AS 2870 FAQs
+
+Is AS 2870 mandatory? Effectively yes — the National Construction Code references it, so building surveyors require compliance before issuing a permit.
+
+What is the current version? AS 2870-2011.
+
+What does Class M mean for my build? The most common classification across suburban Melbourne. Standard stiffened slab or strip footing designs generally work; stumped floors typically need footings founding around 1-1.5m — or driven steel / screw pile footings that bypass the movement zone.
+
+My block is Class P — what now? Class P means "engineer required", not "unbuildable". An engineer will design piers, screw piles or driven footings that reach competent material; screw piles are often the cheapest compliant option.
+
+Does restumping have to comply with AS 2870? Yes — replacement stumps and footings are structural work under a building permit and must comply.
 
 ---
 
