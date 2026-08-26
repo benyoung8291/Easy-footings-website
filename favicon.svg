@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Easy Footings">
+  <rect width="32" height="32" rx="2.7" fill="#1B3A2D"/>
+  <path fill="#F5EDDA" d="M5.47 8.53h9.56v2.63H8.53v2.9h5.69v2.66H8.53v2.9h6.63v2.63H5.47z"/>
+  <path fill="#F5EDDA" d="M17.28 8.53h9.47v2.63h-6.34v3.00h5.43v2.56h-5.43v5.56h-3.13z"/>
+  <rect fill="#E8983E" x="5.47" y="24.16" width="21.06" height="1.88"/>
+</svg>
