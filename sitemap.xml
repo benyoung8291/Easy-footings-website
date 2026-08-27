@@ -23,6 +23,13 @@
 
   <!-- Blog articles -->
   <url>
+    <loc>https://easyfootings.com.au/blog/concrete-stumps-melbourne.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/concrete-stumps-melbourne.html" />
+  </url>
+  <url>
     <loc>https://easyfootings.com.au/blog/restumping-building-permit-victoria.html</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,7 +45,7 @@
   </url>
   <url>
     <loc>https://easyfootings.com.au/blog/steel-vs-timber-vs-concrete-stumps-victoria.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/steel-vs-timber-vs-concrete-stumps-victoria.html" />
@@ -194,7 +201,7 @@
   </url>
   <url>
     <loc>https://easyfootings.com.au/products/stumprite.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/products/stumprite.html" />
@@ -396,7 +403,7 @@
   <!-- Keyword service pages -->
   <url>
     <loc>https://easyfootings.com.au/services/adjustable-stumps-victoria.html</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/services/adjustable-stumps-victoria.html" />
