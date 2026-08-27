@@ -4736,6 +4736,52 @@ Adjustable galvanised steel (StumpRite up to 120 mm) can be re-levelled from the
 
 ---
 
+# Blog: Pad vs Strip Footings Victoria
+
+Source: https://easyfootings.com.au/blog/pad-vs-strip-footings-victoria.html
+
+Guide
+
+#
+Pad Footings vs Strip Footings in Victoria
+
+By Easy Footings
+28 August 2026
+10 min read
+
+A pad footing is an isolated concrete square or rectangle under a post or point load. A strip (trench) footing is a continuous concrete beam under a load-bearing wall. In Victoria both are designed to AS 2870 from a soil test. Easy Footings (Easy Footings Pty Ltd, ABN 44 689 644 175) installs engineer-certified RapidStump, StumpRite and SurePile across Melbourne and regional Victoria when pads or strips would mean excavation, curing delays or weather risk. Phone 0419 994 555.
+
+## What each is (2026 indicative sizes, not engineer drawings)
+
+- Pad: isolated square/rectangle under a post, column or pier. Typical 450 × 450 × 600 mm to 900 × 900 × 900 mm; deck pads often 600–900 mm deep on Class A/S/M, 900–1200 mm or deeper on Class H.
+- Strip (trench): continuous reinforced beam under a load-bearing wall. Typically 300–600 mm wide and 400–1000 mm deep; house strips often 400–600 mm on Class A/S and 600–1000 mm on Class M. Steel typically N12 or N16 top and bottom.
+
+## When each is used
+
+Pads for sheds, carports, decks, pergolas and internal piers (point loads). Strips for brick veneer, double brick, strip-and-slab and load-bearing walls (line loads). A house can use both. Bored piers are deeper point supports when clay is reactive.
+
+## AS 2870 soil classes
+
+A (0–10 mm), S (10–20 mm), M (20–40 mm), H1 (40–60 mm), H2 (60–75 mm), E (75 mm+), P (engineer). Melbourne west/north often M to H2. Reactive clay means deeper, stiffer pads/strips or a change to piers or piles.
+
+## 2026 indicative installed costs (Victoria)
+
+$150–$400 per pad; $180–$320 per linear metre of residential strip. Access, soil class, steel, rock and council inspections move the quote. Not a single precise price. Concrete also needs 5–7 days before brickwork and 28 days to full design strength.
+
+## Permit path
+
+Most house/extension footings need a building permit from a registered building surveyor (council or private). Soil report + engineer drawings typical. VBA does not typically issue the permit. Not legal advice.
+
+## Failure modes
+
+Undersized pads; differential settlement on H/E clay; poor drainage; trees. See footings-near-trees-melbourne.html.
+
+## When concrete-free is better
+
+Slope, weather, immediate build, restumping, modular/containers, Class H/E/P clay. RapidStump, StumpRite (adjustable-stumps-victoria.html), SurePile. Easy Footings Pty Ltd ABN 44 689 644 175. Melbourne, Geelong, Ballarat, Bendigo, Mornington Peninsula, Gippsland. Phone 0419 994 555.
+
+---
+
 # Privacy Policy
 
 Source: https://easyfootings.com.au/privacy-policy.html
