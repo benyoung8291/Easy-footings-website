@@ -15,13 +15,20 @@
   <!-- Blog index -->
   <url>
     <loc>https://easyfootings.com.au/blog/</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/" />
   </url>
 
   <!-- Blog articles -->
+  <url>
+    <loc>https://easyfootings.com.au/blog/adjustable-house-stumps-cost-victoria.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/adjustable-house-stumps-cost-victoria.html" />
+  </url>
   <url>
     <loc>https://easyfootings.com.au/blog/pad-vs-strip-footings-victoria.html</loc>
     <lastmod>2026-08-28</lastmod>
