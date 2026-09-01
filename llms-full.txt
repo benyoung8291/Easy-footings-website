@@ -1392,6 +1392,15 @@ Read the full guide →
 New Guide
 
 ###
+Concrete Footing Blocks in Australia: Precast Pads vs Steel
+
+Factory-made precast pads under posts, decks and sheds — not house stumps or brick piers. When they fail on Victorian clay, and the steel alternative.
+
+Read more →
+
+New Guide
+
+###
 Brick Pier Footings in Victoria: Sizes, Cost and the Steel Alternative
 
 Masonry brick piers on a pad under raised Victorian houses — not precast concrete stumps. Sizes, AS 2870 clay, and steel replacement.
@@ -4881,6 +4890,53 @@ Replacing house brick piers is structural work and generally needs a building pe
 $500–$1,000+ per stump installed; $5,000–$15,000 partial; $20,000–$50,000 full restump. Supply-only StumpRite from $10.35 ex GST. Pad $150–$400; strip $180–$320/m if someone else is pouring concrete — not a masonry laying price.
 
 Easy Footings Pty Ltd ABN 44 689 644 175. Melbourne, Geelong, Ballarat, Bendigo, Mornington Peninsula, Gippsland. Phone 0419 994 555. Contact: https://easyfootings.com.au/#contact
+
+---
+
+# Blog: Concrete Footing Blocks Australia
+
+Source: https://easyfootings.com.au/blog/concrete-footing-blocks-australia.html
+
+Guide
+
+#
+Concrete Footing Blocks in Australia: Precast Pads vs Steel
+
+By Easy Footings
+2 September 2026
+8 min read
+
+Concrete footing blocks (also searched as precast pad footings, concrete footer blocks and footing blocks) are factory-made concrete pads or blocks used as isolated footings under posts, decks, sheds and light structures — often sold at hardware stores. They are not brick piers, not precast 100x100 house stumps, and not a poured strip under a wall. Easy Footings Pty Ltd does not manufacture or sell them. We install engineer-certified BMSA steel — StumpRite, RapidStump and SurePile — across Melbourne and regional Victoria when those blocks are the wrong tool: house loads, reactive clay, or wind uplift. Phone 0419 994 555.
+
+## Blocks vs poured pads vs house stumps vs brick piers
+
+- Concrete footing block: factory-made pad or block; the isolated footing. Typical use: garden posts, some sheds and decks, light Class 10 work. No re-level without lifting and resetting. Easy Footings does not manufacture or sell these blocks.
+- Poured pad: in-situ concrete square or rectangle under a post. Same isolation problem on reactive clay if founded in the active zone.
+- Precast house stump: 100x100 reinforced post, hanging or threaded. The column, not the pad.
+- Brick pier: masonry column on a pad or short strip. Original supports under Victorian / Federation houses.
+- Steel adjustable (StumpRite / RapidStump): usual 2026 replacement when a house is sitting on the wrong isolated support. Heads can be re-levelled.
+
+## Typical Australian sizes
+
+No single hardware-store millimetre is a design. Isolated pads already published on the pad-vs-strip page: typically 450 × 450 mm to 900 × 900 mm plan, 600–900 mm deep on Class A/S/M, 900–1200 mm or deeper on Class H. A poured strip under a wall is a continuous beam (typically 300–600 mm wide, 400–1000 mm deep), not a stack of retail blocks. Easy Footings does not quote a hardware-store rate.
+
+## When they are reasonable
+
+Light Class 10 accessory structures on stable Class A/S ground — garden posts, some sheds and decks — still need an engineering and wind-uplift check. Not a house-footing system.
+
+## AS 2870 soil classes
+
+A (0–10 mm), S (10–20 mm), M (20–40 mm), H1 (40–60 mm), H2 (60–75 mm), E (75 mm+), P (engineer). Melbourne west/north often M to H2. Isolated blocks in the active zone heave independently (differential settlement) and cannot be re-levelled.
+
+## Permit path
+
+Structural house work generally needs a building permit from a registered building surveyor. Class 10 accessory structures may have a different path; the surveyor decides. See restumping-building-permit-victoria.html. Not legal advice.
+
+## Replacement cost (existing 2026 restump bands; no hardware-store block rate)
+
+House replacement is restumping: $500–$1,000+ per stump installed; $5,000–$15,000 partial; $20,000–$50,000 full restump. Supply-only StumpRite from $10.35 ex GST. If someone else pours a pad, $150–$400 per pad; strip $180–$320/m. Not a Bunnings block price.
+
+Easy Footings Pty Ltd ABN 44 689 644 175. Melbourne metro, Geelong, Ballarat, Bendigo, Mornington Peninsula, Gippsland, Yarra Ranges, Sunbury, Macedon. Phone 0419 994 555. Contact: https://easyfootings.com.au/#contact
 
 ---
 
