@@ -15,13 +15,20 @@
   <!-- Blog index -->
   <url>
     <loc>https://easyfootings.com.au/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/" />
   </url>
 
   <!-- Blog articles -->
+  <url>
+    <loc>https://easyfootings.com.au/blog/concrete-footing-blocks-australia.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://easyfootings.com.au/blog/concrete-footing-blocks-australia.html" />
+  </url>
   <url>
     <loc>https://easyfootings.com.au/blog/brick-pier-footings-victoria.html</loc>
     <lastmod>2026-09-01</lastmod>
